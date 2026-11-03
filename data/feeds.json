@@ -1,22 +1,64 @@
 {
- "stand": "2026-11-03T12:24:53.273Z",
+ "stand": "2026-11-03T19:44:19.179Z",
  "news": [
   {
-   "dach": "Unfallflucht in Mönchengladbach-Windberg",
-   "titel": "17-jährige Radfahrerin stößt mit E-Scooter-Fahrer zusammen",
-   "zeit": "2026-11-03T11:50:55.000Z",
+   "dach": "Gladbachs Personal-Update",
+   "titel": "Wieder schlechte Nachrichten – für Blessin ist es „ärgerlich“",
+   "zeit": "2026-11-03T18:22:00.000Z",
+   "quelle": "Borussia"
+  },
+  {
+   "dach": "Nach zwei erfolglosen Versuchen",
+   "titel": "Geht die Leihe in seine Heimat für Gladbach-Stürmer Cvancara bislang auf?",
+   "zeit": "2026-11-03T18:01:19.000Z",
+   "quelle": "Borussia"
+  },
+  {
+   "dach": "Breite Straße in Mönchengladbach",
+   "titel": "Bus stößt an Kreuzung mit Auto zusammen",
+   "zeit": "2026-11-03T17:15:54.000Z",
    "quelle": "Mönchengladbach"
   },
   {
-   "dach": "Montagmorgen in Mönchengladbach",
-   "titel": "Mehrere Unfälle auf der A61 und im Stadtgebiet",
-   "zeit": "2026-11-03T11:01:45.000Z",
+   "dach": "Am Alten Markt in Mönchengladbach",
+   "titel": "Wirte beklagen aggressives Betteln –„Personen klauen den Gästen Essen vom Teller“",
+   "zeit": "2026-11-03T16:30:00.000Z",
    "quelle": "Mönchengladbach"
   },
   {
    "dach": "Altersvorsorge bei Selbstständigen",
    "titel": "Ehemaliger Gastwirt mit 109 Euro Rente erhält keine Grundsicherung",
-   "zeit": "2026-11-03T11:00:00.000Z",
+   "zeit": "2026-11-03T16:25:00.000Z",
+   "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "In ehemaligen Drucker-Hallen",
+   "titel": "Neuwerk hat einen neuen Padelpark – und der soll noch weiter wachsen",
+   "zeit": "2026-11-03T16:20:00.000Z",
+   "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "Bauprojekt in Mönchengladbach",
+   "titel": "Hier entsteht ein neues Wohnquartier – Interessierte können sich bald melden",
+   "zeit": "2026-11-03T16:15:00.000Z",
+   "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "Comedy-Format",
+   "titel": "Nightwash kommt nach Mönchengladbach",
+   "zeit": "2026-11-03T16:00:00.000Z",
+   "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "Atakan Küçük",
+   "titel": "Gladbacher krönt sich zum MMA-Europameister - und träumt vom großen Wurf",
+   "zeit": "2026-11-03T16:00:00.000Z",
+   "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "Speicker Straße in Mönchengladbach",
+   "titel": "69 Jahre alte Trauerweide vor dem Leonardo Hotel gefällt",
+   "zeit": "2026-11-03T14:53:18.000Z",
    "quelle": "Mönchengladbach"
   },
   {
@@ -26,40 +68,10 @@
    "quelle": "Borussia"
   },
   {
-   "dach": "Logistikzentrum an der A61",
-   "titel": "Feuer bricht bei Zalando in Mönchengladbach aus",
-   "zeit": "2026-11-03T09:19:27.000Z",
-   "quelle": "Mönchengladbach"
-  },
-  {
-   "dach": "Statistiken für Mönchengladbach",
-   "titel": "Arbeitslosigkeit stagniert – immer weniger neue Stellen",
-   "zeit": "2026-11-03T06:17:00.000Z",
-   "quelle": "Mönchengladbach"
-  },
-  {
-   "dach": "Am Alten Markt in Mönchengladbach",
-   "titel": "Wirte beklagen aggressives Betteln –„Personen klauen den Gästen Essen vom Teller“",
-   "zeit": "2026-11-03T05:17:00.000Z",
-   "quelle": "Mönchengladbach"
-  },
-  {
    "dach": "Trotz der ersten vier Punkte",
    "titel": "Der Spielplan hält den Druck auf Borussia unvermindert hoch",
    "zeit": "2026-11-03T05:08:00.000Z",
    "quelle": "Borussia"
-  },
-  {
-   "dach": "Wohin mit den Blättern?",
-   "titel": "So werden Mönchengladbacher ihr Laub los",
-   "zeit": "2026-11-03T04:17:00.000Z",
-   "quelle": "Mönchengladbach"
-  },
-  {
-   "dach": "In ehemaligen Drucker-Hallen",
-   "titel": "Neuwerk hat einen neuen Padelpark – und der soll noch weiter wachsen",
-   "zeit": "2026-11-03T04:17:00.000Z",
-   "quelle": "Mönchengladbach"
   },
   {
    "dach": "Gegentor-Schnitt geht runter",
@@ -83,18 +95,6 @@
    "dach": "DFB-Pokal",
    "titel": "Gladbach trifft im Achtelfinale auf Zweitligist Darmstadt 98",
    "zeit": "2026-11-01T18:29:20.000Z",
-   "quelle": "Borussia"
-  },
-  {
-   "dach": "Auslosung am Sonntagabend",
-   "titel": "Auf diese Teams kann Gladbach im Achtelfinale des DFB-Pokals treffen",
-   "zeit": "2026-11-01T15:30:00.000Z",
-   "quelle": "Borussia"
-  },
-  {
-   "dach": "„Brutal eklige Phase“",
-   "titel": "Castrop teilt Gedanken über sein Comeback und Borussias Entwicklung",
-   "zeit": "2026-11-01T12:40:57.000Z",
    "quelle": "Borussia"
   }
  ]
