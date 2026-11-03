@@ -1,0 +1,218 @@
+<!doctype html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>ESYON Gladbach Live</title>
+<meta name="description" content="Digital-Signage-Szene: ESYON-Büro und Borussia-Park in Mönchengladbach, isometrisch, live mit Wetter, Tageslicht, Borussia-Ergebnis und RP-Nachrichten.">
+<link rel="icon" href="assets/ESY-signet-4c.svg">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@600;700;800;900&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<script type="importmap">
+{ "imports": {
+  "three": "https://cdn.jsdelivr.net/npm/three@0.170.0/build/three.module.js",
+  "three/addons/": "https://cdn.jsdelivr.net/npm/three@0.170.0/examples/jsm/"
+} }
+</script>
+<style>
+  :root {
+    --petrol: #1b3336; --teal: #157e77; --tuerkis: #42b8b4; --gelb: #efcf41; --koralle: #e8604c;
+    --panel: rgba(14, 30, 33, .72); --rand: rgba(255, 255, 255, .09); --text: #f4f7f7; --leise: rgba(226, 238, 238, .72);
+    --gruen: #2bb162;
+    --display: 'Big Shoulders Display', 'Arial Narrow', sans-serif;
+    --body: Inter, Arial, sans-serif;
+  }
+  /* 1rem = 16px bei 1920×1080, skaliert mit jedem Bildschirm */
+  html { font-size: min(0.8333vw, 1.4815vh); }
+  html, body { margin: 0; height: 100%; overflow: hidden; background: #0d1a1c; cursor: none; }
+  body { font-family: var(--body); color: var(--text); -webkit-font-smoothing: antialiased; }
+  #szene, #szene canvas { position: fixed; inset: 0; width: 100vw; height: 100vh; display: block; }
+  .ebene { position: fixed; inset: 0; pointer-events: none; }
+
+  .panel {
+    position: absolute; background: var(--panel); border: 1px solid var(--rand); border-radius: 1.5rem;
+    backdrop-filter: blur(14px) saturate(1.2); -webkit-backdrop-filter: blur(14px) saturate(1.2);
+    box-shadow: 0 1.25rem 3rem rgba(0, 0, 0, .28);
+  }
+  .kicker { font: 600 .95rem/1 var(--body); letter-spacing: .14em; text-transform: uppercase; color: var(--tuerkis); }
+
+  /* ---------- Uhr */
+  #borussia, #buero { display: none !important; }  /* ausgeblendet: öffentliche Fassung */
+  #uhr { left: 2.5rem; top: 2.25rem; padding: 1.6rem 2rem 1.5rem; min-width: 25rem; }
+  #uhr .kopf { display: flex; align-items: center; gap: .9rem; }
+  #uhr .kopf img { height: 1.7rem; }
+  #uhr .kopf .ort { font: 500 .95rem/1.2 var(--body); color: var(--leise); border-left: 1px solid var(--rand); padding-left: .9rem; }
+  #zeitzeile { display: flex; align-items: flex-start; margin-top: .7rem; }
+  #zeit { font: 800 8.4rem/0.86 var(--display); letter-spacing: -.01em; font-variant-numeric: tabular-nums; }
+  #sek { font: 700 2.2rem/1 var(--display); color: var(--tuerkis); margin: .5rem 0 0 .6rem; font-variant-numeric: tabular-nums; width: 2.4rem; }
+  #datum { font: 600 1.5rem/1.2 var(--body); margin-top: .6rem; }
+
+  /* ---------- Wetter */
+  #wetter { right: 2.5rem; top: 2.25rem; padding: 1.5rem 1.9rem 1.4rem; width: 31rem; }
+  #w-haupt { display: grid; grid-template-columns: auto 1fr; align-items: center; gap: .2rem 1.2rem; margin-top: .6rem; }
+  #w-icon .ic { width: 5.6rem; height: 5.6rem; fill: none; stroke: var(--text); stroke-width: 2.4; }
+  #w-icon .ic circle, #w-icon .ic path { fill: rgba(255,255,255,.08); }
+  #w-temp { font: 800 6.4rem/0.9 var(--display); }
+  #w-text { font: 700 1.55rem/1.2 var(--body); }
+  #w-minmax { font: 500 1.1rem/1.2 var(--body); color: var(--leise); }
+  #w-detail { font: 500 1.05rem/1.4 var(--body); color: var(--leise); margin-top: .7rem; }
+  #w-detail i { display: inline-block; width: .3rem; height: .3rem; border-radius: 50%; background: var(--tuerkis); margin: 0 .45rem .2rem; }
+  #w-stunden { display: grid; grid-template-columns: repeat(4, 1fr); gap: .5rem; margin-top: 1rem; padding-top: 1rem; border-top: 1px solid var(--rand); }
+  #w-stunden div { display: grid; justify-items: center; gap: .15rem; font: 500 .95rem/1.2 var(--body); color: var(--leise); }
+  #w-stunden .ic { width: 2.3rem; height: 2.3rem; fill: none; stroke: var(--text); stroke-width: 2.6; }
+  #w-stunden b { font: 700 1.6rem/1 var(--display); color: var(--text); }
+  #w-stunden em { font-style: normal; font-size: .85rem; color: var(--tuerkis); }
+  #sonne { margin-top: 1rem; padding-top: .9rem; border-top: 1px solid var(--rand); }
+  #sonne svg { width: 100%; height: 4.6rem; overflow: visible; }
+  #sonne .zeiten { display: flex; justify-content: space-between; font: 600 1.05rem/1 var(--body); margin-top: .2rem; }
+  #sonne .zeiten span { color: var(--leise); font-weight: 500; }
+  #s-dauer { text-align: center; font: 500 .9rem/1 var(--body); color: var(--leise); margin-top: -.9rem; }
+  #s-punkt { fill: var(--gelb); filter: drop-shadow(0 0 6px rgba(239,207,65,.9)); transition: cx 1s, cy 1s; }
+  #s-punkt.unter { fill: #8fa3c7; filter: none; }
+  #w-alt { font-size: .8rem; color: var(--koralle); margin-top: .5rem; }
+
+  /* ---------- Borussia */
+  #borussia { left: 2.5rem; bottom: 6.6rem; padding: 1.4rem 1.8rem 1.4rem; width: 32rem; overflow: hidden; }
+  #borussia::before { content: ''; position: absolute; inset: 0 0 auto 0; height: .4rem;
+    background: linear-gradient(90deg, #111 0 33%, #fff 33% 66%, var(--gruen) 66%); opacity: .9; }
+  #borussia .zeile { display: flex; justify-content: space-between; align-items: baseline; }
+  #b-datum { font: 500 1rem/1 var(--body); color: var(--leise); }
+  #b-score { display: grid; grid-template-columns: minmax(0,1fr) auto minmax(0,1fr); align-items: center; gap: 1rem; margin: .9rem 0 .5rem; }
+  #b-score .team { font: 800 2.15rem/1 var(--display); min-width: 0; overflow: hidden; text-overflow: ellipsis; letter-spacing: .02em; text-transform: uppercase; color: var(--leise); }
+  #b-score .team.wir { color: var(--text); }
+  #b-heim { text-align: right; }
+  #b-tore { font: 900 5.6rem/0.9 var(--display); font-variant-numeric: tabular-nums; padding: .3rem 1.1rem .1rem; background: rgba(0,0,0,.35); border-radius: 1rem; }
+  #b-tore span { color: var(--gruen); margin: 0 .15rem; }
+  #b-mitte { display: flex; justify-content: space-between; align-items: center; margin-top: .5rem; }
+  #b-erg { font: 700 1rem/1 var(--body); padding: .4rem .75rem; border-radius: 99px; background: rgba(255,255,255,.12); }
+  #b-erg[data-e="S"] { background: var(--gruen); } #b-erg[data-e="N"] { background: var(--koralle); }
+  #b-form { display: flex; gap: .3rem; }
+  #b-form i { font: 700 .8rem/1.7rem var(--body); font-style: normal; width: 1.7rem; text-align: center; border-radius: .45rem; background: rgba(255,255,255,.14); }
+  #b-form i[data-e="S"] { background: var(--gruen); } #b-form i[data-e="N"] { background: var(--koralle); }
+  #b-platz { font: 500 1rem/1 var(--body); color: var(--leise); margin-top: .9rem; }
+  #b-next { font: 600 1.1rem/1.35 var(--body); margin-top: .9rem; padding-top: .9rem; border-top: 1px solid var(--rand); }
+  #b-next span { display: block; font: 600 .8rem/1 var(--body); letter-spacing: .12em; text-transform: uppercase; color: var(--tuerkis); margin-bottom: .35rem; }
+  #b-next em { font-style: normal; font-size: .8rem; color: var(--petrol); background: var(--gelb); padding: .15rem .45rem; border-radius: .4rem; margin-left: .3rem; }
+  #b-live { margin-top: .8rem; font: 700 1rem/1.2 var(--body); color: #0b1416; background: var(--gelb); padding: .5rem .8rem; border-radius: .7rem; }
+
+  /* ---------- Büro */
+  #buero { right: 2.5rem; bottom: 6.6rem; padding: 1.4rem 1.8rem; width: 31rem; }
+  #buero-status { font: 700 1.6rem/1.2 var(--display); letter-spacing: .02em; margin: .55rem 0 1rem; font-size: 2rem; }
+  #team { list-style: none; margin: 0; padding: 0; display: flex; gap: 1.1rem; }
+  #team li { display: grid; justify-items: center; gap: .35rem; font: 600 .95rem/1 var(--body); color: var(--leise); opacity: .45; transition: opacity .6s; }
+  #team li.da { opacity: 1; color: var(--text); }
+  #team .av { position: relative; width: 3.2rem; height: 3.2rem; border-radius: 50%; display: grid; place-items: center; background: var(--c); font: 800 1.5rem/1 var(--display); color: #fff; box-shadow: inset 0 0 0 3px rgba(255,255,255,.18); }
+  #team .av svg { width: 1.7rem; fill: #3a2a1a; }
+  #team li.da .av::after { content: ''; position: absolute; right: -.1rem; bottom: -.1rem; width: .85rem; height: .85rem; border-radius: 50%; background: var(--gruen); box-shadow: 0 0 0 3px #10262a; }
+  #darts { margin-top: 1rem; padding-top: .9rem; border-top: 1px solid var(--rand); }
+  #darts .zeile { display: flex; justify-content: space-between; align-items: baseline; }
+  #d-leg { font: 600 .95rem/1 var(--body); color: var(--gelb); }
+  #d-tab { width: 100%; border-collapse: collapse; margin-top: .4rem; }
+  #d-tab td { font: 700 1.5rem/1.35 var(--display); padding: 0; }
+  #d-tab td:nth-child(2) { color: var(--gelb); font-size: .9rem; letter-spacing: .1em; }
+  #d-tab td:last-child { text-align: right; font-variant-numeric: tabular-nums; width: 4rem; }
+
+  /* ---------- Ticker */
+  #ticker { position: absolute; left: 0; right: 0; bottom: 0; height: 4.4rem; display: flex; align-items: center; background: rgba(9, 20, 22, .86);
+    border-top: 1px solid var(--rand); backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px); overflow: hidden; }
+  #ticker .label { flex: none; height: 100%; display: flex; align-items: center; gap: .7rem; padding: 0 1.6rem 0 2.5rem; background: #fff; color: #0b1416; font: 800 1.6rem/1 var(--display); letter-spacing: .03em; z-index: 1; }
+  #ticker .label small { font: 700 .8rem/1 var(--body); letter-spacing: .12em; color: var(--koralle); text-transform: uppercase; }
+  #ticker .lauf { flex: 1; overflow: hidden; mask-image: linear-gradient(90deg, transparent, #000 4%, #000 96%, transparent); }
+  #ticker-band { display: inline-flex; white-space: nowrap; animation: lauf 120s linear infinite; will-change: transform; }
+  .t-item { font: 600 1.45rem/1 var(--body); padding: 0 2.4rem; position: relative; }
+  .t-item::after { content: ''; position: absolute; right: -.25rem; top: 50%; width: .5rem; height: .5rem; margin-top: -.25rem; border-radius: 50%; background: var(--tuerkis); }
+  .t-item b { font: 700 .8rem/1 var(--body); letter-spacing: .12em; text-transform: uppercase; color: var(--tuerkis); margin-right: .8rem; vertical-align: .2rem; }
+  .t-item em { font-style: normal; color: var(--gelb); margin-right: .6rem; }
+  @keyframes lauf { to { transform: translateX(-50%); } }
+
+  /* ---------- Pins */
+  .pin { position: absolute; left: 0; top: 0; opacity: 0; transition: opacity .8s; }
+  .pin.an { opacity: 1; }
+  .pin > div { position: absolute; bottom: 0; left: 0; transform: translate(-50%, -1.2rem); white-space: nowrap; display: flex; align-items: center; gap: .6rem;
+    background: rgba(14,30,33,.85); border: 1px solid var(--rand); padding: .55rem .9rem .55rem .6rem; border-radius: 99px; font: 600 1.05rem/1 var(--body);
+    box-shadow: 0 .6rem 1.5rem rgba(0,0,0,.3); }
+  .pin > div::after { content: ''; position: absolute; left: 50%; bottom: -1.2rem; width: 2px; height: 1.2rem; background: rgba(255,255,255,.7); }
+  .pin img { height: 1.4rem; }
+  .pin .punkt { width: .7rem; height: .7rem; border-radius: 50%; background: var(--gruen); box-shadow: 0 0 0 .3rem rgba(43,177,98,.25); }
+  .pin small { color: var(--leise); font-weight: 500; }
+
+  /* Einblenden */
+  .panel, #ticker { animation: rein .9s cubic-bezier(.2,.8,.2,1) both; }
+  #wetter { animation-delay: .12s; } #borussia { animation-delay: .24s; } #buero { animation-delay: .36s; } #ticker { animation-delay: .5s; }
+  @keyframes rein { from { opacity: 0; transform: translateY(1rem); } }
+  @media (prefers-reduced-motion: reduce) { #ticker-band { animation-duration: 600s !important; } .panel, #ticker { animation: none; } }
+  [hidden] { display: none !important; }
+
+  #lade { position: fixed; inset: 0; display: grid; place-items: center; background: #0d1a1c; color: var(--leise); font: 600 1.2rem var(--body); transition: opacity 1.2s; z-index: 5; }
+  #lade.weg { opacity: 0; pointer-events: none; }
+  #lade img { height: 3rem; display: block; margin: 0 auto 1rem; }
+  #quelle { position: fixed; right: 1rem; bottom: 4.9rem; font: 500 .8rem/1 var(--body); color: rgba(255,255,255,.55); text-shadow: 0 1px 2px rgba(0,0,0,.6); }
+</style>
+</head>
+<body>
+<div id="szene" aria-hidden="true"></div>
+
+<div class="ebene">
+  <div id="pin-buero" class="pin"><div><img src="assets/ESY-signet-4c.svg" alt="">ESYON <small>Helmut-Grashoff-Str. 20</small></div></div>
+  <div id="pin-stadion" class="pin"><div><span class="punkt"></span>ista-Borussia-Park</div></div>
+
+  <section id="uhr" class="panel" aria-label="Uhrzeit">
+    <div class="kopf"><img src="assets/ESY-Logo-4c-white.svg" alt="ESYON"><span class="ort">Mönchengladbach<br>Nordpark</span></div>
+    <div id="zeitzeile"><div id="zeit">--:--</div><div id="sek">--</div></div>
+    <div id="datum"></div>
+  </section>
+
+  <section id="wetter" class="panel" aria-label="Wetter">
+    <div class="kicker">Wetter am Borussia-Park</div>
+    <div id="w-haupt">
+      <div id="w-icon"></div>
+      <div><div id="w-temp">–°</div><div id="w-text">lädt …</div><div id="w-minmax"></div></div>
+    </div>
+    <div id="w-detail"></div>
+    <div id="w-stunden"></div>
+    <div id="sonne">
+      <svg viewBox="0 0 200 64" preserveAspectRatio="none">
+        <line x1="0" y1="58" x2="200" y2="58" stroke="rgba(255,255,255,.18)" stroke-width="1"/>
+        <path d="M10 58 Q100 -34 190 58" fill="none" stroke="rgba(255,255,255,.18)" stroke-width="1.5" stroke-dasharray="3 4"/>
+        <path id="s-weg" d="M10 58 Q100 -34 190 58" fill="none" stroke="#efcf41" stroke-width="2" stroke-dasharray="0 400"/>
+        <circle id="s-punkt" cx="10" cy="58" r="6"/>
+      </svg>
+      <div class="zeiten"><div><span>Aufgang</span> <b id="s-auf">–</b></div><div><span>Untergang</span> <b id="s-unter">–</b></div></div>
+      <div id="s-dauer"></div>
+    </div>
+    <div id="w-alt" hidden>Letzter bekannter Stand – keine Verbindung</div>
+  </section>
+
+  <section id="borussia" class="panel" aria-label="Borussia Mönchengladbach">
+    <div class="zeile"><div class="kicker" id="b-kopf">Borussia</div><div id="b-datum"></div></div>
+    <div id="b-score"><div class="team" id="b-heim">–</div><div id="b-tore">–</div><div class="team" id="b-gast">–</div></div>
+    <div id="b-mitte"><span id="b-erg">lädt …</span><span id="b-form"></span></div>
+    <div id="b-platz"></div>
+    <div id="b-next"></div>
+    <div id="b-live" hidden></div>
+  </section>
+
+  <section id="buero" class="panel" aria-label="Im Büro">
+    <div class="kicker">Gerade im Büro</div>
+    <div id="buero-status">–</div>
+    <ul id="team"></ul>
+    <div id="darts" hidden>
+      <div class="zeile"><div class="kicker">Mittagsdarts · 501</div><div id="d-leg"></div></div>
+      <table id="d-tab"></table>
+    </div>
+  </section>
+
+  <div id="ticker" hidden><div class="label">RP <small>Gladbach</small></div><div class="lauf"><div id="ticker-band"></div></div></div>
+  <div id="quelle">Karte © OpenStreetMap-Mitwirkende · Wetter Open-Meteo · Daten OpenLigaDB · Nachrichten RP Online</div>
+</div>
+
+<div id="lade"><div><img src="assets/ESY-Logo-4c-white.svg" alt="">Gladbach wird gebaut …</div></div>
+
+<script type="module">
+  import('./src/main.js')
+    .then(() => setTimeout(() => document.getElementById('lade').classList.add('weg'), 600))
+    .catch((e) => { document.querySelector('#lade div').append(Object.assign(document.createElement('pre'), { textContent: String(e.stack || e) })); setTimeout(() => location.reload(), 60000); });
+</script>
+</body>
+</html>
