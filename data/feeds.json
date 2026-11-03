@@ -1,6 +1,30 @@
 {
- "stand": "2026-11-03T10:17:55.830Z",
+ "stand": "2026-11-03T12:24:53.273Z",
  "news": [
+  {
+   "dach": "Unfallflucht in Mönchengladbach-Windberg",
+   "titel": "17-jährige Radfahrerin stößt mit E-Scooter-Fahrer zusammen",
+   "zeit": "2026-11-03T11:50:55.000Z",
+   "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "Montagmorgen in Mönchengladbach",
+   "titel": "Mehrere Unfälle auf der A61 und im Stadtgebiet",
+   "zeit": "2026-11-03T11:01:45.000Z",
+   "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "Altersvorsorge bei Selbstständigen",
+   "titel": "Ehemaliger Gastwirt mit 109 Euro Rente erhält keine Grundsicherung",
+   "zeit": "2026-11-03T11:00:00.000Z",
+   "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "Turnier in Saudi-Arabien",
+   "titel": "Borussia profitiert enorm von der Verlegung des Asien-Cups",
+   "zeit": "2026-11-03T10:01:00.000Z",
+   "quelle": "Borussia"
+  },
   {
    "dach": "Logistikzentrum an der A61",
    "titel": "Feuer bricht bei Zalando in Mönchengladbach aus",
@@ -38,28 +62,10 @@
    "quelle": "Mönchengladbach"
   },
   {
-   "dach": "Wirtschaft in Mönchengladbach",
-   "titel": "Knappes Angebot treibt Mieten für moderne Hallen nach oben",
-   "zeit": "2026-11-03T04:03:00.000Z",
-   "quelle": "Mönchengladbach"
-  },
-  {
-   "dach": "Interview  Renate Harnacke",
-   "titel": "„Wir haben zunehmend Eltern, die sich bei der Erziehung unsicher sind“",
-   "zeit": "2026-11-02T16:29:00.000Z",
-   "quelle": "Mönchengladbach"
-  },
-  {
    "dach": "Gegentor-Schnitt geht runter",
    "titel": "Unter Blessin haben sich wichtige Details in Borussias Defensive geändert",
    "zeit": "2026-11-02T16:07:00.000Z",
    "quelle": "Borussia"
-  },
-  {
-   "dach": "In Mönchengladbach",
-   "titel": "Die Weihnachtsmärkte werden aufgebaut",
-   "zeit": "2026-11-02T16:02:00.000Z",
-   "quelle": "Mönchengladbach"
   },
   {
    "dach": "Fohlenfutter-Podcast",
@@ -89,12 +95,6 @@
    "dach": "„Brutal eklige Phase“",
    "titel": "Castrop teilt Gedanken über sein Comeback und Borussias Entwicklung",
    "zeit": "2026-11-01T12:40:57.000Z",
-   "quelle": "Borussia"
-  },
-  {
-   "dach": "Erfolg gegen Hilden",
-   "titel": "Borussia-Talent Uwakhonye baut beim Sieg der U23 seine Torserie aus",
-   "zeit": "2026-11-01T10:18:16.000Z",
    "quelle": "Borussia"
   }
  ]
