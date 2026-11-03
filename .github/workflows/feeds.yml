@@ -1,0 +1,25 @@
+name: RP-Schlagzeilen aktualisieren
+
+on:
+  schedule:
+    - cron: '*/30 4-21 * * *'   # alle 30 Minuten, 5–23 Uhr deutscher Zeit
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  feeds:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - run: node tools/feeds.mjs
+      - name: Änderungen committen
+        run: |
+          git config user.name "signage-bot"
+          git config user.email "signage-bot@users.noreply.github.com"
+          git add data/feeds.json
+          git diff --cached --quiet || (git commit -m "Schlagzeilen aktualisiert" && git push)
