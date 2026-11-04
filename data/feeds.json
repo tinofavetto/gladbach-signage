@@ -1,65 +1,71 @@
 {
- "stand": "2026-11-03T19:44:19.179Z",
+ "stand": "2026-11-04T11:58:31.059Z",
  "news": [
   {
-   "dach": "Gladbachs Personal-Update",
-   "titel": "Wieder schlechte Nachrichten – für Blessin ist es „ärgerlich“",
-   "zeit": "2026-11-03T18:22:00.000Z",
-   "quelle": "Borussia"
-  },
-  {
-   "dach": "Nach zwei erfolglosen Versuchen",
-   "titel": "Geht die Leihe in seine Heimat für Gladbach-Stürmer Cvancara bislang auf?",
-   "zeit": "2026-11-03T18:01:19.000Z",
-   "quelle": "Borussia"
-  },
-  {
-   "dach": "Breite Straße in Mönchengladbach",
-   "titel": "Bus stößt an Kreuzung mit Auto zusammen",
-   "zeit": "2026-11-03T17:15:54.000Z",
-   "quelle": "Mönchengladbach"
-  },
-  {
-   "dach": "Am Alten Markt in Mönchengladbach",
-   "titel": "Wirte beklagen aggressives Betteln –„Personen klauen den Gästen Essen vom Teller“",
-   "zeit": "2026-11-03T16:30:00.000Z",
-   "quelle": "Mönchengladbach"
-  },
-  {
-   "dach": "Altersvorsorge bei Selbstständigen",
-   "titel": "Ehemaliger Gastwirt mit 109 Euro Rente erhält keine Grundsicherung",
-   "zeit": "2026-11-03T16:25:00.000Z",
-   "quelle": "Mönchengladbach"
-  },
-  {
-   "dach": "In ehemaligen Drucker-Hallen",
-   "titel": "Neuwerk hat einen neuen Padelpark – und der soll noch weiter wachsen",
-   "zeit": "2026-11-03T16:20:00.000Z",
-   "quelle": "Mönchengladbach"
-  },
-  {
-   "dach": "Bauprojekt in Mönchengladbach",
-   "titel": "Hier entsteht ein neues Wohnquartier – Interessierte können sich bald melden",
-   "zeit": "2026-11-03T16:15:00.000Z",
-   "quelle": "Mönchengladbach"
-  },
-  {
-   "dach": "Comedy-Format",
-   "titel": "Nightwash kommt nach Mönchengladbach",
-   "zeit": "2026-11-03T16:00:00.000Z",
+   "dach": "Polizei Mönchengladbach sucht Beteiligte",
+   "titel": "Männer werfen Böller aus dem Auto – auf Fahrzeuge und Passanten",
+   "zeit": "2026-11-04T11:53:56.000Z",
    "quelle": "Mönchengladbach"
   },
   {
    "dach": "Atakan Küçük",
    "titel": "Gladbacher krönt sich zum MMA-Europameister - und träumt vom großen Wurf",
-   "zeit": "2026-11-03T16:00:00.000Z",
+   "zeit": "2026-11-04T11:52:00.000Z",
    "quelle": "Mönchengladbach"
   },
   {
-   "dach": "Speicker Straße in Mönchengladbach",
-   "titel": "69 Jahre alte Trauerweide vor dem Leonardo Hotel gefällt",
-   "zeit": "2026-11-03T14:53:18.000Z",
+   "dach": "Näher an Lidberg herangerückt",
+   "titel": "Borussias Machino hat den nötigen Schritt nach vorne gemacht",
+   "zeit": "2026-11-04T11:39:26.000Z",
+   "quelle": "Borussia"
+  },
+  {
+   "dach": "Am Alten Markt in Mönchengladbach",
+   "titel": "Wirte beklagen aggressives Betteln –„Personen klauen den Gästen Essen vom Teller“",
+   "zeit": "2026-11-04T10:04:00.000Z",
    "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "Altersvorsorge bei Selbstständigen",
+   "titel": "Ehemaliger Gastwirt mit 109 Euro Rente erhält keine Grundsicherung",
+   "zeit": "2026-11-04T09:54:00.000Z",
+   "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "Nach zwei erfolglosen Versuchen",
+   "titel": "Geht die Leihe in seine Heimat für Gladbach-Stürmer Cvancara bislang auf?",
+   "zeit": "2026-11-04T06:00:00.000Z",
+   "quelle": "Borussia"
+  },
+  {
+   "dach": "„Hypothek von neun Niederlagen“",
+   "titel": "Vom Aufstiegstraum ist Meer in akute Abstiegsgefahr geraten",
+   "zeit": "2026-11-04T05:30:00.000Z",
+   "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "Familienplanung in Mönchengladbach",
+   "titel": "„Ich empfehle jedem Vater, Elternzeit zu nehmen“",
+   "zeit": "2026-11-04T05:17:00.000Z",
+   "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "Herbstführung im Bresgespark in Mönchengladbach",
+   "titel": "Ein kleiner leuchtender Eisvogel stiehlt die Show",
+   "zeit": "2026-11-04T04:22:00.000Z",
+   "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "In Mönchengladbach",
+   "titel": "Mönche gestalten Sandmandala in der Citykirche",
+   "zeit": "2026-11-04T04:19:00.000Z",
+   "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "Gladbachs Personal-Update",
+   "titel": "Wieder schlechte Nachrichten – für Blessin ist es „ärgerlich“",
+   "zeit": "2026-11-03T18:22:00.000Z",
+   "quelle": "Borussia"
   },
   {
    "dach": "Turnier in Saudi-Arabien",
@@ -89,12 +95,6 @@
    "dach": "Nach „Rot“ gegen Paderborn",
    "titel": "Gladbachs Verteidiger Chiarodia erhält nächste Bewährungschance beim HSV",
    "zeit": "2026-11-02T05:00:00.000Z",
-   "quelle": "Borussia"
-  },
-  {
-   "dach": "DFB-Pokal",
-   "titel": "Gladbach trifft im Achtelfinale auf Zweitligist Darmstadt 98",
-   "zeit": "2026-11-01T18:29:20.000Z",
    "quelle": "Borussia"
   }
  ]
