@@ -1,52 +1,64 @@
 {
- "stand": "2026-11-05T12:04:43.927Z",
+ "stand": "2026-11-05T20:13:45.921Z",
  "news": [
   {
-   "dach": "Mönchengladbach, Viersen, Erkelenz",
-   "titel": "Diese Highlights bietet der Regionalsport am Wochenende",
-   "zeit": "2026-11-05T11:57:00.000Z",
+   "dach": "Nach Verkehrsunfall",
+   "titel": "Sperrung auf der Gladbacher Straße in Mönchengladbach",
+   "zeit": "2026-11-05T19:41:00.000Z",
    "quelle": "Mönchengladbach"
   },
   {
-   "dach": "In Mönchengladbach",
-   "titel": "Blauer VW Amarok wurde gestohlen",
-   "zeit": "2026-11-05T11:51:54.000Z",
+   "dach": "Ex-Militärareal in Mönchengladbach",
+   "titel": "Diskussion um geplantes Abschiebegefängnis im JHQ",
+   "zeit": "2026-11-05T16:55:00.000Z",
    "quelle": "Mönchengladbach"
   },
   {
-   "dach": "Borussias Youngster",
-   "titel": "Wael Mohya erstmals für die deutsche A-Nationalmannschaft nominiert",
-   "zeit": "2026-11-05T11:10:02.000Z",
+   "dach": "Ab dem 11.11.",
+   "titel": "So jeck startet der Karneval 2026 in Mönchengladbach",
+   "zeit": "2026-11-05T16:46:19.000Z",
+   "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "Verkehrssituation in Heyden",
+   "titel": "Radstreifen Berliner Straße ist weiter ein Zankapfel",
+   "zeit": "2026-11-05T16:30:00.000Z",
+   "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "Mehr als ein Fisch",
+   "titel": "Als Killerwels Kuno vor 25 Jahren in Mönchengladbach sein Unwesen trieb",
+   "zeit": "2026-11-05T16:25:00.000Z",
+   "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "Feuerwehr-Einsatz in Mönchengladbach",
+   "titel": "Hit-Getränkemarkt nach Brand auf dem Dach evakuiert",
+   "zeit": "2026-11-05T14:59:00.000Z",
+   "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "Zwei Rückkehrer, ein Fragezeichen",
+   "titel": "Das sind die Herausforderungen für Blessin und Borussia in Hamburg",
+   "zeit": "2026-11-05T14:45:00.000Z",
    "quelle": "Borussia"
   },
   {
-   "dach": "Veranstaltung vom Verein Tacheles",
-   "titel": "Burak Yilmaz spricht in Mönchengladbach über Erinnerungskultur und Bildungsarbeit",
-   "zeit": "2026-11-05T11:00:00.000Z",
+   "dach": "„Ungeteilte Freude“",
+   "titel": "Borussias Mohya erstmals bei der A-Nationalmannschaft – So reagierte Blessin",
+   "zeit": "2026-11-05T13:19:00.000Z",
+   "quelle": "Borussia"
+  },
+  {
+   "dach": "Innenstadt von Mönchengladbach-Rheydt",
+   "titel": "Juwelier-Inhaber schlägt Mann in die Flucht, der ihn ausrauben wollte",
+   "zeit": "2026-11-05T13:00:24.000Z",
    "quelle": "Mönchengladbach"
   },
   {
-   "dach": "Comedy in Mönchengladbach",
-   "titel": "Christoph Maria Herbst und Moritz Netenjakob mit Satire im Theater",
-   "zeit": "2026-11-05T11:00:00.000Z",
-   "quelle": "Mönchengladbach"
-  },
-  {
-   "dach": "Modeunternehmen aus Mönchengladbach",
-   "titel": "Niederländischer Investor steigt bei Fynch-Hatton ein",
-   "zeit": "2026-11-05T10:59:00.000Z",
-   "quelle": "Mönchengladbach"
-  },
-  {
-   "dach": "Polizei eingeschaltet",
-   "titel": "Schlag gegen Zuschauerin? Vorfall in Korschenbroich sorgt für Fragen",
-   "zeit": "2026-11-05T10:01:00.000Z",
-   "quelle": "Mönchengladbach"
-  },
-  {
-   "dach": "Am Alten Markt in Mönchengladbach",
-   "titel": "Wirte beklagen aggressives Betteln –„Personen klauen den Gästen Essen vom Teller“",
-   "zeit": "2026-11-05T09:55:00.000Z",
+   "dach": "Tischtennis Oberliga",
+   "titel": "Süchteln spielt oben mit – und hat eine Stärke",
+   "zeit": "2026-11-05T13:00:00.000Z",
    "quelle": "Mönchengladbach"
   },
   {
@@ -54,12 +66,6 @@
    "titel": "Gladbach spielt sonntags auf Schalke und am Samstagabend gegen Bayern",
    "zeit": "2026-11-05T09:18:00.000Z",
    "quelle": "Borussia"
-  },
-  {
-   "dach": "Altersvorsorge bei Selbstständigen",
-   "titel": "Nur 109 Euro Rente – aber ehemaliger Gastwirt erhält keine Grundsicherung",
-   "zeit": "2026-11-05T09:12:00.000Z",
-   "quelle": "Mönchengladbach"
   },
   {
    "dach": "„Mehrwert für ein Team“",
@@ -89,12 +95,6 @@
    "dach": "Nach zwei erfolglosen Versuchen",
    "titel": "Geht die Leihe in seine Heimat für Gladbach-Stürmer Cvancara bislang auf?",
    "zeit": "2026-11-04T06:00:00.000Z",
-   "quelle": "Borussia"
-  },
-  {
-   "dach": "Gladbachs Personal-Update",
-   "titel": "Wieder schlechte Nachrichten – für Blessin ist es „ärgerlich“",
-   "zeit": "2026-11-03T18:22:00.000Z",
    "quelle": "Borussia"
   }
  ]
