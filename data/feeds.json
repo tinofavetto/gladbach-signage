@@ -1,65 +1,83 @@
 {
- "stand": "2026-11-04T19:41:01.405Z",
+ "stand": "2026-11-05T12:04:43.927Z",
  "news": [
   {
-   "dach": "Kolumne Denkanstoß",
-   "titel": "Herbstzeit der Kirchen",
-   "zeit": "2026-11-04T17:26:37.000Z",
+   "dach": "Mönchengladbach, Viersen, Erkelenz",
+   "titel": "Diese Highlights bietet der Regionalsport am Wochenende",
+   "zeit": "2026-11-05T11:57:00.000Z",
    "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "In Mönchengladbach",
+   "titel": "Blauer VW Amarok wurde gestohlen",
+   "zeit": "2026-11-05T11:51:54.000Z",
+   "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "Borussias Youngster",
+   "titel": "Wael Mohya erstmals für die deutsche A-Nationalmannschaft nominiert",
+   "zeit": "2026-11-05T11:10:02.000Z",
+   "quelle": "Borussia"
+  },
+  {
+   "dach": "Veranstaltung vom Verein Tacheles",
+   "titel": "Burak Yilmaz spricht in Mönchengladbach über Erinnerungskultur und Bildungsarbeit",
+   "zeit": "2026-11-05T11:00:00.000Z",
+   "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "Comedy in Mönchengladbach",
+   "titel": "Christoph Maria Herbst und Moritz Netenjakob mit Satire im Theater",
+   "zeit": "2026-11-05T11:00:00.000Z",
+   "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "Modeunternehmen aus Mönchengladbach",
+   "titel": "Niederländischer Investor steigt bei Fynch-Hatton ein",
+   "zeit": "2026-11-05T10:59:00.000Z",
+   "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "Polizei eingeschaltet",
+   "titel": "Schlag gegen Zuschauerin? Vorfall in Korschenbroich sorgt für Fragen",
+   "zeit": "2026-11-05T10:01:00.000Z",
+   "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "Am Alten Markt in Mönchengladbach",
+   "titel": "Wirte beklagen aggressives Betteln –„Personen klauen den Gästen Essen vom Teller“",
+   "zeit": "2026-11-05T09:55:00.000Z",
+   "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "Nächste Ansetzungen in der Bundesliga fix",
+   "titel": "Gladbach spielt sonntags auf Schalke und am Samstagabend gegen Bayern",
+   "zeit": "2026-11-05T09:18:00.000Z",
+   "quelle": "Borussia"
+  },
+  {
+   "dach": "Altersvorsorge bei Selbstständigen",
+   "titel": "Nur 109 Euro Rente – aber ehemaliger Gastwirt erhält keine Grundsicherung",
+   "zeit": "2026-11-05T09:12:00.000Z",
+   "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "„Mehrwert für ein Team“",
+   "titel": "U23-Stürmer Uwakhonye macht Enache Freude",
+   "zeit": "2026-11-05T08:27:20.000Z",
+   "quelle": "Borussia"
+  },
+  {
+   "dach": "Liveticker zum Spiel",
+   "titel": "Borussia ist am Freitag beim Hamburger SV gefordert",
+   "zeit": "2026-11-05T08:13:00.000Z",
+   "quelle": "Borussia"
   },
   {
    "dach": "Umschalten klappt ",
    "titel": "Ist es auswärts leichter für Gladbach?",
    "zeit": "2026-11-04T17:26:00.000Z",
    "quelle": "Borussia"
-  },
-  {
-   "dach": "Modeunternehmen aus Mönchengladbach",
-   "titel": "Niederländischer Investor steigt bei Fynch-Hatton ein",
-   "zeit": "2026-11-04T16:18:39.000Z",
-   "quelle": "Mönchengladbach"
-  },
-  {
-   "dach": "Ausgehtipps für Mönchengladbach",
-   "titel": "Tödliches Theater und viel Musik – was die Kultur vom 5. bis zum 9. November bietet",
-   "zeit": "2026-11-04T16:05:00.000Z",
-   "quelle": "Mönchengladbach"
-  },
-  {
-   "dach": "„Eine Art Gruppenprojekt“",
-   "titel": "Raiders Odenkirchen kämpfen ohne Trainer um den Klassenerhalt",
-   "zeit": "2026-11-04T16:00:00.000Z",
-   "quelle": "Mönchengladbach"
-  },
-  {
-   "dach": "Mönchengladbacher Apotheker vor Gericht",
-   "titel": "Überraschende Wende – Angeklagter bringt unbekannten Tatverdächtigen ins Spiel",
-   "zeit": "2026-11-04T15:46:56.000Z",
-   "quelle": "Mönchengladbach"
-  },
-  {
-   "dach": "Gestohlener Wagen in Mönchengladbach",
-   "titel": "Diensthund „Union“ spürt einen mutmaßlichen Autodieb auf",
-   "zeit": "2026-11-04T15:39:08.000Z",
-   "quelle": "Mönchengladbach"
-  },
-  {
-   "dach": "Rauch über Mönchengladbach",
-   "titel": "Brand auf Oberdeck einer Garage",
-   "zeit": "2026-11-04T13:31:57.000Z",
-   "quelle": "Mönchengladbach"
-  },
-  {
-   "dach": "Ansetzung im DFB-Pokal fix",
-   "titel": "Gladbach empfängt den SV Darmstadt 98 am Dienstagabend",
-   "zeit": "2026-11-04T13:16:00.000Z",
-   "quelle": "Borussia"
-  },
-  {
-   "dach": "Auf Weideflächen in Mönchengladbach",
-   "titel": "19.000 Quadratmeter für neue Feuerwache mit Bildungszentrum",
-   "zeit": "2026-11-04T13:04:00.000Z",
-   "quelle": "Mönchengladbach"
   },
   {
    "dach": "Näher an Lidberg herangerückt",
@@ -77,24 +95,6 @@
    "dach": "Gladbachs Personal-Update",
    "titel": "Wieder schlechte Nachrichten – für Blessin ist es „ärgerlich“",
    "zeit": "2026-11-03T18:22:00.000Z",
-   "quelle": "Borussia"
-  },
-  {
-   "dach": "Turnier in Saudi-Arabien",
-   "titel": "Borussia profitiert enorm von der Verlegung des Asien-Cups",
-   "zeit": "2026-11-03T10:01:00.000Z",
-   "quelle": "Borussia"
-  },
-  {
-   "dach": "Trotz der ersten vier Punkte",
-   "titel": "Der Spielplan hält den Druck auf Borussia unvermindert hoch",
-   "zeit": "2026-11-03T05:08:00.000Z",
-   "quelle": "Borussia"
-  },
-  {
-   "dach": "Gegentor-Schnitt geht runter",
-   "titel": "Unter Blessin haben sich wichtige Details in Borussias Defensive geändert",
-   "zeit": "2026-11-02T16:07:00.000Z",
    "quelle": "Borussia"
   }
  ]
