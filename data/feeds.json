@@ -1,10 +1,22 @@
 {
- "stand": "2026-11-05T20:13:45.921Z",
+ "stand": "2026-11-06T01:04:30.595Z",
  "news": [
   {
-   "dach": "Nach Verkehrsunfall",
-   "titel": "Sperrung auf der Gladbacher Straße in Mönchengladbach",
-   "zeit": "2026-11-05T19:41:00.000Z",
+   "dach": "Netzwerktreffen der Rheinischen Post",
+   "titel": "Optimismus tanken bei „Mönchengladbach IN“",
+   "zeit": "2026-11-06T00:31:08.000Z",
+   "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "Großeinsatz in Holt",
+   "titel": "Zehn Verletzte nach Verkehrsunfall vor Feuerwache",
+   "zeit": "2026-11-05T23:35:00.000Z",
+   "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "Unfall in Mönchengladbach",
+   "titel": "„Massenanfall von Verletzten“ führt zu Sperrung auf der Aachener Straße",
+   "zeit": "2026-11-05T22:02:00.000Z",
    "quelle": "Mönchengladbach"
   },
   {
@@ -48,18 +60,6 @@
    "titel": "Borussias Mohya erstmals bei der A-Nationalmannschaft – So reagierte Blessin",
    "zeit": "2026-11-05T13:19:00.000Z",
    "quelle": "Borussia"
-  },
-  {
-   "dach": "Innenstadt von Mönchengladbach-Rheydt",
-   "titel": "Juwelier-Inhaber schlägt Mann in die Flucht, der ihn ausrauben wollte",
-   "zeit": "2026-11-05T13:00:24.000Z",
-   "quelle": "Mönchengladbach"
-  },
-  {
-   "dach": "Tischtennis Oberliga",
-   "titel": "Süchteln spielt oben mit – und hat eine Stärke",
-   "zeit": "2026-11-05T13:00:00.000Z",
-   "quelle": "Mönchengladbach"
   },
   {
    "dach": "Nächste Ansetzungen in der Bundesliga fix",
