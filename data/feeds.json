@@ -1,6 +1,42 @@
 {
- "stand": "2026-11-07T20:45:13.409Z",
+ "stand": "2026-11-08T11:11:38.288Z",
  "news": [
+  {
+   "dach": "Rheinderby gegen Köln II",
+   "titel": "Dank spätem Siegtreffer – Borussia-Frauen bauen Siegesserie weiter aus",
+   "zeit": "2026-11-08T10:26:27.000Z",
+   "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "Rheinderby gegen Köln II",
+   "titel": "Dank spätem Siegtreffer – Borussia-Frauen bauen Siegesserie weiter aus",
+   "zeit": "2026-11-08T10:26:27.000Z",
+   "quelle": "Borussia"
+  },
+  {
+   "dach": "Auseinandersetzung in Mönchengladbach",
+   "titel": "Zwei Männer mit zerbrochenen Glasflaschen verletzt",
+   "zeit": "2026-11-08T09:06:31.000Z",
+   "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "Streit in Café",
+   "titel": "Zwei Männer mit abgebrochenen Glasflaschen in Mönchengladbach verletzt",
+   "zeit": "2026-11-08T09:02:00.000Z",
+   "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "Bester Gladbacher Torschütze",
+   "titel": "Scally auf den Spuren von Brouwers – Die Gründe für seine Spitzenposition",
+   "zeit": "2026-11-08T08:27:00.000Z",
+   "quelle": "Borussia"
+  },
+  {
+   "dach": "Mönchengladbachs designiertes Prinzenpaar",
+   "titel": "„Dass wir zwei Männer sind, ist ein Politikum – ob wir es wollen oder nicht“",
+   "zeit": "2026-11-08T06:17:00.000Z",
+   "quelle": "Mönchengladbach"
+  },
   {
    "dach": "„Soll nie nach Durchhalteparolen klingen“",
    "titel": "Gladbach ohne Hoffnung im Abstiegskampf?",
@@ -50,30 +86,6 @@
    "quelle": "Mönchengladbach"
   },
   {
-   "dach": "In Mönchengladbach",
-   "titel": "Ehrenamtliche retten 163 Rehkitze – und zahlreiche Hasen und Entengelege",
-   "zeit": "2026-11-07T05:17:00.000Z",
-   "quelle": "Mönchengladbach"
-  },
-  {
-   "dach": "Neuer Chor in Mönchengladbach",
-   "titel": "„Singen macht mir wieder Spaß“",
-   "zeit": "2026-11-07T04:22:00.000Z",
-   "quelle": "Mönchengladbach"
-  },
-  {
-   "dach": "Jahrelanges Warten in Mönchengladbach",
-   "titel": "Neuer Edeka-Markt in Wickrath soll Ende 2027 eröffnen",
-   "zeit": "2026-11-07T04:09:00.000Z",
-   "quelle": "Mönchengladbach"
-  },
-  {
-   "dach": "Top-Auszubildende in Mönchengladbach",
-   "titel": "Zwei Spitzen-Azubis, die in ihrer Karriere durchstarten",
-   "zeit": "2026-11-07T04:03:00.000Z",
-   "quelle": "Mönchengladbach"
-  },
-  {
    "dach": "Borussia-Noten gegen den Hamburger SV",
    "titel": "Ein reaktionsschneller Batz reicht nicht – Itakuras fatale Fehlentscheidung",
    "zeit": "2026-11-06T21:38:02.000Z",
@@ -83,18 +95,6 @@
    "dach": "Nach Itakura-Platzverweis",
    "titel": "Borussia verpasst in Hamburg den nächsten Punktgewinn",
    "zeit": "2026-11-06T21:23:00.000Z",
-   "quelle": "Borussia"
-  },
-  {
-   "dach": "Liveticker zum Nachlesen",
-   "titel": "Schluss in Hamburg – Borussia verliert in Unterzahl beim HSV",
-   "zeit": "2026-11-06T21:23:00.000Z",
-   "quelle": "Borussia"
-  },
-  {
-   "dach": "Borussias U23 kontert gnadenlos",
-   "titel": "Drei Doppelpacks bei Gladbacher Kantersieg auf Schalke",
-   "zeit": "2026-11-06T15:44:00.000Z",
    "quelle": "Borussia"
   }
  ]
