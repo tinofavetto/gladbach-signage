@@ -1,6 +1,30 @@
 {
- "stand": "2026-11-08T17:12:54.430Z",
+ "stand": "2026-11-08T21:19:52.877Z",
  "news": [
+  {
+   "dach": "Großer Umzug in Mönchengladbach",
+   "titel": "Schaffrath-Martinszug mit Lichtermeer und glänzenden Kinderaugen",
+   "zeit": "2026-11-08T20:41:17.000Z",
+   "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "„Willensstärke hat mir gefallen“",
+   "titel": "ASV Süchteln feiert Kantersieg gegen harmloses Amern",
+   "zeit": "2026-11-08T18:16:57.000Z",
+   "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "Borussias Nicolas-Vertreter",
+   "titel": "Batz überzeugt trotz dreier Gegentore erneut und beschert Blessin eine weitere Aufgabe",
+   "zeit": "2026-11-08T17:10:45.000Z",
+   "quelle": "Borussia"
+  },
+  {
+   "dach": "„Waren tonangebend“",
+   "titel": "Doppelter Meyer – TuRa Brüggen fertigt den VfB Uerdingen souverän ab",
+   "zeit": "2026-11-08T17:06:33.000Z",
+   "quelle": "Mönchengladbach"
+  },
   {
    "dach": "Fohlenfutter-Podcast",
    "titel": "Was Gladbach Hoffnung macht, was sie trübt und wie es Mohyas Zukunft steht",
@@ -26,6 +50,12 @@
    "quelle": "Borussia"
   },
   {
+   "dach": "Singe, danze un' fiere in Mönchengladbach",
+   "titel": "Karnevalsparty mit Stimmungshits kurz vor Sessionsbeginn",
+   "zeit": "2026-11-08T13:48:00.000Z",
+   "quelle": "Mönchengladbach"
+  },
+  {
    "dach": "Ex-Militärareal in Mönchengladbach",
    "titel": "Diskussion um geplantes Abschiebegefängnis im JHQ",
    "zeit": "2026-11-08T13:26:00.000Z",
@@ -38,34 +68,10 @@
    "quelle": "Mönchengladbach"
   },
   {
-   "dach": "Am Mönchengladbacher Flughafen",
-   "titel": "Feuerwehr trainiert für Unglück mit vielen Verletzten",
-   "zeit": "2026-11-08T12:14:24.000Z",
-   "quelle": "Mönchengladbach"
-  },
-  {
-   "dach": "Rheinderby gegen Köln II",
-   "titel": "Dank spätem Siegtreffer – Borussia-Frauen bauen Serie weiter aus",
-   "zeit": "2026-11-08T10:26:27.000Z",
-   "quelle": "Mönchengladbach"
-  },
-  {
    "dach": "Rheinderby gegen Köln II",
    "titel": "Dank spätem Siegtreffer – Borussia-Frauen bauen Serie weiter aus",
    "zeit": "2026-11-08T10:26:27.000Z",
    "quelle": "Borussia"
-  },
-  {
-   "dach": "Auseinandersetzung in Mönchengladbach",
-   "titel": "Zwei Männer mit zerbrochenen Glasflaschen verletzt",
-   "zeit": "2026-11-08T09:06:31.000Z",
-   "quelle": "Mönchengladbach"
-  },
-  {
-   "dach": "Streit in Café",
-   "titel": "Zwei Männer mit abgebrochenen Glasflaschen in Mönchengladbach verletzt",
-   "zeit": "2026-11-08T09:02:00.000Z",
-   "quelle": "Mönchengladbach"
   },
   {
    "dach": "Bester Gladbacher Torschütze",
@@ -89,12 +95,6 @@
    "dach": "„Ein wichtiger Bestandteil des Klubs“",
    "titel": "Die Tränen der Mohyas, Schröders Mahnung und die Folgen der DFB-Nominierung",
    "zeit": "2026-11-07T10:46:00.000Z",
-   "quelle": "Borussia"
-  },
-  {
-   "dach": "„Dann guckst du blöd aus der Wäsche“",
-   "titel": "Wie Borussia-Coach Blessin sein Festhalten an Gelb-Rot-Sünder Itakura erklärte",
-   "zeit": "2026-11-07T08:16:00.000Z",
    "quelle": "Borussia"
   }
  ]
