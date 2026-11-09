@@ -1,17 +1,71 @@
 {
- "stand": "2026-11-09T12:43:36.131Z",
+ "stand": "2026-11-09T22:56:23.388Z",
  "news": [
   {
-   "dach": "Von Ehrenamtlern organisiert",
-   "titel": "Saturn, Raketen und Gespenster bei Odenkirchener Martinszug",
-   "zeit": "2026-11-09T11:55:28.000Z",
+   "dach": "Schröder muss kreativ werden",
+   "titel": "Ein Routinier für die Sechs könnte interessant sein",
+   "zeit": "2026-11-09T21:06:00.000Z",
+   "quelle": "Borussia"
+  },
+  {
+   "dach": "Konzert im Sparkassenpark",
+   "titel": "„Fall Out Boy“ kommt 2027 nach Mönchengladbach",
+   "zeit": "2026-11-09T18:55:00.000Z",
    "quelle": "Mönchengladbach"
   },
   {
-   "dach": "Gymnasium Am Geroweiher Mönchengladbach ",
-   "titel": "Das Unaussprechliche erzählen – szenische Installation zur Pogromnacht",
-   "zeit": "2026-11-09T11:03:00.000Z",
+   "dach": "In Mönchengladbach",
+   "titel": "34-jähriger Mann im Hauptbahnhof festgenommen",
+   "zeit": "2026-11-09T16:52:38.000Z",
    "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "1044 Tage Zwangspause",
+   "titel": "Ex-Borusse Beyer feiert Comeback nach fast drei Jahren",
+   "zeit": "2026-11-09T16:46:00.000Z",
+   "quelle": "Borussia"
+  },
+  {
+   "dach": "Hockeyleistungszentrum in Mönchengladbach",
+   "titel": "Gladbachs Vorzeige-Sportprojekt nimmt Formen an",
+   "zeit": "2026-11-09T16:30:00.000Z",
+   "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "Parkplatznot am Ordnungsamt in Mönchengladbach",
+   "titel": "„Die Parkplatzsituation ist von der Stadt nicht zu Ende gedacht“",
+   "zeit": "2026-11-09T16:25:00.000Z",
+   "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "Großer Umzug in Mönchengladbach",
+   "titel": "Schaffrath-Martinszug mit Lichtermeer und glänzenden Kinderaugen",
+   "zeit": "2026-11-09T16:20:00.000Z",
+   "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "Singe, danze un' fiere in Mönchengladbach",
+   "titel": "Karnevalsparty mit Stimmungshits kurz vor Sessionsbeginn",
+   "zeit": "2026-11-09T16:15:00.000Z",
+   "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "Wirtschaft in Mönchengladbach",
+   "titel": "Mit der Gründungswoche in die eigene Selbstständigkeit",
+   "zeit": "2026-11-09T16:00:00.000Z",
+   "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "Unfall in Mönchengladbach",
+   "titel": "Autofahrer flüchtete nach Unfall mit E-Scooterfahrer",
+   "zeit": "2026-11-09T15:47:43.000Z",
+   "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "„Das müssen wir einen Tick besser machen“",
+   "titel": "Blessins Aufbauplan, ein Test für Diks und Castrop und eine Kleindienst-Hoffnung",
+   "zeit": "2026-11-09T14:00:12.000Z",
+   "quelle": "Borussia"
   },
   {
    "dach": "„Wisst nicht, was mir das bedeutet“",
@@ -20,46 +74,10 @@
    "quelle": "Borussia"
   },
   {
-   "dach": "Doku über Hockey-WM 2026",
-   "titel": "Gladbacher WM-Helden kommen ins Kino",
-   "zeit": "2026-11-09T10:27:53.000Z",
-   "quelle": "Mönchengladbach"
-  },
-  {
-   "dach": "Parkplatznot am Ordnungsamt in Mönchengladbach",
-   "titel": "„Die Parkplatzsituation ist von der Stadt nicht zu Ende gedacht“",
-   "zeit": "2026-11-09T09:33:00.000Z",
-   "quelle": "Mönchengladbach"
-  },
-  {
    "dach": "Nur vier Punkte nach neun Spielen",
    "titel": "Gladbachs lange Mängelliste erschwert die Mission Klassenverbleib",
    "zeit": "2026-11-09T05:07:00.000Z",
    "quelle": "Borussia"
-  },
-  {
-   "dach": "Neue Halle eröffnet",
-   "titel": "„Gefühlt jeder spielt Padel“ – jetzt auch in Neuwerk",
-   "zeit": "2026-11-09T04:19:00.000Z",
-   "quelle": "Mönchengladbach"
-  },
-  {
-   "dach": "Konzert in Kirche in Mönchengladbach",
-   "titel": "„Hein und Klein“ lässt elektronische Beats wummern in St. Mariä Empfängnis",
-   "zeit": "2026-11-09T04:09:00.000Z",
-   "quelle": "Mönchengladbach"
-  },
-  {
-   "dach": "Start der Karnevalssession 2026/2027",
-   "titel": "11.11. in Mönchengladbach – das wird geboten",
-   "zeit": "2026-11-09T04:06:00.000Z",
-   "quelle": "Mönchengladbach"
-  },
-  {
-   "dach": "Großer Umzug in Mönchengladbach",
-   "titel": "Schaffrath-Martinszug mit Lichtermeer und glänzenden Kinderaugen",
-   "zeit": "2026-11-08T20:41:17.000Z",
-   "quelle": "Mönchengladbach"
   },
   {
    "dach": "Borussias Nicolas-Vertreter",
@@ -77,24 +95,6 @@
    "dach": "„Ich hoffe es für ihn“",
    "titel": "Effenberg contra Freund – Kommt Mohyas Nominierung durch Klopp zu früh?",
    "zeit": "2026-11-08T14:01:38.000Z",
-   "quelle": "Borussia"
-  },
-  {
-   "dach": "Rheinderby gegen Köln II",
-   "titel": "Dank spätem Siegtreffer – Borussia-Frauen bauen Serie weiter aus",
-   "zeit": "2026-11-08T10:26:27.000Z",
-   "quelle": "Borussia"
-  },
-  {
-   "dach": "Bester Gladbacher Torschütze",
-   "titel": "Scally auf den Spuren von Brouwers – Die Gründe für seine Spitzenposition",
-   "zeit": "2026-11-08T08:27:00.000Z",
-   "quelle": "Borussia"
-  },
-  {
-   "dach": "„Soll nie nach Durchhalteparolen klingen“",
-   "titel": "Gladbach ohne Hoffnung im Abstiegskampf?",
-   "zeit": "2026-11-07T19:15:00.000Z",
    "quelle": "Borussia"
   }
  ]
