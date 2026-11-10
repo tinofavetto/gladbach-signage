@@ -1,6 +1,48 @@
 {
- "stand": "2026-11-10T12:24:45.395Z",
+ "stand": "2026-11-10T19:56:54.295Z",
  "news": [
+  {
+   "dach": "Blessin, Mohya, Bonhof",
+   "titel": "Fan-Meinung zu den wichtigsten Borussia-Themen ist gefragt – jetzt mitmachen",
+   "zeit": "2026-11-10T16:48:30.000Z",
+   "quelle": "Borussia"
+  },
+  {
+   "dach": "Phänomen in Mönchengladbach",
+   "titel": "Wenn es nachts plötzlich knallt – oder vom E-Scooter Böller geworfen werden",
+   "zeit": "2026-11-10T16:17:07.000Z",
+   "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "Studientag in Mönchengladbach",
+   "titel": "Auf der Spur von Sigmar Polke im Museum Abteiberg",
+   "zeit": "2026-11-10T16:00:00.000Z",
+   "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "Liveticker zum Spiel",
+   "titel": "Borussia testet am Donnerstag gegen Standard Lüttich",
+   "zeit": "2026-11-10T15:51:02.000Z",
+   "quelle": "Borussia"
+  },
+  {
+   "dach": "Verfolgungsjagd durch Mönchengladbach",
+   "titel": "19-Jähriger soll unter Drogeneinfluss gefahren sein – Verdacht auf Straßenrennen",
+   "zeit": "2026-11-10T14:07:39.000Z",
+   "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "Zum Ende der Pferderennbahn",
+   "titel": "Als Trabrennen in Gladbach noch richtig groß waren",
+   "zeit": "2026-11-10T14:00:00.000Z",
+   "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "Borussias Training am Dienstag",
+   "titel": "Nicolas macht Fortschritte – Viele Offensivspieler mit speziellem Programm",
+   "zeit": "2026-11-10T13:53:58.000Z",
+   "quelle": "Borussia"
+  },
   {
    "dach": "Reichspogrom-Gedenken in Mönchengladbach",
    "titel": "„Beruhigt es das Gewissen, sich für tote Juden zu interessieren, während die Lebenden in Angst leben?“",
@@ -32,34 +74,10 @@
    "quelle": "Borussia"
   },
   {
-   "dach": "Parkplatznot am Ordnungsamt in Mönchengladbach",
-   "titel": "„Die Parkplatzsituation ist von der Stadt nicht zu Ende gedacht“",
-   "zeit": "2026-11-10T09:57:00.000Z",
-   "quelle": "Mönchengladbach"
-  },
-  {
    "dach": "Schröder muss kreativ werden",
    "titel": "Ein Routinier für die Sechs könnte interessant sein",
    "zeit": "2026-11-10T06:15:00.000Z",
    "quelle": "Borussia"
-  },
-  {
-   "dach": "Kritik am Standort in Mönchengladbach",
-   "titel": "Petition gegen Windräder im Hardter Wald könnte verpuffen",
-   "zeit": "2026-11-10T05:17:00.000Z",
-   "quelle": "Mönchengladbach"
-  },
-  {
-   "dach": "Bürger- und Polizeifest in Mönchengladbach",
-   "titel": "„Rocktober“ soll Grenzen zwischen Polizei und Bürgern überwinden",
-   "zeit": "2026-11-10T04:22:00.000Z",
-   "quelle": "Mönchengladbach"
-  },
-  {
-   "dach": "Wirtschaft in Mönchengladbach",
-   "titel": "Die Strukturkrise kommt auf dem Ausbildungsmarkt an",
-   "zeit": "2026-11-10T04:09:00.000Z",
-   "quelle": "Mönchengladbach"
   },
   {
    "dach": "1044 Tage Zwangspause",
@@ -77,24 +95,6 @@
    "dach": "„Wisst nicht, was mir das bedeutet“",
    "titel": "Besondere Gladbach-Momente und viel Dankbarkeit – Kramers emotionale Borussia-Rückkehr",
    "zeit": "2026-11-09T10:44:04.000Z",
-   "quelle": "Borussia"
-  },
-  {
-   "dach": "Nur vier Punkte nach neun Spielen",
-   "titel": "Gladbachs lange Mängelliste erschwert die Mission Klassenverbleib",
-   "zeit": "2026-11-09T05:07:00.000Z",
-   "quelle": "Borussia"
-  },
-  {
-   "dach": "Borussias Nicolas-Vertreter",
-   "titel": "Batz überzeugt trotz dreier Gegentore erneut und beschert Blessin eine weitere Aufgabe",
-   "zeit": "2026-11-08T17:10:45.000Z",
-   "quelle": "Borussia"
-  },
-  {
-   "dach": "Fohlenfutter-Podcast",
-   "titel": "Was Gladbach Hoffnung macht, was sie trübt und wie es Mohyas Zukunft steht",
-   "zeit": "2026-11-08T16:48:00.000Z",
    "quelle": "Borussia"
   }
  ]
