@@ -1,22 +1,64 @@
 {
- "stand": "2026-11-09T22:56:23.388Z",
+ "stand": "2026-11-10T12:24:45.395Z",
  "news": [
   {
-   "dach": "Schröder muss kreativ werden",
-   "titel": "Ein Routinier für die Sechs könnte interessant sein",
-   "zeit": "2026-11-09T21:06:00.000Z",
-   "quelle": "Borussia"
-  },
-  {
-   "dach": "Konzert im Sparkassenpark",
-   "titel": "„Fall Out Boy“ kommt 2027 nach Mönchengladbach",
-   "zeit": "2026-11-09T18:55:00.000Z",
+   "dach": "Reichspogrom-Gedenken in Mönchengladbach",
+   "titel": "„Beruhigt es das Gewissen, sich für tote Juden zu interessieren, während die Lebenden in Angst leben?“",
+   "zeit": "2026-11-10T12:12:08.000Z",
    "quelle": "Mönchengladbach"
   },
   {
-   "dach": "In Mönchengladbach",
-   "titel": "34-jähriger Mann im Hauptbahnhof festgenommen",
-   "zeit": "2026-11-09T16:52:38.000Z",
+   "dach": "26 Lebensgeschichten an 14 Orten",
+   "titel": "Plakate erinnern an jüdische Schicksale in Mönchengladbach",
+   "zeit": "2026-11-10T12:06:41.000Z",
+   "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "Neue Veranstaltung in Mönchengladbach",
+   "titel": "Eine Radtour zum Gedenken – rund 60 Teilnehmer besuchen Stolpersteine",
+   "zeit": "2026-11-10T11:53:04.000Z",
+   "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "Von einem Klub zum anderen",
+   "titel": "Die turbulenten Trainerwochen von Cafer Kapkara",
+   "zeit": "2026-11-10T10:53:00.000Z",
+   "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "Ohne Diks und Ullrich",
+   "titel": "Vier Borussia-Profis auf Länderspielreisen – das erwartet sie",
+   "zeit": "2026-11-10T10:05:00.000Z",
+   "quelle": "Borussia"
+  },
+  {
+   "dach": "Parkplatznot am Ordnungsamt in Mönchengladbach",
+   "titel": "„Die Parkplatzsituation ist von der Stadt nicht zu Ende gedacht“",
+   "zeit": "2026-11-10T09:57:00.000Z",
+   "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "Schröder muss kreativ werden",
+   "titel": "Ein Routinier für die Sechs könnte interessant sein",
+   "zeit": "2026-11-10T06:15:00.000Z",
+   "quelle": "Borussia"
+  },
+  {
+   "dach": "Kritik am Standort in Mönchengladbach",
+   "titel": "Petition gegen Windräder im Hardter Wald könnte verpuffen",
+   "zeit": "2026-11-10T05:17:00.000Z",
+   "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "Bürger- und Polizeifest in Mönchengladbach",
+   "titel": "„Rocktober“ soll Grenzen zwischen Polizei und Bürgern überwinden",
+   "zeit": "2026-11-10T04:22:00.000Z",
+   "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "Wirtschaft in Mönchengladbach",
+   "titel": "Die Strukturkrise kommt auf dem Ausbildungsmarkt an",
+   "zeit": "2026-11-10T04:09:00.000Z",
    "quelle": "Mönchengladbach"
   },
   {
@@ -24,42 +66,6 @@
    "titel": "Ex-Borusse Beyer feiert Comeback nach fast drei Jahren",
    "zeit": "2026-11-09T16:46:00.000Z",
    "quelle": "Borussia"
-  },
-  {
-   "dach": "Hockeyleistungszentrum in Mönchengladbach",
-   "titel": "Gladbachs Vorzeige-Sportprojekt nimmt Formen an",
-   "zeit": "2026-11-09T16:30:00.000Z",
-   "quelle": "Mönchengladbach"
-  },
-  {
-   "dach": "Parkplatznot am Ordnungsamt in Mönchengladbach",
-   "titel": "„Die Parkplatzsituation ist von der Stadt nicht zu Ende gedacht“",
-   "zeit": "2026-11-09T16:25:00.000Z",
-   "quelle": "Mönchengladbach"
-  },
-  {
-   "dach": "Großer Umzug in Mönchengladbach",
-   "titel": "Schaffrath-Martinszug mit Lichtermeer und glänzenden Kinderaugen",
-   "zeit": "2026-11-09T16:20:00.000Z",
-   "quelle": "Mönchengladbach"
-  },
-  {
-   "dach": "Singe, danze un' fiere in Mönchengladbach",
-   "titel": "Karnevalsparty mit Stimmungshits kurz vor Sessionsbeginn",
-   "zeit": "2026-11-09T16:15:00.000Z",
-   "quelle": "Mönchengladbach"
-  },
-  {
-   "dach": "Wirtschaft in Mönchengladbach",
-   "titel": "Mit der Gründungswoche in die eigene Selbstständigkeit",
-   "zeit": "2026-11-09T16:00:00.000Z",
-   "quelle": "Mönchengladbach"
-  },
-  {
-   "dach": "Unfall in Mönchengladbach",
-   "titel": "Autofahrer flüchtete nach Unfall mit E-Scooterfahrer",
-   "zeit": "2026-11-09T15:47:43.000Z",
-   "quelle": "Mönchengladbach"
   },
   {
    "dach": "„Das müssen wir einen Tick besser machen“",
@@ -89,12 +95,6 @@
    "dach": "Fohlenfutter-Podcast",
    "titel": "Was Gladbach Hoffnung macht, was sie trübt und wie es Mohyas Zukunft steht",
    "zeit": "2026-11-08T16:48:00.000Z",
-   "quelle": "Borussia"
-  },
-  {
-   "dach": "„Ich hoffe es für ihn“",
-   "titel": "Effenberg contra Freund – Kommt Mohyas Nominierung durch Klopp zu früh?",
-   "zeit": "2026-11-08T14:01:38.000Z",
    "quelle": "Borussia"
   }
  ]
