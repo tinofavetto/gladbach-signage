@@ -1,59 +1,65 @@
 {
- "stand": "2026-11-11T11:47:10.392Z",
+ "stand": "2026-11-11T19:28:00.044Z",
  "news": [
   {
-   "dach": "IHK-Ehrung in Bielefeld",
-   "titel": "Zwei der besten NRW-Azubis lernten in Mönchengladbach",
-   "zeit": "2026-11-11T11:00:00.000Z",
+   "dach": "Feuerwehr Mönchengladbach im Einsatz",
+   "titel": "E-Fahrzeug steht an Ladesäule in Flammen",
+   "zeit": "2026-11-11T17:28:24.000Z",
    "quelle": "Mönchengladbach"
   },
   {
-   "dach": "Neue digitale Chronik",
-   "titel": "VfL Welfia erweckt fast 100 Jahren Vereinsgeschichte zum Leben",
-   "zeit": "2026-11-11T11:00:00.000Z",
+   "dach": "Beschuldigter in Mönchengladbach",
+   "titel": "46-jähriger Mann soll in Keller eingebrochen sein",
+   "zeit": "2026-11-11T17:25:52.000Z",
    "quelle": "Mönchengladbach"
   },
   {
-   "dach": "Im Städtevergleich ",
-   "titel": "So viele Ladesäulen gibt es in Mönchengladbach",
-   "zeit": "2026-11-11T11:00:00.000Z",
-   "quelle": "Mönchengladbach"
-  },
-  {
-   "dach": "„Designer machen sich viele Gedanken“",
-   "titel": "Einst gab es den letzten Schliff in der Kneipe – So entstehen Trikotdesigns",
-   "zeit": "2026-11-11T10:24:00.000Z",
-   "quelle": "Borussia"
-  },
-  {
-   "dach": "Viele Einsätze rund um Halloween",
-   "titel": "Beschwerden über laute Explosionen in Mönchengladbach häufen sich",
-   "zeit": "2026-11-11T10:17:00.000Z",
-   "quelle": "Mönchengladbach"
-  },
-  {
-   "dach": "In Mönchengladbach",
-   "titel": "Weiträumiger Stromausfall in der Innenstadt – Ampeln zeitweise ausgefallen",
-   "zeit": "2026-11-11T10:15:21.000Z",
-   "quelle": "Mönchengladbach"
-  },
-  {
-   "dach": "Kollision in Gladbach",
-   "titel": "79-jährige Fußgängerin bei Unfall schwer verletzt",
-   "zeit": "2026-11-11T10:11:19.000Z",
-   "quelle": "Mönchengladbach"
-  },
-  {
-   "dach": "Start der Karnevalssession 2026/2027",
-   "titel": "11.11. in Mönchengladbach – das wird geboten",
-   "zeit": "2026-11-11T09:53:00.000Z",
+   "dach": "Umzug am Borussia-Park Mönchengladbach",
+   "titel": "Wo „Sankt Martin“ und „Die Seele brennt“ gesungen wird",
+   "zeit": "2026-11-11T16:30:00.000Z",
    "quelle": "Mönchengladbach"
   },
   {
    "dach": "Feuerwehreinsätze in Mönchengladbach",
-   "titel": "Erneuter Wohnungsbrand an der Roermonder Straße",
-   "zeit": "2026-11-11T09:06:00.000Z",
+   "titel": "Wohnungsbrand an der Roermonder Straße – am nächsten Morgen brennt es wieder",
+   "zeit": "2026-11-11T16:25:00.000Z",
    "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "Museum Schloss Rheydt",
+   "titel": "Heimatministerin Scharrenbach übergibt Förderung für stadtgeschichtliche Sammlung",
+   "zeit": "2026-11-11T16:20:00.000Z",
+   "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "IHK-Ehrung in Bielefeld",
+   "titel": "Zwei der besten NRW-Azubis lernten in Mönchengladbach",
+   "zeit": "2026-11-11T16:15:00.000Z",
+   "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "Citykirche in Mönchengladbach ",
+   "titel": "Werke des Künstlers Werner Hübner werden versteigert",
+   "zeit": "2026-11-11T15:54:46.000Z",
+   "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "Tatverdächtiger in Mönchengladbach gefasst",
+   "titel": "53-Jähriger soll versucht haben, einen Juwelier auszurauben",
+   "zeit": "2026-11-11T15:37:45.000Z",
+   "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "Torwart, Rückkehrer und Inhalte",
+   "titel": "Das Lüttich-Spiel wird zum Belastungstest für Borussia",
+   "zeit": "2026-11-11T15:32:00.000Z",
+   "quelle": "Borussia"
+  },
+  {
+   "dach": "Heynckes und Grashoff diskutierten",
+   "titel": "Einst gab es den letzten Schliff in der Kneipe – So entstehen Trikotdesigns",
+   "zeit": "2026-11-11T10:24:00.000Z",
+   "quelle": "Borussia"
   },
   {
    "dach": "Erst ausgemustert, nun bester Torschütze",
@@ -89,12 +95,6 @@
    "dach": "Schröder muss kreativ werden",
    "titel": "Ein Routinier für die Sechs könnte interessant sein",
    "zeit": "2026-11-10T06:15:00.000Z",
-   "quelle": "Borussia"
-  },
-  {
-   "dach": "1044 Tage Zwangspause",
-   "titel": "Ex-Borusse Beyer feiert Comeback nach fast drei Jahren",
-   "zeit": "2026-11-09T16:46:00.000Z",
    "quelle": "Borussia"
   }
  ]
