@@ -1,17 +1,65 @@
 {
- "stand": "2026-11-11T00:33:51.565Z",
+ "stand": "2026-11-11T11:47:10.392Z",
  "news": [
   {
-   "dach": "Phänomen in Mönchengladbach",
-   "titel": "Wenn es nachts plötzlich knallt – oder vom E-Scooter Böller geworfen werden",
-   "zeit": "2026-11-10T23:07:00.000Z",
+   "dach": "IHK-Ehrung in Bielefeld",
+   "titel": "Zwei der besten NRW-Azubis lernten in Mönchengladbach",
+   "zeit": "2026-11-11T11:00:00.000Z",
    "quelle": "Mönchengladbach"
   },
   {
-   "dach": "Feuerwehreinsatz in Mönchengladbach",
-   "titel": "Wohnung nach Brand unbewohnbar – aber keine Verletzten",
-   "zeit": "2026-11-10T22:14:41.000Z",
+   "dach": "Neue digitale Chronik",
+   "titel": "VfL Welfia erweckt fast 100 Jahren Vereinsgeschichte zum Leben",
+   "zeit": "2026-11-11T11:00:00.000Z",
    "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "Im Städtevergleich ",
+   "titel": "So viele Ladesäulen gibt es in Mönchengladbach",
+   "zeit": "2026-11-11T11:00:00.000Z",
+   "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "„Designer machen sich viele Gedanken“",
+   "titel": "Einst gab es den letzten Schliff in der Kneipe – So entstehen Trikotdesigns",
+   "zeit": "2026-11-11T10:24:00.000Z",
+   "quelle": "Borussia"
+  },
+  {
+   "dach": "Viele Einsätze rund um Halloween",
+   "titel": "Beschwerden über laute Explosionen in Mönchengladbach häufen sich",
+   "zeit": "2026-11-11T10:17:00.000Z",
+   "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "In Mönchengladbach",
+   "titel": "Weiträumiger Stromausfall in der Innenstadt – Ampeln zeitweise ausgefallen",
+   "zeit": "2026-11-11T10:15:21.000Z",
+   "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "Kollision in Gladbach",
+   "titel": "79-jährige Fußgängerin bei Unfall schwer verletzt",
+   "zeit": "2026-11-11T10:11:19.000Z",
+   "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "Start der Karnevalssession 2026/2027",
+   "titel": "11.11. in Mönchengladbach – das wird geboten",
+   "zeit": "2026-11-11T09:53:00.000Z",
+   "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "Feuerwehreinsätze in Mönchengladbach",
+   "titel": "Erneuter Wohnungsbrand an der Roermonder Straße",
+   "zeit": "2026-11-11T09:06:00.000Z",
+   "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "Erst ausgemustert, nun bester Torschütze",
+   "titel": "Das ist Gladbachs Plan mit dem aufstrebenden Scally",
+   "zeit": "2026-11-11T05:12:00.000Z",
+   "quelle": "Borussia"
   },
   {
    "dach": "Blessin, Mohya, Bonhof",
@@ -20,52 +68,16 @@
    "quelle": "Borussia"
   },
   {
-   "dach": "Studientag in Mönchengladbach",
-   "titel": "Auf der Spur von Sigmar Polke im Museum Abteiberg",
-   "zeit": "2026-11-10T16:00:00.000Z",
-   "quelle": "Mönchengladbach"
-  },
-  {
    "dach": "Liveticker zum Spiel",
    "titel": "Borussia testet am Donnerstag gegen Standard Lüttich",
    "zeit": "2026-11-10T15:51:02.000Z",
    "quelle": "Borussia"
   },
   {
-   "dach": "Verfolgungsjagd durch Mönchengladbach",
-   "titel": "19-Jähriger soll unter Drogeneinfluss gefahren sein – Verdacht auf Straßenrennen",
-   "zeit": "2026-11-10T14:07:39.000Z",
-   "quelle": "Mönchengladbach"
-  },
-  {
-   "dach": "Zum Ende der Pferderennbahn",
-   "titel": "Als Trabrennen in Gladbach noch richtig groß waren",
-   "zeit": "2026-11-10T14:00:00.000Z",
-   "quelle": "Mönchengladbach"
-  },
-  {
    "dach": "Borussias Training am Dienstag",
    "titel": "Nicolas macht Fortschritte – Viele Offensivspieler mit speziellem Programm",
    "zeit": "2026-11-10T13:53:58.000Z",
    "quelle": "Borussia"
-  },
-  {
-   "dach": "Reichspogrom-Gedenken in Mönchengladbach",
-   "titel": "„Beruhigt es das Gewissen, sich für tote Juden zu interessieren, während die Lebenden in Angst leben?“",
-   "zeit": "2026-11-10T12:12:08.000Z",
-   "quelle": "Mönchengladbach"
-  },
-  {
-   "dach": "26 Lebensgeschichten an 14 Orten",
-   "titel": "Plakate erinnern an jüdische Schicksale in Mönchengladbach",
-   "zeit": "2026-11-10T12:06:41.000Z",
-   "quelle": "Mönchengladbach"
-  },
-  {
-   "dach": "Neue Veranstaltung in Mönchengladbach",
-   "titel": "Eine Radtour zum Gedenken – rund 60 Teilnehmer besuchen Stolpersteine",
-   "zeit": "2026-11-10T11:53:04.000Z",
-   "quelle": "Mönchengladbach"
   },
   {
    "dach": "Ohne Diks und Ullrich",
@@ -83,18 +95,6 @@
    "dach": "1044 Tage Zwangspause",
    "titel": "Ex-Borusse Beyer feiert Comeback nach fast drei Jahren",
    "zeit": "2026-11-09T16:46:00.000Z",
-   "quelle": "Borussia"
-  },
-  {
-   "dach": "„Das müssen wir einen Tick besser machen“",
-   "titel": "Blessins Aufbauplan, ein Test für Diks und Castrop und eine Kleindienst-Hoffnung",
-   "zeit": "2026-11-09T14:00:12.000Z",
-   "quelle": "Borussia"
-  },
-  {
-   "dach": "„Wisst nicht, was mir das bedeutet“",
-   "titel": "Besondere Gladbach-Momente und viel Dankbarkeit – Kramers emotionale Borussia-Rückkehr",
-   "zeit": "2026-11-09T10:44:04.000Z",
    "quelle": "Borussia"
   }
  ]
