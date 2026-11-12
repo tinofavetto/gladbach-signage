@@ -1,6 +1,18 @@
 {
- "stand": "2026-11-11T19:28:00.044Z",
+ "stand": "2026-11-12T01:39:02.926Z",
  "news": [
+  {
+   "dach": "Karnevalsauftakt in Mönchengladbach",
+   "titel": "Ein tränenreicher Abschied und ein generierter Hoppediz am 11.11.",
+   "zeit": "2026-11-11T20:46:33.000Z",
+   "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "Instagram-Kommentare zeigen es",
+   "titel": "Was Mohyas Nominierung für ihn und Gladbach bedeutet",
+   "zeit": "2026-11-11T19:56:00.000Z",
+   "quelle": "Borussia"
+  },
   {
    "dach": "Feuerwehr Mönchengladbach im Einsatz",
    "titel": "E-Fahrzeug steht an Ladesäule in Flammen",
@@ -44,12 +56,6 @@
    "quelle": "Mönchengladbach"
   },
   {
-   "dach": "Tatverdächtiger in Mönchengladbach gefasst",
-   "titel": "53-Jähriger soll versucht haben, einen Juwelier auszurauben",
-   "zeit": "2026-11-11T15:37:45.000Z",
-   "quelle": "Mönchengladbach"
-  },
-  {
    "dach": "Torwart, Rückkehrer und Inhalte",
    "titel": "Das Lüttich-Spiel wird zum Belastungstest für Borussia",
    "zeit": "2026-11-11T15:32:00.000Z",
@@ -89,12 +95,6 @@
    "dach": "Ohne Diks und Ullrich",
    "titel": "Vier Borussia-Profis auf Länderspielreisen – das erwartet sie",
    "zeit": "2026-11-10T10:05:00.000Z",
-   "quelle": "Borussia"
-  },
-  {
-   "dach": "Schröder muss kreativ werden",
-   "titel": "Ein Routinier für die Sechs könnte interessant sein",
-   "zeit": "2026-11-10T06:15:00.000Z",
    "quelle": "Borussia"
   }
  ]
