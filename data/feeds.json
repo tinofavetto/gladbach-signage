@@ -1,40 +1,70 @@
 {
- "stand": "2026-11-12T12:27:13.130Z",
+ "stand": "2026-11-12T20:21:30.617Z",
  "news": [
   {
-   "dach": "Liveticker zum Spiel",
-   "titel": "Borussia testet am Donnerstag gegen Standard Lüttich",
-   "zeit": "2026-11-12T11:56:00.000Z",
+   "dach": "„Das war längst überfällig“",
+   "titel": "Große Ehre für Gladbachs Meistertrainer Hennes Weisweiler",
+   "zeit": "2026-11-12T17:21:42.000Z",
    "quelle": "Borussia"
   },
   {
-   "dach": "Mutmaßliche Diebin in Mönchengladbach",
-   "titel": "Unbekannte greift Kaufhaus-Mitarbeiterin mit Schuhen an und flüchtet",
-   "zeit": "2026-11-12T11:50:25.000Z",
+   "dach": "Gladbachs 1:0-Erfolg",
+   "titel": "Blessins Erkenntnisse gegen Lüttich und seine Kritik an Hack",
+   "zeit": "2026-11-12T17:09:23.000Z",
+   "quelle": "Borussia"
+  },
+  {
+   "dach": "Ehrenamt in Mönchengladbach",
+   "titel": "Insel Tobi freut sich über großzügige Spenden",
+   "zeit": "2026-11-12T16:31:59.000Z",
    "quelle": "Mönchengladbach"
   },
   {
-   "dach": "Orange Day mit Aktionen",
-   "titel": "Mönchengladbach leuchtet orange gegen Gewalt an Frauen",
-   "zeit": "2026-11-12T11:02:00.000Z",
+   "dach": "Mönchengladbach",
+   "titel": "Die vielen Termine der kurzen Karnevalssession",
+   "zeit": "2026-11-12T16:22:17.000Z",
    "quelle": "Mönchengladbach"
   },
   {
-   "dach": "Rheydter Winterwald",
-   "titel": "150 Weihnachtsbäume für die Innenstadt",
-   "zeit": "2026-11-12T11:00:00.000Z",
+   "dach": "Advent in Mönchengladbach",
+   "titel": "Eine halbe Million Lichter für den Winterzauber unter Glas",
+   "zeit": "2026-11-12T16:00:00.000Z",
    "quelle": "Mönchengladbach"
   },
   {
-   "dach": "In Mönchengladbach",
-   "titel": "Weiträumiger Stromausfall in der Innenstadt – Ast auf Leitung gefallen",
-   "zeit": "2026-11-12T10:38:00.000Z",
+   "dach": "Nach dem Niederrheinliga-Abstieg",
+   "titel": "Union Nettetals Frauen stürmen an die Tabellenspitze der Landesliga",
+   "zeit": "2026-11-12T15:30:00.000Z",
    "quelle": "Mönchengladbach"
   },
   {
-   "dach": "14. und 15. November in Mönchengladbach",
-   "titel": "Hunde-Dating und Live-Musik – die besten Tipps fürs Wochenende",
-   "zeit": "2026-11-12T09:53:00.000Z",
+   "dach": "Liveticker zum Nachlesen",
+   "titel": "Neuhaus-Treffer genügt – Borussia gewinnt Test gegen Standard Lüttich 1:0",
+   "zeit": "2026-11-12T14:56:00.000Z",
+   "quelle": "Borussia"
+  },
+  {
+   "dach": "Einsätze der Feuerwehr Mönchengladbach",
+   "titel": "Zwei Vollbrände an der Roermonder Straße – erste Erkenntnisse zur Ursache",
+   "zeit": "2026-11-12T14:14:00.000Z",
+   "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "Veranstaltung in Mönchengladbach",
+   "titel": "Geschäfte in Eicken laden zum Einkaufen zu später Stunde ein",
+   "zeit": "2026-11-12T13:56:31.000Z",
+   "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "Experte auf Abschiedstour in der NEW Box",
+   "titel": "Martin Rütter – und wann man Hunde von der Couch jagt",
+   "zeit": "2026-11-12T13:35:56.000Z",
+   "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "Kollision in Mönchengladbach",
+   "titel": "Fußgänger wird von Auto angefahren und schwer verletzt",
+   "zeit": "2026-11-12T12:55:12.000Z",
    "quelle": "Mönchengladbach"
   },
   {
@@ -42,24 +72,6 @@
    "titel": "Ohne Mohya gegen Serbien – Was die DFB-Nominierung für ihn und Borussia bedeutet",
    "zeit": "2026-11-12T09:34:00.000Z",
    "quelle": "Borussia"
-  },
-  {
-   "dach": "Anmeldungen von Kraftfahrzeugen",
-   "titel": "Zulassungsstelle in Mönchengladbach gehört zu den drei langsamsten in Deutschland",
-   "zeit": "2026-11-12T05:17:00.000Z",
-   "quelle": "Mönchengladbach"
-  },
-  {
-   "dach": "Walter-Mayer-Gedächtnisturnier",
-   "titel": "Mülfort feiert den Jahreshöhepunkt im Special-Hockey",
-   "zeit": "2026-11-12T05:00:00.000Z",
-   "quelle": "Mönchengladbach"
-  },
-  {
-   "dach": "Vor dem Advent in Mönchengladbach",
-   "titel": "Christkindlmarkt verwandelt Kapuzinerplatz in Weihnachtsparadies",
-   "zeit": "2026-11-12T04:22:00.000Z",
-   "quelle": "Mönchengladbach"
   },
   {
    "dach": "Torwart, Rückkehrer und Inhalte",
@@ -83,18 +95,6 @@
    "dach": "Blessin, Mohya, Bonhof",
    "titel": "Fan-Meinung zu den wichtigsten Borussia-Themen ist gefragt – jetzt mitmachen",
    "zeit": "2026-11-10T16:48:30.000Z",
-   "quelle": "Borussia"
-  },
-  {
-   "dach": "Borussias Training am Dienstag",
-   "titel": "Nicolas macht Fortschritte – Viele Offensivspieler mit speziellem Programm",
-   "zeit": "2026-11-10T13:53:58.000Z",
-   "quelle": "Borussia"
-  },
-  {
-   "dach": "Ohne Diks und Ullrich",
-   "titel": "Vier Borussia-Profis auf Länderspielreisen – das erwartet sie",
-   "zeit": "2026-11-10T10:05:00.000Z",
    "quelle": "Borussia"
   }
  ]
