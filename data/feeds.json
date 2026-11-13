@@ -1,6 +1,54 @@
 {
- "stand": "2026-11-13T01:24:20.110Z",
+ "stand": "2026-11-13T12:01:53.338Z",
  "news": [
+  {
+   "dach": "14. und 15. November in Mönchengladbach",
+   "titel": "Hunde-Dating und Live-Musik – die besten Tipps fürs Wochenende",
+   "zeit": "2026-11-13T11:04:00.000Z",
+   "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "Dreharbeiten an Flugplatz",
+   "titel": "Mönchengladbach ist am Sonntag im Münster-Tatort zu sehen",
+   "zeit": "2026-11-13T11:01:00.000Z",
+   "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "Kolumne Denkanstoß",
+   "titel": "Räume zur Entfaltung des Lebens",
+   "zeit": "2026-11-13T11:00:00.000Z",
+   "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "Fünfte Jahreszeit",
+   "titel": "Kurze Session und viele Termine – das ist los im Gladbacher Karneval",
+   "zeit": "2026-11-13T09:13:00.000Z",
+   "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "Gastronomisches Projekt in Mönchengladbach",
+   "titel": "„Die Markthalle bleibt deutlich hinter unseren Erwartungen zurück“",
+   "zeit": "2026-11-13T05:17:00.000Z",
+   "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "„Das hindert ihn nicht“",
+   "titel": "Blessin sieht klaren Vorteil in Kühns ungewohnter Rolle bei Borussia",
+   "zeit": "2026-11-13T05:02:00.000Z",
+   "quelle": "Borussia"
+  },
+  {
+   "dach": "Ende der Trabrennbahn in Gladbach",
+   "titel": "„Je näher der letzte Renntag rückt, desto emotionaler wird es für mich“",
+   "zeit": "2026-11-13T05:00:00.000Z",
+   "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "Mönchengladbacher Pfarrer zu Steinmeier-Rede",
+   "titel": "„Wir müssen die Stimme erheben“",
+   "zeit": "2026-11-13T04:09:00.000Z",
+   "quelle": "Mönchengladbach"
+  },
   {
    "dach": "Gladbachs 1:0-Erfolg",
    "titel": "Blessins Erkenntnisse gegen Lüttich und seine Kritik an Hack",
@@ -8,8 +56,8 @@
    "quelle": "Borussia"
   },
   {
-   "dach": "„Das war längst überfällig“",
-   "titel": "Große Ehre für Gladbachs Meistertrainer Hennes Weisweiler",
+   "dach": "Nach Netzer, Vogts, Heynckes, Lattek, Matthäus",
+   "titel": "Hennes Weisweiler in der Hall of Fame des deutschen Fußballs",
    "zeit": "2026-11-12T17:21:42.000Z",
    "quelle": "Borussia"
   },
@@ -20,55 +68,13 @@
    "quelle": "Mönchengladbach"
   },
   {
-   "dach": "Mönchengladbach",
-   "titel": "Die vielen Termine der kurzen Karnevalssession",
-   "zeit": "2026-11-12T16:22:17.000Z",
-   "quelle": "Mönchengladbach"
-  },
-  {
-   "dach": "Advent in Mönchengladbach",
-   "titel": "Eine halbe Million Lichter für den Winterzauber unter Glas",
-   "zeit": "2026-11-12T16:00:00.000Z",
-   "quelle": "Mönchengladbach"
-  },
-  {
-   "dach": "Nach dem Niederrheinliga-Abstieg",
-   "titel": "Union Nettetals Frauen stürmen an die Tabellenspitze der Landesliga",
-   "zeit": "2026-11-12T15:30:00.000Z",
-   "quelle": "Mönchengladbach"
-  },
-  {
    "dach": "Liveticker zum Nachlesen",
    "titel": "Neuhaus-Treffer genügt – Borussia gewinnt Test gegen Standard Lüttich 1:0",
    "zeit": "2026-11-12T14:56:00.000Z",
    "quelle": "Borussia"
   },
   {
-   "dach": "Einsätze der Feuerwehr Mönchengladbach",
-   "titel": "Zwei Vollbrände an der Roermonder Straße – erste Erkenntnisse zur Ursache",
-   "zeit": "2026-11-12T14:14:00.000Z",
-   "quelle": "Mönchengladbach"
-  },
-  {
-   "dach": "Veranstaltung in Mönchengladbach",
-   "titel": "Geschäfte in Eicken laden zum Einkaufen zu später Stunde ein",
-   "zeit": "2026-11-12T13:56:31.000Z",
-   "quelle": "Mönchengladbach"
-  },
-  {
-   "dach": "Experte auf Abschiedstour in der NEW Box",
-   "titel": "Martin Rütter – und wann man Hunde von der Couch jagt",
-   "zeit": "2026-11-12T13:35:56.000Z",
-   "quelle": "Mönchengladbach"
-  },
-  {
-   "dach": "Kollision in Mönchengladbach",
-   "titel": "Fußgänger wird von Auto angefahren und schwer verletzt",
-   "zeit": "2026-11-12T12:55:12.000Z",
-   "quelle": "Mönchengladbach"
-  },
-  {
-   "dach": "Klopp verzichtet auf 17-Jährigen",
+   "dach": "„Vorher schon besprochen“",
    "titel": "Ohne Mohya gegen Serbien – Was die DFB-Nominierung für ihn und Borussia bedeutet",
    "zeit": "2026-11-12T09:34:00.000Z",
    "quelle": "Borussia"
@@ -89,12 +95,6 @@
    "dach": "Erst ausgemustert, nun bester Torschütze",
    "titel": "Das ist Gladbachs Plan mit dem aufstrebenden Scally",
    "zeit": "2026-11-11T05:12:00.000Z",
-   "quelle": "Borussia"
-  },
-  {
-   "dach": "Blessin, Mohya, Bonhof",
-   "titel": "Fan-Meinung zu den wichtigsten Borussia-Themen ist gefragt – jetzt mitmachen",
-   "zeit": "2026-11-10T16:48:30.000Z",
    "quelle": "Borussia"
   }
  ]
