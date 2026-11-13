@@ -1,34 +1,64 @@
 {
- "stand": "2026-11-13T12:01:53.338Z",
+ "stand": "2026-11-13T19:58:01.729Z",
  "news": [
+  {
+   "dach": "Höchstes Amt im Karneval",
+   "titel": "Mönchengladbachs neue Prinzen sind proklamiert",
+   "zeit": "2026-11-13T19:38:39.000Z",
+   "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "Start in Mönchengladbach",
+   "titel": "Die Weihnachtsmärkte sind los – das kosten Glühwein und Co.",
+   "zeit": "2026-11-13T17:39:10.000Z",
+   "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "45 Tore in elf Spielen",
+   "titel": "Borussias U17 mischt im deutschen Nachwuchs ganz oben mit",
+   "zeit": "2026-11-13T17:02:00.000Z",
+   "quelle": "Borussia"
+  },
+  {
+   "dach": "Wenn es in der Nacht plötzlich knallt",
+   "titel": "Berichte über Explosionsgeräusche in Mönchengladbach häufen sich",
+   "zeit": "2026-11-13T17:00:00.000Z",
+   "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "TV Korschenbroich",
+   "titel": "Berblinger hat einen klaren Plan für das Topspiel gegen Essen",
+   "zeit": "2026-11-13T14:55:00.000Z",
+   "quelle": "Mönchengladbach"
+  },
   {
    "dach": "14. und 15. November in Mönchengladbach",
    "titel": "Hunde-Dating und Live-Musik – die besten Tipps fürs Wochenende",
-   "zeit": "2026-11-13T11:04:00.000Z",
+   "zeit": "2026-11-13T14:13:00.000Z",
    "quelle": "Mönchengladbach"
   },
   {
-   "dach": "Dreharbeiten an Flugplatz",
-   "titel": "Mönchengladbach ist am Sonntag im Münster-Tatort zu sehen",
-   "zeit": "2026-11-13T11:01:00.000Z",
+   "dach": "Bauarbeiten in Mönchengladbach",
+   "titel": "Wochenmarkt Rheydt zieht nun doch wieder auf den Marktplatz",
+   "zeit": "2026-11-13T14:00:57.000Z",
    "quelle": "Mönchengladbach"
   },
   {
-   "dach": "Kolumne Denkanstoß",
-   "titel": "Räume zur Entfaltung des Lebens",
-   "zeit": "2026-11-13T11:00:00.000Z",
+   "dach": "Bei Verkehrskontrolle in Mönchengladbach",
+   "titel": "Polizei entdeckt zwei Männer mit gestohlenem Anhänger",
+   "zeit": "2026-11-13T13:23:02.000Z",
    "quelle": "Mönchengladbach"
   },
   {
-   "dach": "Fünfte Jahreszeit",
-   "titel": "Kurze Session und viele Termine – das ist los im Gladbacher Karneval",
-   "zeit": "2026-11-13T09:13:00.000Z",
-   "quelle": "Mönchengladbach"
+   "dach": "Gehört Neuhaus dazu?",
+   "titel": "Wer in Gladbach akut das Leaderproblem lösen könnte",
+   "zeit": "2026-11-13T13:21:00.000Z",
+   "quelle": "Borussia"
   },
   {
-   "dach": "Gastronomisches Projekt in Mönchengladbach",
-   "titel": "„Die Markthalle bleibt deutlich hinter unseren Erwartungen zurück“",
-   "zeit": "2026-11-13T05:17:00.000Z",
+   "dach": "Veranstaltung in Mönchengladbach",
+   "titel": "Hochzeitsmesse kehrt nach Wickrath zurück",
+   "zeit": "2026-11-13T13:06:00.000Z",
    "quelle": "Mönchengladbach"
   },
   {
@@ -36,18 +66,6 @@
    "titel": "Blessin sieht klaren Vorteil in Kühns ungewohnter Rolle bei Borussia",
    "zeit": "2026-11-13T05:02:00.000Z",
    "quelle": "Borussia"
-  },
-  {
-   "dach": "Ende der Trabrennbahn in Gladbach",
-   "titel": "„Je näher der letzte Renntag rückt, desto emotionaler wird es für mich“",
-   "zeit": "2026-11-13T05:00:00.000Z",
-   "quelle": "Mönchengladbach"
-  },
-  {
-   "dach": "Mönchengladbacher Pfarrer zu Steinmeier-Rede",
-   "titel": "„Wir müssen die Stimme erheben“",
-   "zeit": "2026-11-13T04:09:00.000Z",
-   "quelle": "Mönchengladbach"
   },
   {
    "dach": "Gladbachs 1:0-Erfolg",
@@ -60,12 +78,6 @@
    "titel": "Hennes Weisweiler in der Hall of Fame des deutschen Fußballs",
    "zeit": "2026-11-12T17:21:42.000Z",
    "quelle": "Borussia"
-  },
-  {
-   "dach": "Ehrenamt in Mönchengladbach",
-   "titel": "Insel Tobi freut sich über großzügige Spenden",
-   "zeit": "2026-11-12T16:31:59.000Z",
-   "quelle": "Mönchengladbach"
   },
   {
    "dach": "Liveticker zum Nachlesen",
@@ -83,18 +95,6 @@
    "dach": "Torwart, Rückkehrer und Inhalte",
    "titel": "Das Lüttich-Spiel wird zum Belastungstest für Borussia",
    "zeit": "2026-11-11T15:32:00.000Z",
-   "quelle": "Borussia"
-  },
-  {
-   "dach": "Heynckes und Grashoff diskutierten",
-   "titel": "Einst gab es den letzten Schliff in der Kneipe – So entstehen Trikotdesigns",
-   "zeit": "2026-11-11T10:24:00.000Z",
-   "quelle": "Borussia"
-  },
-  {
-   "dach": "Erst ausgemustert, nun bester Torschütze",
-   "titel": "Das ist Gladbachs Plan mit dem aufstrebenden Scally",
-   "zeit": "2026-11-11T05:12:00.000Z",
    "quelle": "Borussia"
   }
  ]
