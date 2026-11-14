@@ -1,6 +1,36 @@
 {
- "stand": "2026-11-14T00:51:33.739Z",
+ "stand": "2026-11-14T11:19:43.852Z",
  "news": [
+  {
+   "dach": "Explosionen in Mönchengladbach",
+   "titel": "Diese Böllerei ist kein einfacher Jugendstreich",
+   "zeit": "2026-11-14T11:12:00.000Z",
+   "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "Immobilien an Hauptbahnhof in Mönchengladbach",
+   "titel": "Bei Haus Westland sind sich alle einig",
+   "zeit": "2026-11-14T05:17:00.000Z",
+   "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "Tanzen in Mönchengladbach",
+   "titel": "Balfolk-Tanzen wie in der Bretagne",
+   "zeit": "2026-11-14T04:22:00.000Z",
+   "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "Aktion Jecke Täsch",
+   "titel": "NEW verteilt 200.000 Gummibärchentütchen an Karnevalsgruppen",
+   "zeit": "2026-11-14T04:19:00.000Z",
+   "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "Einkommen in Mönchengladbach",
+   "titel": "So viel Geld haben Mönchengladbacher monatlich zur Verfügung",
+   "zeit": "2026-11-14T04:03:00.000Z",
+   "quelle": "Mönchengladbach"
+  },
   {
    "dach": "Neues Prinzenpaar in Mönchengladbach",
    "titel": "Zwei Prinzen, viele Bützchen und ein Saal voller Vielfalt",
@@ -26,40 +56,10 @@
    "quelle": "Mönchengladbach"
   },
   {
-   "dach": "Start in Mönchengladbach",
-   "titel": "Die Weihnachtsmärkte sind los – das kosten Glühwein und Co.",
-   "zeit": "2026-11-13T17:39:10.000Z",
-   "quelle": "Mönchengladbach"
-  },
-  {
    "dach": "45 Tore in elf Spielen",
    "titel": "Borussias U17 mischt im deutschen Nachwuchs ganz oben mit",
    "zeit": "2026-11-13T17:02:00.000Z",
    "quelle": "Borussia"
-  },
-  {
-   "dach": "Wenn es in der Nacht plötzlich knallt",
-   "titel": "Berichte über Explosionsgeräusche in Mönchengladbach häufen sich",
-   "zeit": "2026-11-13T17:00:00.000Z",
-   "quelle": "Mönchengladbach"
-  },
-  {
-   "dach": "TV Korschenbroich",
-   "titel": "Berblinger hat einen klaren Plan für das Topspiel gegen Essen",
-   "zeit": "2026-11-13T14:55:00.000Z",
-   "quelle": "Mönchengladbach"
-  },
-  {
-   "dach": "Bauarbeiten in Mönchengladbach",
-   "titel": "Wochenmarkt Rheydt zieht nun doch wieder auf den Marktplatz",
-   "zeit": "2026-11-13T14:00:57.000Z",
-   "quelle": "Mönchengladbach"
-  },
-  {
-   "dach": "Bei Verkehrskontrolle in Mönchengladbach",
-   "titel": "Polizei entdeckt zwei Männer mit gestohlenem Anhänger",
-   "zeit": "2026-11-13T13:23:02.000Z",
-   "quelle": "Mönchengladbach"
   },
   {
    "dach": "Gehört Neuhaus dazu?",
