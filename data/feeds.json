@@ -1,6 +1,24 @@
 {
- "stand": "2026-11-13T19:58:01.729Z",
+ "stand": "2026-11-14T00:51:33.739Z",
  "news": [
+  {
+   "dach": "Neues Prinzenpaar in Mönchengladbach",
+   "titel": "Zwei Prinzen, viele Bützchen und ein Saal voller Vielfalt",
+   "zeit": "2026-11-14T00:11:00.000Z",
+   "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "14. und 15. November in Mönchengladbach",
+   "titel": "Hunde-Dating und Live-Musik – die besten Tipps fürs Wochenende",
+   "zeit": "2026-11-13T23:20:00.000Z",
+   "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "Gladbach sucht einen neuen Hauptsponsor",
+   "titel": "„Warum nicht zum Beispiel eine junge Marke, die den Markt herausfordern möchte?“",
+   "zeit": "2026-11-13T20:13:00.000Z",
+   "quelle": "Borussia"
+  },
   {
    "dach": "Höchstes Amt im Karneval",
    "titel": "Mönchengladbachs neue Prinzen sind proklamiert",
@@ -32,12 +50,6 @@
    "quelle": "Mönchengladbach"
   },
   {
-   "dach": "14. und 15. November in Mönchengladbach",
-   "titel": "Hunde-Dating und Live-Musik – die besten Tipps fürs Wochenende",
-   "zeit": "2026-11-13T14:13:00.000Z",
-   "quelle": "Mönchengladbach"
-  },
-  {
    "dach": "Bauarbeiten in Mönchengladbach",
    "titel": "Wochenmarkt Rheydt zieht nun doch wieder auf den Marktplatz",
    "zeit": "2026-11-13T14:00:57.000Z",
@@ -54,12 +66,6 @@
    "titel": "Wer in Gladbach akut das Leaderproblem lösen könnte",
    "zeit": "2026-11-13T13:21:00.000Z",
    "quelle": "Borussia"
-  },
-  {
-   "dach": "Veranstaltung in Mönchengladbach",
-   "titel": "Hochzeitsmesse kehrt nach Wickrath zurück",
-   "zeit": "2026-11-13T13:06:00.000Z",
-   "quelle": "Mönchengladbach"
   },
   {
    "dach": "„Das hindert ihn nicht“",
@@ -89,12 +95,6 @@
    "dach": "„Vorher schon besprochen“",
    "titel": "Ohne Mohya gegen Serbien – Was die DFB-Nominierung für ihn und Borussia bedeutet",
    "zeit": "2026-11-12T09:34:00.000Z",
-   "quelle": "Borussia"
-  },
-  {
-   "dach": "Torwart, Rückkehrer und Inhalte",
-   "titel": "Das Lüttich-Spiel wird zum Belastungstest für Borussia",
-   "zeit": "2026-11-11T15:32:00.000Z",
    "quelle": "Borussia"
   }
  ]
