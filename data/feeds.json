@@ -1,11 +1,29 @@
 {
- "stand": "2026-11-14T21:39:19.961Z",
+ "stand": "2026-11-15T11:51:49.413Z",
  "news": [
+  {
+   "dach": "Benefizveranstaltung in Mönchengladbach",
+   "titel": "„Die meisten von uns werden irgendwann einmal sterben“",
+   "zeit": "2026-11-15T11:19:29.000Z",
+   "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "„Lasst mich einfach Fußball spielen“",
+   "titel": "Mohya äußert sich zu seiner Zukunft – in Gladbach und beim DFB",
+   "zeit": "2026-11-15T10:00:12.000Z",
+   "quelle": "Borussia"
+  },
   {
    "dach": "Barometer-Auswertung",
    "titel": "Schröder verliert bei den Fans an Zustimmung – Klare Haltung zu Präsidium um Bonhof",
-   "zeit": "2026-11-14T19:55:00.000Z",
+   "zeit": "2026-11-15T07:38:00.000Z",
    "quelle": "Borussia"
+  },
+  {
+   "dach": "Innenstädte in Gladbach und Rheydt",
+   "titel": "„Das Geschäftsmodell von Kaufhäusern funktioniert größtenteils nicht mehr“",
+   "zeit": "2026-11-15T05:17:00.000Z",
+   "quelle": "Mönchengladbach"
   },
   {
    "dach": "„Spiele kein Spiel vor den Fans“",
@@ -50,22 +68,10 @@
    "quelle": "Mönchengladbach"
   },
   {
-   "dach": "14. und 15. November in Mönchengladbach",
-   "titel": "Hunde-Dating und Live-Musik – die besten Tipps fürs Wochenende",
-   "zeit": "2026-11-13T23:20:00.000Z",
-   "quelle": "Mönchengladbach"
-  },
-  {
    "dach": "Gladbach sucht einen neuen Hauptsponsor",
    "titel": "„Warum nicht zum Beispiel eine junge Marke, die den Markt herausfordern möchte?“",
    "zeit": "2026-11-13T20:13:00.000Z",
    "quelle": "Borussia"
-  },
-  {
-   "dach": "Höchstes Amt im Karneval",
-   "titel": "Mönchengladbachs neue Prinzen sind proklamiert",
-   "zeit": "2026-11-13T19:38:39.000Z",
-   "quelle": "Mönchengladbach"
   },
   {
    "dach": "45 Tore in elf Spielen",
@@ -89,12 +95,6 @@
    "dach": "Gladbachs 1:0-Erfolg",
    "titel": "Blessins Erkenntnisse gegen Lüttich und seine Kritik an Hack",
    "zeit": "2026-11-12T20:34:00.000Z",
-   "quelle": "Borussia"
-  },
-  {
-   "dach": "Nach Netzer, Vogts, Heynckes, Lattek, Matthäus",
-   "titel": "Hennes Weisweiler in der Hall of Fame des deutschen Fußballs",
-   "zeit": "2026-11-12T17:21:42.000Z",
    "quelle": "Borussia"
   }
  ]
