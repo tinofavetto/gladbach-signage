@@ -1,16 +1,64 @@
 {
- "stand": "2026-11-15T11:51:49.413Z",
+ "stand": "2026-11-15T18:42:16.280Z",
  "news": [
   {
-   "dach": "Benefizveranstaltung in Mönchengladbach",
-   "titel": "„Die meisten von uns werden irgendwann einmal sterben“",
-   "zeit": "2026-11-15T11:19:29.000Z",
+   "dach": "Das war Spieltag 13 der Bezirksliga",
+   "titel": "In Überzahl dominiert Wickrath im Derby den Rheydter SV",
+   "zeit": "2026-11-15T17:01:00.000Z",
    "quelle": "Mönchengladbach"
   },
   {
-   "dach": "„Lasst mich einfach Fußball spielen“",
+   "dach": "Sieg gegen HSG Essen",
+   "titel": "TV Korschenbroich begeistert, Borussia hadert",
+   "zeit": "2026-11-15T16:40:00.000Z",
+   "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "Verfügbares Einkommen",
+   "titel": "Mönchengladbach beim Einkommen in NRW nur auf Platz 347",
+   "zeit": "2026-11-15T16:21:00.000Z",
+   "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "Chor-Auftritt in Mönchengladbach",
+   "titel": "„Cantica vobis“ präsentiert sich mit neuem Dirigenten",
+   "zeit": "2026-11-15T16:00:00.000Z",
+   "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "Volkstrauertag in Mönchengladbach",
+   "titel": "„Ich wünsche uns einen dauerhaften Frieden, der die Bundeswehr überflüssig macht“",
+   "zeit": "2026-11-15T16:00:00.000Z",
+   "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "Musiktheater in Mönchengladbach",
+   "titel": "„La Bohème“ mit großen Emotionen und üppigen Bildern",
+   "zeit": "2026-11-15T16:00:00.000Z",
+   "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "Schwelbrand in Mönchengladbach",
+   "titel": "Feuerwehr auf der Limitenstraße im Einsatz",
+   "zeit": "2026-11-15T14:36:32.000Z",
+   "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "„Früher war ich elastischer“",
+   "titel": "Gladbach-Legende Wolfgang Kleff wird 80",
+   "zeit": "2026-11-15T14:31:00.000Z",
+   "quelle": "Borussia"
+  },
+  {
+   "dach": "Proklamation 2026 in Mönchengladbach",
+   "titel": "Neues Kinderprinzenpaar – Lennart I. hat die Haare schön",
+   "zeit": "2026-11-15T12:38:58.000Z",
+   "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "Gegen die Niederlande erneut nicht im Kader",
    "titel": "Mohya äußert sich zu seiner Zukunft – in Gladbach und beim DFB",
-   "zeit": "2026-11-15T10:00:12.000Z",
+   "zeit": "2026-11-15T12:01:00.000Z",
    "quelle": "Borussia"
   },
   {
@@ -20,52 +68,10 @@
    "quelle": "Borussia"
   },
   {
-   "dach": "Innenstädte in Gladbach und Rheydt",
-   "titel": "„Das Geschäftsmodell von Kaufhäusern funktioniert größtenteils nicht mehr“",
-   "zeit": "2026-11-15T05:17:00.000Z",
-   "quelle": "Mönchengladbach"
-  },
-  {
    "dach": "„Spiele kein Spiel vor den Fans“",
    "titel": "Trainer Blessin gewährt Einblicke in seine ersten Wochen bei Borussia",
    "zeit": "2026-11-14T13:04:40.000Z",
    "quelle": "Borussia"
-  },
-  {
-   "dach": "Explosionen in Mönchengladbach",
-   "titel": "Diese Böllerei ist kein einfacher Jugendstreich",
-   "zeit": "2026-11-14T11:12:00.000Z",
-   "quelle": "Mönchengladbach"
-  },
-  {
-   "dach": "Immobilien an Hauptbahnhof in Mönchengladbach",
-   "titel": "Bei Haus Westland sind sich alle einig",
-   "zeit": "2026-11-14T05:17:00.000Z",
-   "quelle": "Mönchengladbach"
-  },
-  {
-   "dach": "Tanzen in Mönchengladbach",
-   "titel": "Balfolk-Tanzen wie in der Bretagne",
-   "zeit": "2026-11-14T04:22:00.000Z",
-   "quelle": "Mönchengladbach"
-  },
-  {
-   "dach": "Aktion Jecke Täsch",
-   "titel": "NEW verteilt 200.000 Gummibärchentütchen an Karnevalsgruppen",
-   "zeit": "2026-11-14T04:19:00.000Z",
-   "quelle": "Mönchengladbach"
-  },
-  {
-   "dach": "Einkommen in Mönchengladbach",
-   "titel": "So viel Geld haben Mönchengladbacher monatlich zur Verfügung",
-   "zeit": "2026-11-14T04:03:00.000Z",
-   "quelle": "Mönchengladbach"
-  },
-  {
-   "dach": "Neues Prinzenpaar in Mönchengladbach",
-   "titel": "Zwei Prinzen, viele Bützchen und ein Saal voller Vielfalt",
-   "zeit": "2026-11-14T00:11:00.000Z",
-   "quelle": "Mönchengladbach"
   },
   {
    "dach": "Gladbach sucht einen neuen Hauptsponsor",
@@ -89,12 +95,6 @@
    "dach": "„Das hindert ihn nicht“",
    "titel": "Blessin sieht klaren Vorteil in Kühns ungewohnter Rolle bei Borussia",
    "zeit": "2026-11-13T05:02:00.000Z",
-   "quelle": "Borussia"
-  },
-  {
-   "dach": "Gladbachs 1:0-Erfolg",
-   "titel": "Blessins Erkenntnisse gegen Lüttich und seine Kritik an Hack",
-   "zeit": "2026-11-12T20:34:00.000Z",
    "quelle": "Borussia"
   }
  ]
