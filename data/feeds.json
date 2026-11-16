@@ -1,11 +1,53 @@
 {
- "stand": "2026-11-15T23:21:23.872Z",
+ "stand": "2026-11-16T12:34:51.143Z",
  "news": [
+  {
+   "dach": "Veranstaltung in Mönchengladbach ",
+   "titel": "„Der Islam und ich“ – Hasnain Kazim liest in der Stadtbibliothek",
+   "zeit": "2026-11-16T11:00:00.000Z",
+   "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "Rund 123.000 Euro Kosten",
+   "titel": "Schlagstöcke und neue Bodycams für das Ordnungsamt Mönchengladbach",
+   "zeit": "2026-11-16T11:00:00.000Z",
+   "quelle": "Mönchengladbach"
+  },
   {
    "dach": "Blessins genauer Blick auf Fleck",
    "titel": "Wie Borussias Talente den Profis im Training und im Testspiel halfen",
-   "zeit": "2026-11-15T19:58:00.000Z",
+   "zeit": "2026-11-16T07:49:00.000Z",
    "quelle": "Borussia"
+  },
+  {
+   "dach": "„Mara hat ein tolles Spiel gemacht“",
+   "titel": "Bei Debüt der 16-jährigen Torhüterin – Borussia feiert vierten Sieg in Serie",
+   "zeit": "2026-11-16T06:03:00.000Z",
+   "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "„Mara hat ein tolles Spiel gemacht“",
+   "titel": "Bei Debüt der 16-jährigen Torhüterin – Borussia feiert vierten Sieg in Serie",
+   "zeit": "2026-11-16T06:03:00.000Z",
+   "quelle": "Borussia"
+  },
+  {
+   "dach": "Bauturbo in Mönchengladbach",
+   "titel": "Auf diesem Parkplatz sollen 76 Wohnungen entstehen",
+   "zeit": "2026-11-16T05:17:00.000Z",
+   "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "Närrisches Doppel-Jubiläum in Mönchengladbach",
+   "titel": "Ein Panda, ein Vogel und ein großes Fest in der Burggrafenhalle",
+   "zeit": "2026-11-16T04:22:00.000Z",
+   "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "Innenstadt von Mönchengladbach",
+   "titel": "Hindenburgstraße: Pocket Park zum Museum Abteiberg fast fertig",
+   "zeit": "2026-11-16T04:09:00.000Z",
+   "quelle": "Mönchengladbach"
   },
   {
    "dach": "„Mut, Energie und Gier fehlten heute“",
@@ -17,42 +59,6 @@
    "dach": "Der Spieltag der Landesliga",
    "titel": "Verpasstes 2:0, bitteres 1:2 – Neuwerk geht in Lintfort leer aus",
    "zeit": "2026-11-15T19:05:00.000Z",
-   "quelle": "Mönchengladbach"
-  },
-  {
-   "dach": "Das war Spieltag 13 der Bezirksliga",
-   "titel": "In Überzahl dominiert Wickrath im Derby den Rheydter SV",
-   "zeit": "2026-11-15T17:01:00.000Z",
-   "quelle": "Mönchengladbach"
-  },
-  {
-   "dach": "Sieg gegen HSG Essen",
-   "titel": "TV Korschenbroich begeistert, Borussia hadert",
-   "zeit": "2026-11-15T16:40:00.000Z",
-   "quelle": "Mönchengladbach"
-  },
-  {
-   "dach": "Verfügbares Einkommen",
-   "titel": "Mönchengladbach beim Einkommen in NRW nur auf Platz 347",
-   "zeit": "2026-11-15T16:21:00.000Z",
-   "quelle": "Mönchengladbach"
-  },
-  {
-   "dach": "Chor-Auftritt in Mönchengladbach",
-   "titel": "„Cantica vobis“ präsentiert sich mit neuem Dirigenten",
-   "zeit": "2026-11-15T16:00:00.000Z",
-   "quelle": "Mönchengladbach"
-  },
-  {
-   "dach": "Volkstrauertag in Mönchengladbach",
-   "titel": "„Ich wünsche uns einen dauerhaften Frieden, der die Bundeswehr überflüssig macht“",
-   "zeit": "2026-11-15T16:00:00.000Z",
-   "quelle": "Mönchengladbach"
-  },
-  {
-   "dach": "Musiktheater in Mönchengladbach",
-   "titel": "„La Bohème“ mit großen Emotionen und üppigen Bildern",
-   "zeit": "2026-11-15T16:00:00.000Z",
    "quelle": "Mönchengladbach"
   },
   {
@@ -89,12 +95,6 @@
    "dach": "45 Tore in elf Spielen",
    "titel": "Borussias U17 mischt im deutschen Nachwuchs ganz oben mit",
    "zeit": "2026-11-13T17:02:00.000Z",
-   "quelle": "Borussia"
-  },
-  {
-   "dach": "Gehört Neuhaus dazu?",
-   "titel": "Wer in Gladbach akut das Leaderproblem lösen könnte",
-   "zeit": "2026-11-13T13:21:00.000Z",
    "quelle": "Borussia"
   }
  ]
