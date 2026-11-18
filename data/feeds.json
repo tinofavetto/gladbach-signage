@@ -1,59 +1,71 @@
 {
- "stand": "2026-11-17T21:42:16.328Z",
+ "stand": "2026-11-18T12:53:23.297Z",
  "news": [
   {
-   "dach": "Razzia bei Rockern",
-   "titel": "Ministerium verbietet Gladbacher Hells-Angels-Ableger – 40-Jähriger festgenommen",
-   "zeit": "2026-11-17T16:35:00.000Z",
+   "dach": "Razzia und Vereinsverbot",
+   "titel": "Wurden die „Hells Angels“ in Mönchengladbach gewarnt?",
+   "zeit": "2026-11-18T12:30:00.000Z",
+   "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "Sicherheitspolitisches Forum in Mönchengladbach",
+   "titel": "„Drohnen haben die Kriegführung sehr verändert“",
+   "zeit": "2026-11-18T12:00:00.000Z",
+   "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "Schwerverletzte in Mönchengladbach",
+   "titel": "87-jährige Fußgängerin wird von Auto angefahren",
+   "zeit": "2026-11-18T11:57:45.000Z",
+   "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "TV Korschenbroich",
+   "titel": "Eine Schwimmabteilung macht auf sich aufmerksam",
+   "zeit": "2026-11-18T11:25:00.000Z",
+   "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "„Das Beste passiert, was passieren konnte“",
+   "titel": "Borussias U19 steht vor Endspiel und hat dennoch ein wertvolles Ziel schon erreicht",
+   "zeit": "2026-11-18T11:09:00.000Z",
+   "quelle": "Borussia"
+  },
+  {
+   "dach": "Software-Entwickler aus Mönchengladbach",
+   "titel": "„Das KI-Programm soll die Lehrer nicht ersetzen“",
+   "zeit": "2026-11-18T11:00:00.000Z",
+   "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "Zocken statt Training?",
+   "titel": "Bringt „Grand Theft Auto 6“ die lokalen Fußballmannschaften durcheinander?",
+   "zeit": "2026-11-18T10:11:00.000Z",
    "quelle": "Mönchengladbach"
   },
   {
    "dach": "Neuer Weihnachtsmarkt in Mönchengladbach",
    "titel": "Der „Winterzauber“ am Nordpark ist gestartet – das kosten Glühwein und Co.",
-   "zeit": "2026-11-17T16:30:00.000Z",
+   "zeit": "2026-11-18T09:55:00.000Z",
    "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "Verkehr in Mönchengladbach",
+   "titel": "Mehr Parkzeit soll Druck am Landgericht mindern",
+   "zeit": "2026-11-18T05:17:00.000Z",
+   "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "Schlechte Prognosen",
+   "titel": "Gladbach muss den Abstiegs-Wahrscheinlichkeiten trotzen",
+   "zeit": "2026-11-18T05:02:00.000Z",
+   "quelle": "Borussia"
   },
   {
    "dach": "Florian Neuhaus über seine Zukunft",
    "titel": "„Das wird definitiv nicht passieren“",
    "zeit": "2026-11-17T16:26:00.000Z",
    "quelle": "Borussia"
-  },
-  {
-   "dach": "„Wochenendrebellen 2“",
-   "titel": "„Probe beginnt!“ – Mönchengladbacher Grundschule wird zur Kinokulisse",
-   "zeit": "2026-11-17T16:25:00.000Z",
-   "quelle": "Mönchengladbach"
-  },
-  {
-   "dach": "Stadtfinanzen in Mönchengladbach",
-   "titel": "Was die Groko am leerstehenden Bunker plant",
-   "zeit": "2026-11-17T16:20:00.000Z",
-   "quelle": "Mönchengladbach"
-  },
-  {
-   "dach": "Statistisches Landesamt",
-   "titel": "Mönchengladbach hatte 2025 über eine Milliarde Euro Schulden",
-   "zeit": "2026-11-17T16:02:00.000Z",
-   "quelle": "Mönchengladbach"
-  },
-  {
-   "dach": "Überblick zur Rocker-Razzia",
-   "titel": "Warum der Gladbacher Hells Angels Club verboten wurde",
-   "zeit": "2026-11-17T15:40:00.000Z",
-   "quelle": "Mönchengladbach"
-  },
-  {
-   "dach": "Bonnenbroicher Straße in Mönchengladbach",
-   "titel": "Feuerwehr löscht Brand auf Veranstaltungsgelände",
-   "zeit": "2026-11-17T15:10:21.000Z",
-   "quelle": "Mönchengladbach"
-  },
-  {
-   "dach": "„Dooring“-Unfall in Mönchengladbach",
-   "titel": "64-jähriger Fahrradfahrer wird bei Zusammenstoß schwer verletzt",
-   "zeit": "2026-11-17T14:30:36.000Z",
-   "quelle": "Mönchengladbach"
   },
   {
    "dach": "„Glaube nicht, dass sich etwas ändert“",
@@ -83,18 +95,6 @@
    "dach": "„Haben für beide Ligen unterschrieben“",
    "titel": "Schröder stellt sich der Kritik und gibt einen Ausblick auf den Transferwinter",
    "zeit": "2026-11-16T13:07:55.000Z",
-   "quelle": "Borussia"
-  },
-  {
-   "dach": "Blessins genauer Blick auf Fleck",
-   "titel": "Wie Borussias Talente den Profis im Training und im Testspiel halfen",
-   "zeit": "2026-11-16T07:49:00.000Z",
-   "quelle": "Borussia"
-  },
-  {
-   "dach": "„Mara hat ein tolles Spiel gemacht“",
-   "titel": "Bei Debüt der 16-jährigen Torhüterin – Borussia feiert vierten Sieg in Serie",
-   "zeit": "2026-11-16T06:03:00.000Z",
    "quelle": "Borussia"
   }
  ]
