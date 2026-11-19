@@ -1,29 +1,65 @@
 {
- "stand": "2026-11-19T12:44:43.845Z",
+ "stand": "2026-11-19T21:18:39.130Z",
  "news": [
   {
-   "dach": "„Almer Supermarkt“ in Gladbach",
-   "titel": "Großer Andrang bei Eröffnung von türkischem Supermarkt",
-   "zeit": "2026-11-19T12:18:17.000Z",
+   "dach": "„Haben schon viel liegen lassen“",
+   "titel": "Aufatmen beim Erkelenzer VV nach erstem Saisonsieg",
+   "zeit": "2026-11-19T17:00:00.000Z",
+   "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "„Es ist immer bitter“",
+   "titel": "Wintertransfers – was Schröder und Blessin erwarten",
+   "zeit": "2026-11-19T16:41:00.000Z",
+   "quelle": "Borussia"
+  },
+  {
+   "dach": "Tradition in Mönchengladbach",
+   "titel": "Der „schönste“ Karnevalsorden der Session kommt aus Wickrath",
+   "zeit": "2026-11-19T16:37:26.000Z",
+   "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "Pläne für Mönchengladbacher Forst",
+   "titel": "6000 Unterschriften gegen Windräder im Wald – und doch schlechte Chancen",
+   "zeit": "2026-11-19T16:33:00.000Z",
+   "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "Neuer Weihnachtsmarkt in Mönchengladbach",
+   "titel": "So viel kosten Glühwein und Co. auf dem „Winterzauber“ am Nordpark",
+   "zeit": "2026-11-19T16:33:00.000Z",
+   "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "Schwere Vorwürfe gegen Beamte",
+   "titel": "Mönchengladbachs Polizeipräsident sagt im Landtag zu Skandal aus",
+   "zeit": "2026-11-19T16:25:00.000Z",
+   "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "Überfall in Mönchengladbach",
+   "titel": "„Ich schlug die Räuber mit dem Kampfschwert meiner Kinder in die Flucht“",
+   "zeit": "2026-11-19T16:20:00.000Z",
    "quelle": "Mönchengladbach"
   },
   {
    "dach": "Konsolidierung Evangelische Kirche",
    "titel": "Kirchenkreis Gladbach-Neuss trennt sich von der Hälfte seiner Immobilien",
-   "zeit": "2026-11-19T12:09:00.000Z",
+   "zeit": "2026-11-19T16:17:00.000Z",
    "quelle": "Mönchengladbach"
   },
   {
-   "dach": "Verein in Mönchengladbach",
-   "titel": "Insel Tobi muss ans Ersparte, weil Spenden nicht reichen",
-   "zeit": "2026-11-19T11:00:00.000Z",
+   "dach": "„Almer Supermarkt“ in Gladbach",
+   "titel": "Großer Andrang bei Eröffnung von türkischem Supermarkt",
+   "zeit": "2026-11-19T16:15:00.000Z",
    "quelle": "Mönchengladbach"
   },
   {
-   "dach": "Mönchengladbach 2026",
-   "titel": "Kunst in Kleinstauflage – das sind die Jahresgaben des Museumsverein",
-   "zeit": "2026-11-19T11:00:00.000Z",
-   "quelle": "Mönchengladbach"
+   "dach": "„Lasst euch überraschen“",
+   "titel": "Mehr Optionen für Borussias Trainer – doch Blessin hält sich bedeckt",
+   "zeit": "2026-11-19T14:11:36.000Z",
+   "quelle": "Borussia"
   },
   {
    "dach": "Liveticker zum Spiel",
@@ -32,34 +68,10 @@
    "quelle": "Borussia"
   },
   {
-   "dach": "Razzia und Vereinsverbot",
-   "titel": "Wurden die „Hells Angels“ in Mönchengladbach gewarnt?",
-   "zeit": "2026-11-19T09:23:00.000Z",
-   "quelle": "Mönchengladbach"
-  },
-  {
-   "dach": "Torfabriken im Amateurfußball",
-   "titel": "Das sind die treffsichersten Mannschaften im Fußballkreis",
-   "zeit": "2026-11-19T06:00:00.000Z",
-   "quelle": "Mönchengladbach"
-  },
-  {
-   "dach": "Vor dem NRW-Untersuchungsausschuss",
-   "titel": "Mönchengladbachs Polizeipräsident sagt zu Skandal aus",
-   "zeit": "2026-11-19T05:17:00.000Z",
-   "quelle": "Mönchengladbach"
-  },
-  {
    "dach": "„Alles vorab klar geregelt“",
    "titel": "Verträge gelten bei Abstieg – was das für Gladbach bedeutet",
    "zeit": "2026-11-19T05:02:00.000Z",
    "quelle": "Borussia"
-  },
-  {
-   "dach": "Umfrage in der Mönchengladbacher Redaktion",
-   "titel": "Die sechs Glaubensfragen des Weckmanns",
-   "zeit": "2026-11-19T04:22:00.000Z",
-   "quelle": "Mönchengladbach"
   },
   {
    "dach": "Florian Neuhaus über Abstiegskampf mit Gladbach",
@@ -83,18 +95,6 @@
    "dach": "Schlechte Prognosen",
    "titel": "Gladbach muss den Abstiegs-Wahrscheinlichkeiten trotzen",
    "zeit": "2026-11-18T05:02:00.000Z",
-   "quelle": "Borussia"
-  },
-  {
-   "dach": "„Glaube nicht, dass sich etwas ändert“",
-   "titel": "Blessin braucht weiter Geduld bei Trio um Borussias Kapitän Tim Kleindienst",
-   "zeit": "2026-11-17T13:08:26.000Z",
-   "quelle": "Borussia"
-  },
-  {
-   "dach": "„Das wird auch spannend“",
-   "titel": "Klopp schwärmt von Mohya, Schröder macht eine Transfer-Ansage",
-   "zeit": "2026-11-17T10:34:53.000Z",
    "quelle": "Borussia"
   }
  ]
