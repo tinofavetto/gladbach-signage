@@ -1,6 +1,66 @@
 {
- "stand": "2026-11-18T21:17:12.755Z",
+ "stand": "2026-11-19T12:44:43.845Z",
  "news": [
+  {
+   "dach": "„Almer Supermarkt“ in Gladbach",
+   "titel": "Großer Andrang bei Eröffnung von türkischem Supermarkt",
+   "zeit": "2026-11-19T12:18:17.000Z",
+   "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "Konsolidierung Evangelische Kirche",
+   "titel": "Kirchenkreis Gladbach-Neuss trennt sich von der Hälfte seiner Immobilien",
+   "zeit": "2026-11-19T12:09:00.000Z",
+   "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "Verein in Mönchengladbach",
+   "titel": "Insel Tobi muss ans Ersparte, weil Spenden nicht reichen",
+   "zeit": "2026-11-19T11:00:00.000Z",
+   "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "Mönchengladbach 2026",
+   "titel": "Kunst in Kleinstauflage – das sind die Jahresgaben des Museumsverein",
+   "zeit": "2026-11-19T11:00:00.000Z",
+   "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "Liveticker zum Spiel",
+   "titel": "Gladbach empfängt Dortmund zum Borussen-Duell",
+   "zeit": "2026-11-19T09:59:00.000Z",
+   "quelle": "Borussia"
+  },
+  {
+   "dach": "Razzia und Vereinsverbot",
+   "titel": "Wurden die „Hells Angels“ in Mönchengladbach gewarnt?",
+   "zeit": "2026-11-19T09:23:00.000Z",
+   "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "Torfabriken im Amateurfußball",
+   "titel": "Das sind die treffsichersten Mannschaften im Fußballkreis",
+   "zeit": "2026-11-19T06:00:00.000Z",
+   "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "Vor dem NRW-Untersuchungsausschuss",
+   "titel": "Mönchengladbachs Polizeipräsident sagt zu Skandal aus",
+   "zeit": "2026-11-19T05:17:00.000Z",
+   "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "„Alles vorab klar geregelt“",
+   "titel": "Verträge gelten bei Abstieg – was das für Gladbach bedeutet",
+   "zeit": "2026-11-19T05:02:00.000Z",
+   "quelle": "Borussia"
+  },
+  {
+   "dach": "Umfrage in der Mönchengladbacher Redaktion",
+   "titel": "Die sechs Glaubensfragen des Weckmanns",
+   "zeit": "2026-11-19T04:22:00.000Z",
+   "quelle": "Mönchengladbach"
+  },
   {
    "dach": "Florian Neuhaus über Abstiegskampf mit Gladbach",
    "titel": "„Solche Emotionen habe ich lange nicht gespürt“",
@@ -8,58 +68,10 @@
    "quelle": "Borussia"
   },
   {
-   "dach": "Dreh für „Wochenendrebellen 2“",
-   "titel": "„Probe beginnt!“ – Mönchengladbacher Grundschule wird zur Kino-Kulisse",
-   "zeit": "2026-11-18T17:46:00.000Z",
-   "quelle": "Mönchengladbach"
-  },
-  {
-   "dach": "Razzia und Vereinsverbot",
-   "titel": "Wurden die „Hells Angels“ in Mönchengladbach gewarnt?",
-   "zeit": "2026-11-18T17:42:00.000Z",
-   "quelle": "Mönchengladbach"
-  },
-  {
-   "dach": "Aus Mönchengladbach",
-   "titel": "Jannik de Bruyn ist zurück in der Golfelite",
-   "zeit": "2026-11-18T17:00:00.000Z",
-   "quelle": "Mönchengladbach"
-  },
-  {
-   "dach": "Plan für Mönchengladbacher Militärgelände",
-   "titel": "Kann das Abschiebegefängnis eines Tages eine JVA werden?",
-   "zeit": "2026-11-18T16:33:00.000Z",
-   "quelle": "Mönchengladbach"
-  },
-  {
-   "dach": "Eröffnungsfeier in der Ruug Bar",
-   "titel": "Hilfe auf Knopfdruck beim Feiern – neue App startet",
-   "zeit": "2026-11-18T16:01:00.000Z",
-   "quelle": "Mönchengladbach"
-  },
-  {
-   "dach": "Förderpreis 2026 in Mönchengladbach",
-   "titel": "Theaterfreunde zeichnen Jeconiah „Jeco“ Retulla aus",
-   "zeit": "2026-11-18T16:00:00.000Z",
-   "quelle": "Mönchengladbach"
-  },
-  {
-   "dach": "Ausgehtipps für Mönchengladbach",
-   "titel": "„Mord auf der Couch“ und Jazz im BIS – was die Kultur vom 18. bis zum 22. November bietet",
-   "zeit": "2026-11-18T15:13:00.000Z",
-   "quelle": "Mönchengladbach"
-  },
-  {
    "dach": "Zwei Nationalspieler wieder dabei",
    "titel": "Borussias Mohya gibt bei Rückkehr gleich Vollgas – Individuelle Einheit für Chiarodia",
    "zeit": "2026-11-18T14:51:00.000Z",
    "quelle": "Borussia"
-  },
-  {
-   "dach": "Nach Zeugenhinweisen",
-   "titel": "Gestohlene Werbeanhänger in Garage gefunden",
-   "zeit": "2026-11-18T14:34:44.000Z",
-   "quelle": "Mönchengladbach"
   },
   {
    "dach": "„Das Beste passiert, was passieren konnte“",
@@ -83,18 +95,6 @@
    "dach": "„Das wird auch spannend“",
    "titel": "Klopp schwärmt von Mohya, Schröder macht eine Transfer-Ansage",
    "zeit": "2026-11-17T10:34:53.000Z",
-   "quelle": "Borussia"
-  },
-  {
-   "dach": "Ständige Wechsel in Borussias Abwehr",
-   "titel": "Itakuras Formschwäche setzt Chiarodia einen Aufwärtstrend entgegen",
-   "zeit": "2026-11-17T05:04:00.000Z",
-   "quelle": "Borussia"
-  },
-  {
-   "dach": "Fohlenfutter-Podcast",
-   "titel": "Kein Mohya-Debüt beim DFB, aber die Frage nach einer Kader-Veränderung und das BVB-Spiel",
-   "zeit": "2026-11-16T14:32:00.000Z",
    "quelle": "Borussia"
   }
  ]
