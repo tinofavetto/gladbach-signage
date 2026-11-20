@@ -1,11 +1,65 @@
 {
- "stand": "2026-11-20T12:41:08.811Z",
+ "stand": "2026-11-20T20:59:11.872Z",
  "news": [
   {
-   "dach": "Mönchengladbachs größter Forst",
-   "titel": "Stadt genehmigt Windräder im Hardter Wald",
-   "zeit": "2026-11-20T12:17:16.000Z",
+   "dach": "Erinnerungen an letztes BVB-Spiel",
+   "titel": "Borussias hartes Programm ist kein Thema für Blessin und Co.",
+   "zeit": "2026-11-20T19:39:00.000Z",
+   "quelle": "Borussia"
+  },
+  {
+   "dach": "Einsatz der Feuerwehr Mönchengladbach",
+   "titel": "Jugendliche stürzt an Gesamtschule in Schacht",
+   "zeit": "2026-11-20T18:29:18.000Z",
    "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "Einsatz im Rheindahlener Land",
+   "titel": "Wäschetrockner brennt – Feuerwehr muss löschen",
+   "zeit": "2026-11-20T18:17:45.000Z",
+   "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "Jazz-Konzert in Mönchengladbach ",
+   "titel": "Lilli Kornhuber bringt „Girl Talk“ in die Zentralbibliothek",
+   "zeit": "2026-11-20T16:39:29.000Z",
+   "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "Sperrung seit Jahren",
+   "titel": "Das Drama an der Kita Hülserkamp in Mönchengladbach geht weiter",
+   "zeit": "2026-11-20T16:30:00.000Z",
+   "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "Schüler auf dem Heimweg nach Mönchengladbach",
+   "titel": "Eltern in Sorge wegen mutmaßlichem Entführungsversuch",
+   "zeit": "2026-11-20T16:25:00.000Z",
+   "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "Museums-Durchstich in Mönchengladbach",
+   "titel": "„Im Frühling wird das hier ein schöner, bunter Ort“",
+   "zeit": "2026-11-20T16:20:00.000Z",
+   "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "Der Fuchs ist Staatsfeind Nummer eins",
+   "titel": "So war die Premiere von „Foxfinder“ am Theater Mönchengladbach",
+   "zeit": "2026-11-20T16:15:00.000Z",
+   "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "Auf der COP31",
+   "titel": "Mönchengladbacherin bei der Weltklimakonferenz – „Man sieht leider wenige Ergebnisse“",
+   "zeit": "2026-11-20T16:01:00.000Z",
+   "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "3-4-2-1 statt 4-2-3-1",
+   "titel": "Gladbachs System-Unwucht muss kein Problem sein",
+   "zeit": "2026-11-20T15:33:00.000Z",
+   "quelle": "Borussia"
   },
   {
    "dach": "Heimspiel gegen Bonn kurzfristig abgesagt",
@@ -14,52 +68,10 @@
    "quelle": "Borussia"
   },
   {
-   "dach": "21. und 22. November in Mönchengladbach",
-   "titel": "Live-Musik und die ersten Weihnachtsmärkte – die besten Tipps fürs Wochenende",
-   "zeit": "2026-11-20T11:50:00.000Z",
-   "quelle": "Mönchengladbach"
-  },
-  {
-   "dach": "Schüler auf dem Heimweg nach Mönchengladbach",
-   "titel": "Eltern in Sorge wegen mutmaßlichem Entführungsversuch",
-   "zeit": "2026-11-20T11:48:00.000Z",
-   "quelle": "Mönchengladbach"
-  },
-  {
-   "dach": "Kolumne Denkanstoß",
-   "titel": "Wem das letzte Wort gehört",
-   "zeit": "2026-11-20T11:00:00.000Z",
-   "quelle": "Mönchengladbach"
-  },
-  {
-   "dach": "Nachruf",
-   "titel": "O. E. Schütz setzte über vier Jahrzehnte den Ton in der Borussia-Berichterstattung",
-   "zeit": "2026-11-20T10:55:00.000Z",
-   "quelle": "Mönchengladbach"
-  },
-  {
    "dach": "Nachruf",
    "titel": "O. E. Schütz setzte über vier Jahrzehnte den Ton in der Borussia-Berichterstattung",
    "zeit": "2026-11-20T10:55:00.000Z",
    "quelle": "Borussia"
-  },
-  {
-   "dach": "Überfall in Mönchengladbach",
-   "titel": "„Ich schlug die Räuber mit dem Kampfschwert meiner Kinder in die Flucht“",
-   "zeit": "2026-11-20T10:43:00.000Z",
-   "quelle": "Mönchengladbach"
-  },
-  {
-   "dach": "Kreispokal Kempen-Krefeld",
-   "titel": "Kaldenkirchen wirft den nächsten höherklassigen Klub im Elfmeterschießen raus",
-   "zeit": "2026-11-20T10:24:00.000Z",
-   "quelle": "Mönchengladbach"
-  },
-  {
-   "dach": "„Almer Supermarkt“ in Gladbach",
-   "titel": "Großer Andrang bei Eröffnung von türkischem Supermarkt",
-   "zeit": "2026-11-20T09:40:00.000Z",
-   "quelle": "Mönchengladbach"
   },
   {
    "dach": "Fleck folgt auf Mohya und Nguefack",
@@ -83,18 +95,6 @@
    "dach": "Liveticker zum Spiel",
    "titel": "Gladbach empfängt Dortmund zum Borussen-Duell",
    "zeit": "2026-11-19T09:59:00.000Z",
-   "quelle": "Borussia"
-  },
-  {
-   "dach": "„Alles vorab klar geregelt“",
-   "titel": "Verträge gelten bei Abstieg – was das für Gladbach bedeutet",
-   "zeit": "2026-11-19T05:02:00.000Z",
-   "quelle": "Borussia"
-  },
-  {
-   "dach": "Florian Neuhaus über Abstiegskampf mit Gladbach",
-   "titel": "„Solche Emotionen habe ich lange nicht gespürt“",
-   "zeit": "2026-11-18T18:43:00.000Z",
    "quelle": "Borussia"
   }
  ]
