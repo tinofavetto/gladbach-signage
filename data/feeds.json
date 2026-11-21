@@ -1,58 +1,64 @@
 {
- "stand": "2026-11-20T20:59:11.872Z",
+ "stand": "2026-11-21T12:22:29.519Z",
  "news": [
   {
-   "dach": "Erinnerungen an letztes BVB-Spiel",
-   "titel": "Borussias hartes Programm ist kein Thema für Blessin und Co.",
-   "zeit": "2026-11-20T19:39:00.000Z",
+   "dach": "Kolumne Mensch Gladbach",
+   "titel": "Getrennte Szenen mit zwei Tagestreffs – ein guter Kompromiss",
+   "zeit": "2026-11-21T11:11:00.000Z",
+   "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "Schlechte Erinnerungen an ein 4:5",
+   "titel": "Borussia reist selbstbewusst zu einem „unberechenbaren“ Gegner",
+   "zeit": "2026-11-21T09:00:00.000Z",
+   "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "Schlechte Erinnerungen an ein 4:5",
+   "titel": "Borussia reist selbstbewusst zu einem „unberechenbaren“ Gegner",
+   "zeit": "2026-11-21T09:00:00.000Z",
    "quelle": "Borussia"
   },
   {
-   "dach": "Einsatz der Feuerwehr Mönchengladbach",
-   "titel": "Jugendliche stürzt an Gesamtschule in Schacht",
-   "zeit": "2026-11-20T18:29:18.000Z",
+   "dach": "Erinnerungen an letztes BVB-Spiel",
+   "titel": "Borussias hartes Programm ist kein Thema für Blessin und Co.",
+   "zeit": "2026-11-21T08:44:00.000Z",
+   "quelle": "Borussia"
+  },
+  {
+   "dach": "21. und 22. November in Mönchengladbach",
+   "titel": "Live-Musik und die ersten Weihnachtsmärkte – die besten Tipps fürs Wochenende",
+   "zeit": "2026-11-21T06:27:00.000Z",
    "quelle": "Mönchengladbach"
   },
   {
-   "dach": "Einsatz im Rheindahlener Land",
-   "titel": "Wäschetrockner brennt – Feuerwehr muss löschen",
-   "zeit": "2026-11-20T18:17:45.000Z",
+   "dach": "Offener Ganztag in Mönchengladbach",
+   "titel": "Kritik an OGS-Abholzeiten – „das ist doch aberwitzig“",
+   "zeit": "2026-11-21T05:17:00.000Z",
    "quelle": "Mönchengladbach"
   },
   {
-   "dach": "Jazz-Konzert in Mönchengladbach ",
-   "titel": "Lilli Kornhuber bringt „Girl Talk“ in die Zentralbibliothek",
-   "zeit": "2026-11-20T16:39:29.000Z",
+   "dach": "Ein Festschmaus im Karton",
+   "titel": "Tafel Mönchengladbach bittet um Weihnachtsspenden für Bedürftige",
+   "zeit": "2026-11-21T04:22:00.000Z",
    "quelle": "Mönchengladbach"
   },
   {
-   "dach": "Sperrung seit Jahren",
-   "titel": "Das Drama an der Kita Hülserkamp in Mönchengladbach geht weiter",
-   "zeit": "2026-11-20T16:30:00.000Z",
+   "dach": "Ausstellung in der Wallstraßengalerie Mönchengladbach",
+   "titel": "Still, aber komplex — Erinnerung an verstorbene Künstlerin Erika Grandt",
+   "zeit": "2026-11-21T04:19:00.000Z",
    "quelle": "Mönchengladbach"
   },
   {
-   "dach": "Schüler auf dem Heimweg nach Mönchengladbach",
-   "titel": "Eltern in Sorge wegen mutmaßlichem Entführungsversuch",
-   "zeit": "2026-11-20T16:25:00.000Z",
+   "dach": "Unerwartete Abgänge in Mennrath",
+   "titel": "„Meistens siehst du die richtigen Charaktere erst beim Misserfolg“",
+   "zeit": "2026-11-21T04:10:00.000Z",
    "quelle": "Mönchengladbach"
   },
   {
-   "dach": "Museums-Durchstich in Mönchengladbach",
-   "titel": "„Im Frühling wird das hier ein schöner, bunter Ort“",
-   "zeit": "2026-11-20T16:20:00.000Z",
-   "quelle": "Mönchengladbach"
-  },
-  {
-   "dach": "Der Fuchs ist Staatsfeind Nummer eins",
-   "titel": "So war die Premiere von „Foxfinder“ am Theater Mönchengladbach",
-   "zeit": "2026-11-20T16:15:00.000Z",
-   "quelle": "Mönchengladbach"
-  },
-  {
-   "dach": "Auf der COP31",
-   "titel": "Mönchengladbacherin bei der Weltklimakonferenz – „Man sieht leider wenige Ergebnisse“",
-   "zeit": "2026-11-20T16:01:00.000Z",
+   "dach": "„Es ist Vertrauen verloren gegangen“",
+   "titel": "Fördermittel für geplante Tagebau-Projekte lassen auf sich warten",
+   "zeit": "2026-11-21T04:10:00.000Z",
    "quelle": "Mönchengladbach"
   },
   {
@@ -89,12 +95,6 @@
    "dach": "„Lasst euch überraschen“",
    "titel": "Mehr Optionen für Borussias Trainer – doch Blessin hält sich bedeckt",
    "zeit": "2026-11-19T14:11:36.000Z",
-   "quelle": "Borussia"
-  },
-  {
-   "dach": "Liveticker zum Spiel",
-   "titel": "Gladbach empfängt Dortmund zum Borussen-Duell",
-   "zeit": "2026-11-19T09:59:00.000Z",
    "quelle": "Borussia"
   }
  ]
