@@ -1,6 +1,42 @@
 {
- "stand": "2026-11-21T12:22:29.519Z",
+ "stand": "2026-11-21T19:41:13.021Z",
  "news": [
+  {
+   "dach": "„Das geht nicht“",
+   "titel": "Gladbach mit Elfmeterfrust und Durchhalteansagen",
+   "zeit": "2026-11-21T19:19:00.000Z",
+   "quelle": "Borussia"
+  },
+  {
+   "dach": "Einzelkritik gegen Dortmund",
+   "titel": "Batz patzt, Chiarodia überzeugt, Uno bringt sich in Bedrängnis",
+   "zeit": "2026-11-21T17:04:00.000Z",
+   "quelle": "Borussia"
+  },
+  {
+   "dach": "Spätes Gegentor",
+   "titel": "Dortmund gewinnt das Borussen-Duell durch Bock von Batz",
+   "zeit": "2026-11-21T16:24:00.000Z",
+   "quelle": "Borussia"
+  },
+  {
+   "dach": "Liveticker zum Nachlesen",
+   "titel": "Borussia verliert gegen den BVB",
+   "zeit": "2026-11-21T16:20:00.000Z",
+   "quelle": "Borussia"
+  },
+  {
+   "dach": "Offener Ganztag in Mönchengladbach",
+   "titel": "Kritik an OGS-Abholzeiten – „das ist doch aberwitzig“",
+   "zeit": "2026-11-21T16:17:00.000Z",
+   "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "Vortrag von Polizeigewerkschafter in Mönchengladbach",
+   "titel": "„Probleme werden nicht beim Namen benannt\"",
+   "zeit": "2026-11-21T14:07:00.000Z",
+   "quelle": "Mönchengladbach"
+  },
   {
    "dach": "Kolumne Mensch Gladbach",
    "titel": "Getrennte Szenen mit zwei Tagestreffs – ein guter Kompromiss",
@@ -32,12 +68,6 @@
    "quelle": "Mönchengladbach"
   },
   {
-   "dach": "Offener Ganztag in Mönchengladbach",
-   "titel": "Kritik an OGS-Abholzeiten – „das ist doch aberwitzig“",
-   "zeit": "2026-11-21T05:17:00.000Z",
-   "quelle": "Mönchengladbach"
-  },
-  {
    "dach": "Ein Festschmaus im Karton",
    "titel": "Tafel Mönchengladbach bittet um Weihnachtsspenden für Bedürftige",
    "zeit": "2026-11-21T04:22:00.000Z",
@@ -56,12 +86,6 @@
    "quelle": "Mönchengladbach"
   },
   {
-   "dach": "„Es ist Vertrauen verloren gegangen“",
-   "titel": "Fördermittel für geplante Tagebau-Projekte lassen auf sich warten",
-   "zeit": "2026-11-21T04:10:00.000Z",
-   "quelle": "Mönchengladbach"
-  },
-  {
    "dach": "3-4-2-1 statt 4-2-3-1",
    "titel": "Gladbachs System-Unwucht muss kein Problem sein",
    "zeit": "2026-11-20T15:33:00.000Z",
@@ -71,30 +95,6 @@
    "dach": "Heimspiel gegen Bonn kurzfristig abgesagt",
    "titel": "Profieinsätze und Trainingsergänzung – Sonderlob für zwei Gladbacher U23-Talente",
    "zeit": "2026-11-20T11:55:00.000Z",
-   "quelle": "Borussia"
-  },
-  {
-   "dach": "Nachruf",
-   "titel": "O. E. Schütz setzte über vier Jahrzehnte den Ton in der Borussia-Berichterstattung",
-   "zeit": "2026-11-20T10:55:00.000Z",
-   "quelle": "Borussia"
-  },
-  {
-   "dach": "Fleck folgt auf Mohya und Nguefack",
-   "titel": "Gladbach wird jünger – trotz Routinier Batz",
-   "zeit": "2026-11-20T05:11:00.000Z",
-   "quelle": "Borussia"
-  },
-  {
-   "dach": "„Es ist immer bitter“",
-   "titel": "Wintertransfers – was Schröder und Blessin erwarten",
-   "zeit": "2026-11-19T16:41:00.000Z",
-   "quelle": "Borussia"
-  },
-  {
-   "dach": "„Lasst euch überraschen“",
-   "titel": "Mehr Optionen für Borussias Trainer – doch Blessin hält sich bedeckt",
-   "zeit": "2026-11-19T14:11:36.000Z",
    "quelle": "Borussia"
   }
  ]
