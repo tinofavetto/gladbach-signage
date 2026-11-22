@@ -1,6 +1,48 @@
 {
- "stand": "2026-11-22T12:25:21.936Z",
+ "stand": "2026-11-22T19:55:35.154Z",
  "news": [
+  {
+   "dach": "„Erwartungen nicht erfüllt“",
+   "titel": "Schröders Kritik an den Führungsspielern – er will im Transferwinter reagieren",
+   "zeit": "2026-11-22T19:27:50.000Z",
+   "quelle": "Borussia"
+  },
+  {
+   "dach": "Unmut am Tagebau Garzweiler",
+   "titel": "„Wir wollen Verlässlichkeit und wünschen uns einen Dialog“",
+   "zeit": "2026-11-22T17:14:00.000Z",
+   "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "Ein „Schweizer“ in Wickrath",
+   "titel": "Enrico Odermatt zum neuen Kreuzritter geschlagen",
+   "zeit": "2026-11-22T16:00:00.000Z",
+   "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "Am Schloss Wickrath in Mönchengladbach",
+   "titel": "Weihnachtsbummeln in barocker Atmosphäre",
+   "zeit": "2026-11-22T16:00:00.000Z",
+   "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "„Mord auf der Couch“ in Mönchengladbach",
+   "titel": "Eine packende Krimi-Reise vom Niederrhein bis nach Paris",
+   "zeit": "2026-11-22T16:00:00.000Z",
+   "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "„Stand zuletzt häufiger in der Kritik“",
+   "titel": "Schröders Lob zeigt Entwicklung bei Chiarodia",
+   "zeit": "2026-11-22T13:28:00.000Z",
+   "quelle": "Borussia"
+  },
+  {
+   "dach": "Offener Ganztag in Mönchengladbach",
+   "titel": "Kritik an OGS-Abholzeiten – „das ist doch aberwitzig“",
+   "zeit": "2026-11-22T13:16:00.000Z",
+   "quelle": "Mönchengladbach"
+  },
   {
    "dach": "Zwischen Liebe, Hass und Gegenwart",
    "titel": "Wie ein junges Ensemble in Mönchengladbach „Romeo und Julia“ neu erzählt",
@@ -26,21 +68,9 @@
    "quelle": "Borussia"
   },
   {
-   "dach": "Offener Ganztag in Mönchengladbach",
-   "titel": "Kritik an OGS-Abholzeiten – „das ist doch aberwitzig“",
-   "zeit": "2026-11-22T07:15:00.000Z",
-   "quelle": "Mönchengladbach"
-  },
-  {
-   "dach": "Interview Elke Bongartz und Antje Heymanns",
+   "dach": "Weißer Ring in Mönchengladbach",
    "titel": "„Es nutzt nichts, wenn ich mitweine“",
    "zeit": "2026-11-22T06:17:00.000Z",
-   "quelle": "Mönchengladbach"
-  },
-  {
-   "dach": "„In meiner Heimat singt jede und jeder“",
-   "titel": "Wie Jeconiah Retulla seinen Weg auf die Opernbühne in Mönchengladbach fand",
-   "zeit": "2026-11-22T04:02:00.000Z",
    "quelle": "Mönchengladbach"
   },
   {
@@ -65,36 +95,6 @@
    "dach": "Liveticker zum Nachlesen",
    "titel": "Borussia verliert gegen den BVB",
    "zeit": "2026-11-21T16:20:00.000Z",
-   "quelle": "Borussia"
-  },
-  {
-   "dach": "Vortrag von Polizeigewerkschafter in Mönchengladbach",
-   "titel": "„Probleme werden nicht beim Namen benannt\"",
-   "zeit": "2026-11-21T14:07:00.000Z",
-   "quelle": "Mönchengladbach"
-  },
-  {
-   "dach": "Kolumne Mensch Gladbach",
-   "titel": "Getrennte Szenen mit zwei Tagestreffs – ein guter Kompromiss",
-   "zeit": "2026-11-21T11:11:00.000Z",
-   "quelle": "Mönchengladbach"
-  },
-  {
-   "dach": "Schlechte Erinnerungen an ein 4:5",
-   "titel": "Borussia reist selbstbewusst zu einem „unberechenbaren“ Gegner",
-   "zeit": "2026-11-21T09:00:00.000Z",
-   "quelle": "Mönchengladbach"
-  },
-  {
-   "dach": "Schlechte Erinnerungen an ein 4:5",
-   "titel": "Borussia reist selbstbewusst zu einem „unberechenbaren“ Gegner",
-   "zeit": "2026-11-21T09:00:00.000Z",
-   "quelle": "Borussia"
-  },
-  {
-   "dach": "Erinnerungen an letztes BVB-Spiel",
-   "titel": "Borussias hartes Programm ist kein Thema für Blessin und Co.",
-   "zeit": "2026-11-21T08:44:00.000Z",
    "quelle": "Borussia"
   }
  ]
