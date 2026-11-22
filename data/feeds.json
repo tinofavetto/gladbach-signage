@@ -1,11 +1,47 @@
 {
- "stand": "2026-11-22T00:13:09.085Z",
+ "stand": "2026-11-22T12:25:21.936Z",
  "news": [
   {
-   "dach": "„Kann mich nur entschuldigen“",
-   "titel": "Keine Torhüterdebatte und ein reumütiger Batz nach Gladbacher Niederlage",
-   "zeit": "2026-11-21T20:45:00.000Z",
+   "dach": "Zwischen Liebe, Hass und Gegenwart",
+   "titel": "Wie ein junges Ensemble in Mönchengladbach „Romeo und Julia“ neu erzählt",
+   "zeit": "2026-11-22T12:22:41.000Z",
+   "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "Gladbach im Abstiegskampf",
+   "titel": "Die Wahrheit des BVB-Spiels ist gefährlich",
+   "zeit": "2026-11-22T10:19:51.000Z",
    "quelle": "Borussia"
+  },
+  {
+   "dach": "Schon über 100 Gegentore",
+   "titel": "Das sind anfälligsten Defensiven des Fußballkreises",
+   "zeit": "2026-11-22T08:02:00.000Z",
+   "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "Nummer eins Nicolas degradiert",
+   "titel": "Trotz Batz-Patzer keine Torwart-Debatte in Gladbach",
+   "zeit": "2026-11-22T07:24:00.000Z",
+   "quelle": "Borussia"
+  },
+  {
+   "dach": "Offener Ganztag in Mönchengladbach",
+   "titel": "Kritik an OGS-Abholzeiten – „das ist doch aberwitzig“",
+   "zeit": "2026-11-22T07:15:00.000Z",
+   "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "Interview Elke Bongartz und Antje Heymanns",
+   "titel": "„Es nutzt nichts, wenn ich mitweine“",
+   "zeit": "2026-11-22T06:17:00.000Z",
+   "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "„In meiner Heimat singt jede und jeder“",
+   "titel": "Wie Jeconiah Retulla seinen Weg auf die Opernbühne in Mönchengladbach fand",
+   "zeit": "2026-11-22T04:02:00.000Z",
+   "quelle": "Mönchengladbach"
   },
   {
    "dach": "„Das geht nicht“",
@@ -30,12 +66,6 @@
    "titel": "Borussia verliert gegen den BVB",
    "zeit": "2026-11-21T16:20:00.000Z",
    "quelle": "Borussia"
-  },
-  {
-   "dach": "Offener Ganztag in Mönchengladbach",
-   "titel": "Kritik an OGS-Abholzeiten – „das ist doch aberwitzig“",
-   "zeit": "2026-11-21T16:17:00.000Z",
-   "quelle": "Mönchengladbach"
   },
   {
    "dach": "Vortrag von Polizeigewerkschafter in Mönchengladbach",
@@ -65,36 +95,6 @@
    "dach": "Erinnerungen an letztes BVB-Spiel",
    "titel": "Borussias hartes Programm ist kein Thema für Blessin und Co.",
    "zeit": "2026-11-21T08:44:00.000Z",
-   "quelle": "Borussia"
-  },
-  {
-   "dach": "21. und 22. November in Mönchengladbach",
-   "titel": "Live-Musik und die ersten Weihnachtsmärkte – die besten Tipps fürs Wochenende",
-   "zeit": "2026-11-21T06:27:00.000Z",
-   "quelle": "Mönchengladbach"
-  },
-  {
-   "dach": "Ein Festschmaus im Karton",
-   "titel": "Tafel Mönchengladbach bittet um Weihnachtsspenden für Bedürftige",
-   "zeit": "2026-11-21T04:22:00.000Z",
-   "quelle": "Mönchengladbach"
-  },
-  {
-   "dach": "Ausstellung in der Wallstraßengalerie Mönchengladbach",
-   "titel": "Still, aber komplex — Erinnerung an verstorbene Künstlerin Erika Grandt",
-   "zeit": "2026-11-21T04:19:00.000Z",
-   "quelle": "Mönchengladbach"
-  },
-  {
-   "dach": "Unerwartete Abgänge in Mennrath",
-   "titel": "„Meistens siehst du die richtigen Charaktere erst beim Misserfolg“",
-   "zeit": "2026-11-21T04:10:00.000Z",
-   "quelle": "Mönchengladbach"
-  },
-  {
-   "dach": "3-4-2-1 statt 4-2-3-1",
-   "titel": "Gladbachs System-Unwucht muss kein Problem sein",
-   "zeit": "2026-11-20T15:33:00.000Z",
    "quelle": "Borussia"
   }
  ]
