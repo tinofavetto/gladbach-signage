@@ -1,35 +1,83 @@
 {
- "stand": "2026-11-22T19:55:35.154Z",
+ "stand": "2026-11-23T14:18:22.225Z",
  "news": [
+  {
+   "dach": "„‚Waren oft das bessere Team“",
+   "titel": "Bei Viersen-Rahser zeigt die Formkurve deutlich nach oben",
+   "zeit": "2026-11-23T14:00:00.000Z",
+   "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "Kontrollen in Mönchengladbach",
+   "titel": "Lkw und Busse im Fokus der Polizei – Verstöße bei fast jeder zweiten Kontrolle",
+   "zeit": "2026-11-23T13:00:28.000Z",
+   "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "Ermittlungen in Mönchengladbach",
+   "titel": "Betrunken und berauscht – zwei Führerscheine nach Kontrollen sichergestellt",
+   "zeit": "2026-11-23T12:56:57.000Z",
+   "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "Einsatz in Mönchengladbach",
+   "titel": "Elektroleitungen brennen auf ehemaligem Betriebsgelände",
+   "zeit": "2026-11-23T12:29:04.000Z",
+   "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "Polizei Mönchengladbach sucht Zeugen",
+   "titel": "15-Jährige auf E-Bike mit Auto angefahren",
+   "zeit": "2026-11-23T12:15:32.000Z",
+   "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "„Christoph 3“ über Mönchengladbach",
+   "titel": "Rettungshubschrauber nach Haushaltsunfall angefordert",
+   "zeit": "2026-11-23T12:14:19.000Z",
+   "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "Verkehr in Mönchengladbach",
+   "titel": "„Wir wollen einen hellen und sicheren Tunnel schaffen“",
+   "zeit": "2026-11-23T11:11:00.000Z",
+   "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "Vortrag in Mönchengladbach",
+   "titel": "Christoph Butterwegge – Warum ein Einkommen nicht vor Armut schützt",
+   "zeit": "2026-11-23T11:00:00.000Z",
+   "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "„Habe mich extrem gut gefühlt“",
+   "titel": "Castrop ist zurück – das tut Gladbach gut",
+   "zeit": "2026-11-23T10:49:17.000Z",
+   "quelle": "Borussia"
+  },
+  {
+   "dach": "Nächste Ansetzungen in der Bundesliga fix",
+   "titel": "Gladbach spielt sonntags auf Schalke und am Samstagabend gegen Bayern",
+   "zeit": "2026-11-23T10:47:00.000Z",
+   "quelle": "Borussia"
+  },
+  {
+   "dach": "Zum Hinrundenende",
+   "titel": "„Dieses Mal nicht gut genug“ – Borussias Siegesserie reißt in Andernach",
+   "zeit": "2026-11-23T09:04:00.000Z",
+   "quelle": "Borussia"
+  },
+  {
+   "dach": "„Lehrreiche Zeit“ im Nationalteam",
+   "titel": "Mohya will den DFB-Schwung in Gladbach einbringen",
+   "zeit": "2026-11-23T05:12:00.000Z",
+   "quelle": "Borussia"
+  },
   {
    "dach": "„Erwartungen nicht erfüllt“",
    "titel": "Schröders Kritik an den Führungsspielern – er will im Transferwinter reagieren",
    "zeit": "2026-11-22T19:27:50.000Z",
    "quelle": "Borussia"
-  },
-  {
-   "dach": "Unmut am Tagebau Garzweiler",
-   "titel": "„Wir wollen Verlässlichkeit und wünschen uns einen Dialog“",
-   "zeit": "2026-11-22T17:14:00.000Z",
-   "quelle": "Mönchengladbach"
-  },
-  {
-   "dach": "Ein „Schweizer“ in Wickrath",
-   "titel": "Enrico Odermatt zum neuen Kreuzritter geschlagen",
-   "zeit": "2026-11-22T16:00:00.000Z",
-   "quelle": "Mönchengladbach"
-  },
-  {
-   "dach": "Am Schloss Wickrath in Mönchengladbach",
-   "titel": "Weihnachtsbummeln in barocker Atmosphäre",
-   "zeit": "2026-11-22T16:00:00.000Z",
-   "quelle": "Mönchengladbach"
-  },
-  {
-   "dach": "„Mord auf der Couch“ in Mönchengladbach",
-   "titel": "Eine packende Krimi-Reise vom Niederrhein bis nach Paris",
-   "zeit": "2026-11-22T16:00:00.000Z",
-   "quelle": "Mönchengladbach"
   },
   {
    "dach": "„Stand zuletzt häufiger in der Kritik“",
@@ -38,63 +86,15 @@
    "quelle": "Borussia"
   },
   {
-   "dach": "Offener Ganztag in Mönchengladbach",
-   "titel": "Kritik an OGS-Abholzeiten – „das ist doch aberwitzig“",
-   "zeit": "2026-11-22T13:16:00.000Z",
-   "quelle": "Mönchengladbach"
-  },
-  {
-   "dach": "Zwischen Liebe, Hass und Gegenwart",
-   "titel": "Wie ein junges Ensemble in Mönchengladbach „Romeo und Julia“ neu erzählt",
-   "zeit": "2026-11-22T12:22:41.000Z",
-   "quelle": "Mönchengladbach"
-  },
-  {
    "dach": "Gladbach im Abstiegskampf",
    "titel": "Die Wahrheit des BVB-Spiels ist gefährlich",
    "zeit": "2026-11-22T10:19:51.000Z",
    "quelle": "Borussia"
   },
   {
-   "dach": "Schon über 100 Gegentore",
-   "titel": "Das sind anfälligsten Defensiven des Fußballkreises",
-   "zeit": "2026-11-22T08:02:00.000Z",
-   "quelle": "Mönchengladbach"
-  },
-  {
    "dach": "Nummer eins Nicolas degradiert",
    "titel": "Trotz Batz-Patzer keine Torwart-Debatte in Gladbach",
    "zeit": "2026-11-22T07:24:00.000Z",
-   "quelle": "Borussia"
-  },
-  {
-   "dach": "Weißer Ring in Mönchengladbach",
-   "titel": "„Es nutzt nichts, wenn ich mitweine“",
-   "zeit": "2026-11-22T06:17:00.000Z",
-   "quelle": "Mönchengladbach"
-  },
-  {
-   "dach": "„Das geht nicht“",
-   "titel": "Gladbach mit Elfmeterfrust und Durchhalteansagen",
-   "zeit": "2026-11-21T19:19:00.000Z",
-   "quelle": "Borussia"
-  },
-  {
-   "dach": "Einzelkritik gegen Dortmund",
-   "titel": "Batz patzt, Chiarodia überzeugt, Uno bringt sich in Bedrängnis",
-   "zeit": "2026-11-21T17:04:00.000Z",
-   "quelle": "Borussia"
-  },
-  {
-   "dach": "Spätes Gegentor",
-   "titel": "Dortmund gewinnt das Borussen-Duell durch Bock von Batz",
-   "zeit": "2026-11-21T16:24:00.000Z",
-   "quelle": "Borussia"
-  },
-  {
-   "dach": "Liveticker zum Nachlesen",
-   "titel": "Borussia verliert gegen den BVB",
-   "zeit": "2026-11-21T16:20:00.000Z",
    "quelle": "Borussia"
   }
  ]
