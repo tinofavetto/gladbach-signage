@@ -1,52 +1,64 @@
 {
- "stand": "2026-11-23T14:18:22.225Z",
+ "stand": "2026-11-24T01:50:36.877Z",
  "news": [
+  {
+   "dach": "Prozess am Landgericht Mönchengladbach",
+   "titel": "33-Jähriger soll jüngeren Bruder misshandelt und Familie gedroht haben",
+   "zeit": "2026-11-23T16:33:00.000Z",
+   "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "In Mönchengladbach",
+   "titel": "Feuerwehrauto parkt seit sechs Monaten auf Parkplatz vor Gesamtschule",
+   "zeit": "2026-11-23T16:25:00.000Z",
+   "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "Weißer Ring in Mönchengladbach",
+   "titel": "„Die Opfer müssen um ihre Rechte wissen. Ohne anwaltliche Hilfe sind sie verlassen.“",
+   "zeit": "2026-11-23T16:20:00.000Z",
+   "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "Zwischen Liebe, Hass und Gegenwart",
+   "titel": "Wie ein junges Ensemble in Mönchengladbach „Romeo und Julia“ neu erzählt",
+   "zeit": "2026-11-23T16:15:00.000Z",
+   "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "Auszeichnungen durch den SSB",
+   "titel": "Ein Abend für die besten Seniorensportler Gladbachs",
+   "zeit": "2026-11-23T16:13:00.000Z",
+   "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "Neue Bestmarke gegen Dortmund",
+   "titel": "Zuschauerrekord für ein Gladbacher Heimspiel – mit einem kleinen „Aber“",
+   "zeit": "2026-11-23T15:53:00.000Z",
+   "quelle": "Borussia"
+  },
+  {
+   "dach": "Unmut am Tagebau Garzweiler",
+   "titel": "\"Man solle uns nicht im Stich lassen\"",
+   "zeit": "2026-11-23T14:36:00.000Z",
+   "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "OGS-Zeiten in Mönchengladbach",
+   "titel": "Abholzeiten sorgen für Ärger bei Eltern",
+   "zeit": "2026-11-23T14:19:00.000Z",
+   "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "Fohlenfutter-Podcast",
+   "titel": "Borussias BVB-Niederlage, die Bedeutung und der Blick auf Werder inklusive einer Torwartdebatte",
+   "zeit": "2026-11-23T14:09:00.000Z",
+   "quelle": "Borussia"
+  },
   {
    "dach": "„‚Waren oft das bessere Team“",
    "titel": "Bei Viersen-Rahser zeigt die Formkurve deutlich nach oben",
    "zeit": "2026-11-23T14:00:00.000Z",
-   "quelle": "Mönchengladbach"
-  },
-  {
-   "dach": "Kontrollen in Mönchengladbach",
-   "titel": "Lkw und Busse im Fokus der Polizei – Verstöße bei fast jeder zweiten Kontrolle",
-   "zeit": "2026-11-23T13:00:28.000Z",
-   "quelle": "Mönchengladbach"
-  },
-  {
-   "dach": "Ermittlungen in Mönchengladbach",
-   "titel": "Betrunken und berauscht – zwei Führerscheine nach Kontrollen sichergestellt",
-   "zeit": "2026-11-23T12:56:57.000Z",
-   "quelle": "Mönchengladbach"
-  },
-  {
-   "dach": "Einsatz in Mönchengladbach",
-   "titel": "Elektroleitungen brennen auf ehemaligem Betriebsgelände",
-   "zeit": "2026-11-23T12:29:04.000Z",
-   "quelle": "Mönchengladbach"
-  },
-  {
-   "dach": "Polizei Mönchengladbach sucht Zeugen",
-   "titel": "15-Jährige auf E-Bike mit Auto angefahren",
-   "zeit": "2026-11-23T12:15:32.000Z",
-   "quelle": "Mönchengladbach"
-  },
-  {
-   "dach": "„Christoph 3“ über Mönchengladbach",
-   "titel": "Rettungshubschrauber nach Haushaltsunfall angefordert",
-   "zeit": "2026-11-23T12:14:19.000Z",
-   "quelle": "Mönchengladbach"
-  },
-  {
-   "dach": "Verkehr in Mönchengladbach",
-   "titel": "„Wir wollen einen hellen und sicheren Tunnel schaffen“",
-   "zeit": "2026-11-23T11:11:00.000Z",
-   "quelle": "Mönchengladbach"
-  },
-  {
-   "dach": "Vortrag in Mönchengladbach",
-   "titel": "Christoph Butterwegge – Warum ein Einkommen nicht vor Armut schützt",
-   "zeit": "2026-11-23T11:00:00.000Z",
    "quelle": "Mönchengladbach"
   },
   {
@@ -83,18 +95,6 @@
    "dach": "„Stand zuletzt häufiger in der Kritik“",
    "titel": "Schröders Lob zeigt Entwicklung bei Chiarodia",
    "zeit": "2026-11-22T13:28:00.000Z",
-   "quelle": "Borussia"
-  },
-  {
-   "dach": "Gladbach im Abstiegskampf",
-   "titel": "Die Wahrheit des BVB-Spiels ist gefährlich",
-   "zeit": "2026-11-22T10:19:51.000Z",
-   "quelle": "Borussia"
-  },
-  {
-   "dach": "Nummer eins Nicolas degradiert",
-   "titel": "Trotz Batz-Patzer keine Torwart-Debatte in Gladbach",
-   "zeit": "2026-11-22T07:24:00.000Z",
    "quelle": "Borussia"
   }
  ]
