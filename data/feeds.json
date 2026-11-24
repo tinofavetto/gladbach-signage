@@ -1,10 +1,46 @@
 {
- "stand": "2026-11-24T14:42:53.922Z",
+ "stand": "2026-11-24T23:49:28.529Z",
  "news": [
   {
-   "dach": "Kurioser Einsatz in Mönchengladbach",
-   "titel": "Lkw steckt unter Eisenbahnbrücke fest – Zugverkehr fließt wieder",
-   "zeit": "2026-11-24T14:34:00.000Z",
+   "dach": "Kritik am Vorhaben in Mönchengladbach",
+   "titel": "Polizeieinsatz im Ratssaal – Protest gegen Abschiebegefängnis",
+   "zeit": "2026-11-24T18:13:49.000Z",
+   "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "Streit in Mönchengladbach",
+   "titel": "Falscher Telefondienst-Mitarbeiter schlägt Mann (70)",
+   "zeit": "2026-11-24T17:12:25.000Z",
+   "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "Prozess am Landgericht",
+   "titel": "„Mir fehlt jede Vorstellung, wie das gehen soll“",
+   "zeit": "2026-11-24T16:54:28.000Z",
+   "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "Heftiger Zusammenstoß in Mönchengladbach",
+   "titel": "Mitten in Wanlo – Auto überschlägt sich und bleibt auf Dach liegen",
+   "zeit": "2026-11-24T16:40:32.000Z",
+   "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "Einsatz in Mönchengladbach",
+   "titel": "Container auf Lkw kollidiert mit Eisenbahnbrücke – Sperrung",
+   "zeit": "2026-11-24T16:29:00.000Z",
+   "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "Chancen für Nguefack, Fleck und Danfa",
+   "titel": "Blessins Kaderoptionen wachsen – was wird aus Borussias Talenten?",
+   "zeit": "2026-11-24T16:17:00.000Z",
+   "quelle": "Borussia"
+  },
+  {
+   "dach": "Vorfall in Mönchengladbach",
+   "titel": "18-Jähriger flüchtet mit E-Scooter vor Polizeikontrolle",
+   "zeit": "2026-11-24T16:10:48.000Z",
    "quelle": "Mönchengladbach"
   },
   {
@@ -30,36 +66,6 @@
    "titel": "Präsidium und Aufsichtsrat – so laufen die Wahlen",
    "zeit": "2026-11-24T09:24:14.000Z",
    "quelle": "Borussia"
-  },
-  {
-   "dach": "Mönchengladbach und Viersen",
-   "titel": "So funktioniert der Abstieg aus der Bezirksliga",
-   "zeit": "2026-11-24T09:00:00.000Z",
-   "quelle": "Mönchengladbach"
-  },
-  {
-   "dach": "In Mönchengladbach",
-   "titel": "Feuerwehrauto parkt seit sechs Monaten auf Parkplatz vor Gesamtschule",
-   "zeit": "2026-11-24T08:42:00.000Z",
-   "quelle": "Mönchengladbach"
-  },
-  {
-   "dach": "Wohnungsbau in Mönchengladbach",
-   "titel": "Anwohner wehren sich gegen Bauturbo-Projekt – „Wir wurden übergangen“",
-   "zeit": "2026-11-24T05:17:00.000Z",
-   "quelle": "Mönchengladbach"
-  },
-  {
-   "dach": "„Sie stellen sich der kollektiven Verantwortung“",
-   "titel": "Niklas Dorendorf mit Stifungspreis des Huma ausgezeichnet",
-   "zeit": "2026-11-24T04:22:00.000Z",
-   "quelle": "Mönchengladbach"
-  },
-  {
-   "dach": "Wirtschaft in Mönchengladbach",
-   "titel": "Moderne Textilien im Mittelpunkt der „TexTech Start-up Night“",
-   "zeit": "2026-11-24T04:19:00.000Z",
-   "quelle": "Mönchengladbach"
   },
   {
    "dach": "Neue Bestmarke gegen Dortmund",
@@ -89,12 +95,6 @@
    "dach": "Zum Hinrundenende",
    "titel": "„Dieses Mal nicht gut genug“ – Borussias Siegesserie reißt in Andernach",
    "zeit": "2026-11-23T09:04:00.000Z",
-   "quelle": "Borussia"
-  },
-  {
-   "dach": "„Lehrreiche Zeit“ im Nationalteam",
-   "titel": "Mohya will den DFB-Schwung in Gladbach einbringen",
-   "zeit": "2026-11-23T05:12:00.000Z",
    "quelle": "Borussia"
   }
  ]
