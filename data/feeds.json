@@ -1,34 +1,64 @@
 {
- "stand": "2026-11-24T01:50:36.877Z",
+ "stand": "2026-11-24T14:42:53.922Z",
  "news": [
   {
-   "dach": "Prozess am Landgericht Mönchengladbach",
-   "titel": "33-Jähriger soll jüngeren Bruder misshandelt und Familie gedroht haben",
-   "zeit": "2026-11-23T16:33:00.000Z",
+   "dach": "Kurioser Einsatz in Mönchengladbach",
+   "titel": "Lkw steckt unter Eisenbahnbrücke fest – Zugverkehr fließt wieder",
+   "zeit": "2026-11-24T14:34:00.000Z",
+   "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "Indoor-Trendsportart",
+   "titel": "Padel in Mönchengladbach und Viersen – alles Wichtige zu Plätzen und Preisen",
+   "zeit": "2026-11-24T14:05:00.000Z",
+   "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "Erstes Training vor Bremen",
+   "titel": "Kleindienst und Bolin sind zurück – Jetzt macht ein anderer Angreifer Sorgen",
+   "zeit": "2026-11-24T12:47:16.000Z",
+   "quelle": "Borussia"
+  },
+  {
+   "dach": "Vier Wochen Verzug in Mönchengladbach",
+   "titel": "Warum sich der Abriss des Rathauses in Rheydt verzögert",
+   "zeit": "2026-11-24T11:00:00.000Z",
+   "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "Gladbachs Gremien könnten sich verändern",
+   "titel": "Präsidium und Aufsichtsrat – so laufen die Wahlen",
+   "zeit": "2026-11-24T09:24:14.000Z",
+   "quelle": "Borussia"
+  },
+  {
+   "dach": "Mönchengladbach und Viersen",
+   "titel": "So funktioniert der Abstieg aus der Bezirksliga",
+   "zeit": "2026-11-24T09:00:00.000Z",
    "quelle": "Mönchengladbach"
   },
   {
    "dach": "In Mönchengladbach",
    "titel": "Feuerwehrauto parkt seit sechs Monaten auf Parkplatz vor Gesamtschule",
-   "zeit": "2026-11-23T16:25:00.000Z",
+   "zeit": "2026-11-24T08:42:00.000Z",
    "quelle": "Mönchengladbach"
   },
   {
-   "dach": "Weißer Ring in Mönchengladbach",
-   "titel": "„Die Opfer müssen um ihre Rechte wissen. Ohne anwaltliche Hilfe sind sie verlassen.“",
-   "zeit": "2026-11-23T16:20:00.000Z",
+   "dach": "Wohnungsbau in Mönchengladbach",
+   "titel": "Anwohner wehren sich gegen Bauturbo-Projekt – „Wir wurden übergangen“",
+   "zeit": "2026-11-24T05:17:00.000Z",
    "quelle": "Mönchengladbach"
   },
   {
-   "dach": "Zwischen Liebe, Hass und Gegenwart",
-   "titel": "Wie ein junges Ensemble in Mönchengladbach „Romeo und Julia“ neu erzählt",
-   "zeit": "2026-11-23T16:15:00.000Z",
+   "dach": "„Sie stellen sich der kollektiven Verantwortung“",
+   "titel": "Niklas Dorendorf mit Stifungspreis des Huma ausgezeichnet",
+   "zeit": "2026-11-24T04:22:00.000Z",
    "quelle": "Mönchengladbach"
   },
   {
-   "dach": "Auszeichnungen durch den SSB",
-   "titel": "Ein Abend für die besten Seniorensportler Gladbachs",
-   "zeit": "2026-11-23T16:13:00.000Z",
+   "dach": "Wirtschaft in Mönchengladbach",
+   "titel": "Moderne Textilien im Mittelpunkt der „TexTech Start-up Night“",
+   "zeit": "2026-11-24T04:19:00.000Z",
    "quelle": "Mönchengladbach"
   },
   {
@@ -38,28 +68,10 @@
    "quelle": "Borussia"
   },
   {
-   "dach": "Unmut am Tagebau Garzweiler",
-   "titel": "\"Man solle uns nicht im Stich lassen\"",
-   "zeit": "2026-11-23T14:36:00.000Z",
-   "quelle": "Mönchengladbach"
-  },
-  {
-   "dach": "OGS-Zeiten in Mönchengladbach",
-   "titel": "Abholzeiten sorgen für Ärger bei Eltern",
-   "zeit": "2026-11-23T14:19:00.000Z",
-   "quelle": "Mönchengladbach"
-  },
-  {
    "dach": "Fohlenfutter-Podcast",
    "titel": "Borussias BVB-Niederlage, die Bedeutung und der Blick auf Werder inklusive einer Torwartdebatte",
    "zeit": "2026-11-23T14:09:00.000Z",
    "quelle": "Borussia"
-  },
-  {
-   "dach": "„‚Waren oft das bessere Team“",
-   "titel": "Bei Viersen-Rahser zeigt die Formkurve deutlich nach oben",
-   "zeit": "2026-11-23T14:00:00.000Z",
-   "quelle": "Mönchengladbach"
   },
   {
    "dach": "„Habe mich extrem gut gefühlt“",
@@ -83,18 +95,6 @@
    "dach": "„Lehrreiche Zeit“ im Nationalteam",
    "titel": "Mohya will den DFB-Schwung in Gladbach einbringen",
    "zeit": "2026-11-23T05:12:00.000Z",
-   "quelle": "Borussia"
-  },
-  {
-   "dach": "„Erwartungen nicht erfüllt“",
-   "titel": "Schröders Kritik an den Führungsspielern – er will im Transferwinter reagieren",
-   "zeit": "2026-11-22T19:27:50.000Z",
-   "quelle": "Borussia"
-  },
-  {
-   "dach": "„Stand zuletzt häufiger in der Kritik“",
-   "titel": "Schröders Lob zeigt Entwicklung bei Chiarodia",
-   "zeit": "2026-11-22T13:28:00.000Z",
    "quelle": "Borussia"
   }
  ]
