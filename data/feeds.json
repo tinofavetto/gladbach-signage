@@ -1,34 +1,70 @@
 {
- "stand": "2026-11-24T23:49:28.529Z",
+ "stand": "2026-11-25T14:05:06.973Z",
  "news": [
   {
-   "dach": "Kritik am Vorhaben in Mönchengladbach",
-   "titel": "Polizeieinsatz im Ratssaal – Protest gegen Abschiebegefängnis",
-   "zeit": "2026-11-24T18:13:49.000Z",
+   "dach": "Mutmaßlicher Diebstahl in Mönchengladbach",
+   "titel": "49-Jährige greift Supermarkt-Mitarbeiter an",
+   "zeit": "2026-11-25T13:19:12.000Z",
    "quelle": "Mönchengladbach"
   },
   {
-   "dach": "Streit in Mönchengladbach",
-   "titel": "Falscher Telefondienst-Mitarbeiter schlägt Mann (70)",
-   "zeit": "2026-11-24T17:12:25.000Z",
+   "dach": "Freitag ab 20.30 Uhr",
+   "titel": "Borussia gastiert beim SV Werder Bremen – Liveticker zum Spiel",
+   "zeit": "2026-11-25T12:56:00.000Z",
+   "quelle": "Borussia"
+  },
+  {
+   "dach": "Vorfall in Mönchengladbach",
+   "titel": "Unfall bei Überholmanöver – Polizei sucht Fahrer von rotem SUV",
+   "zeit": "2026-11-25T12:40:43.000Z",
    "quelle": "Mönchengladbach"
   },
   {
-   "dach": "Prozess am Landgericht",
-   "titel": "„Mir fehlt jede Vorstellung, wie das gehen soll“",
-   "zeit": "2026-11-24T16:54:28.000Z",
+   "dach": "Diebstahl in Mönchengladbach",
+   "titel": "Gestohlene Spendenbox – Monro Ranch fürchtet Betrugsfall",
+   "zeit": "2026-11-25T12:35:36.000Z",
    "quelle": "Mönchengladbach"
   },
   {
-   "dach": "Heftiger Zusammenstoß in Mönchengladbach",
-   "titel": "Mitten in Wanlo – Auto überschlägt sich und bleibt auf Dach liegen",
-   "zeit": "2026-11-24T16:40:32.000Z",
+   "dach": "„Zieht entsprechende Ausfallzeit nach sich“",
+   "titel": "Tabakovic, Reyna und Cvancara in Torlaune – zwei werden nun ausgebremst",
+   "zeit": "2026-11-25T11:29:44.000Z",
+   "quelle": "Borussia"
+  },
+  {
+   "dach": "Climate Fiction in Mönchengladbach gesucht",
+   "titel": "Schreiben über Dürren und Überflutungen – Junior Uni unterstützt europäischen Schreibwettbewerb",
+   "zeit": "2026-11-25T11:00:00.000Z",
+   "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "Vor Derby gegen Lürrip",
+   "titel": "Verletzungspech trübt Geistenbecks Neustart in der Verbandsliga",
+   "zeit": "2026-11-25T10:35:00.000Z",
    "quelle": "Mönchengladbach"
   },
   {
    "dach": "Einsatz in Mönchengladbach",
-   "titel": "Container auf Lkw kollidiert mit Eisenbahnbrücke – Sperrung",
-   "zeit": "2026-11-24T16:29:00.000Z",
+   "titel": "Container auf Lkw kollidiert mit Eisenbahnbrücke – Sperrung auch am Mittwoch",
+   "zeit": "2026-11-25T09:28:00.000Z",
+   "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "Beleuchtete Traktoren",
+   "titel": "Diese Lichterfahrten stehen in Mönchengladbach an",
+   "zeit": "2026-11-25T05:17:00.000Z",
+   "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "„Ich verweise auf Bremen“",
+   "titel": "Gladbach hätte sich eine Füllkrug-Story gewünscht",
+   "zeit": "2026-11-25T05:02:00.000Z",
+   "quelle": "Borussia"
+  },
+  {
+   "dach": "Wärmewende in Mönchengladbach",
+   "titel": "Innovationen für die Stadt-Wärmewende neu gedacht",
+   "zeit": "2026-11-25T04:19:00.000Z",
    "quelle": "Mönchengladbach"
   },
   {
@@ -38,28 +74,10 @@
    "quelle": "Borussia"
   },
   {
-   "dach": "Vorfall in Mönchengladbach",
-   "titel": "18-Jähriger flüchtet mit E-Scooter vor Polizeikontrolle",
-   "zeit": "2026-11-24T16:10:48.000Z",
-   "quelle": "Mönchengladbach"
-  },
-  {
-   "dach": "Indoor-Trendsportart",
-   "titel": "Padel in Mönchengladbach und Viersen – alles Wichtige zu Plätzen und Preisen",
-   "zeit": "2026-11-24T14:05:00.000Z",
-   "quelle": "Mönchengladbach"
-  },
-  {
    "dach": "Erstes Training vor Bremen",
    "titel": "Kleindienst und Bolin sind zurück – Jetzt macht ein anderer Angreifer Sorgen",
    "zeit": "2026-11-24T12:47:16.000Z",
    "quelle": "Borussia"
-  },
-  {
-   "dach": "Vier Wochen Verzug in Mönchengladbach",
-   "titel": "Warum sich der Abriss des Rathauses in Rheydt verzögert",
-   "zeit": "2026-11-24T11:00:00.000Z",
-   "quelle": "Mönchengladbach"
   },
   {
    "dach": "Gladbachs Gremien könnten sich verändern",
@@ -77,24 +95,6 @@
    "dach": "Fohlenfutter-Podcast",
    "titel": "Borussias BVB-Niederlage, die Bedeutung und der Blick auf Werder inklusive einer Torwartdebatte",
    "zeit": "2026-11-23T14:09:00.000Z",
-   "quelle": "Borussia"
-  },
-  {
-   "dach": "„Habe mich extrem gut gefühlt“",
-   "titel": "Castrop ist zurück – das tut Gladbach gut",
-   "zeit": "2026-11-23T10:49:17.000Z",
-   "quelle": "Borussia"
-  },
-  {
-   "dach": "Nächste Ansetzungen in der Bundesliga fix",
-   "titel": "Gladbach spielt sonntags auf Schalke und am Samstagabend gegen Bayern",
-   "zeit": "2026-11-23T10:47:00.000Z",
-   "quelle": "Borussia"
-  },
-  {
-   "dach": "Zum Hinrundenende",
-   "titel": "„Dieses Mal nicht gut genug“ – Borussias Siegesserie reißt in Andernach",
-   "zeit": "2026-11-23T09:04:00.000Z",
    "quelle": "Borussia"
   }
  ]
