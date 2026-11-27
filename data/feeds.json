@@ -1,53 +1,89 @@
 {
- "stand": "2026-11-27T13:40:13.041Z",
+ "stand": "2026-11-27T22:36:31.965Z",
  "news": [
   {
-   "dach": "„Homenatge/I am Clown“ am Theater Mönchengladbach",
-   "titel": "Sie lachen, sind ernst und fallen aus der Rolle",
-   "zeit": "2026-11-27T13:11:00.000Z",
-   "quelle": "Mönchengladbach"
-  },
-  {
-   "dach": "In Mönchengladbacher Viertel",
-   "titel": "„Wir sind entsetzt“ – dieses Graffiti taucht plötzlich überall auf",
-   "zeit": "2026-11-27T12:46:28.000Z",
-   "quelle": "Mönchengladbach"
-  },
-  {
-   "dach": "Defekt an Lkw in Mönchengladbach",
-   "titel": "Einsatzkräfte stoppen Ausbreitung von Getriebeöl",
-   "zeit": "2026-11-27T12:25:19.000Z",
-   "quelle": "Mönchengladbach"
-  },
-  {
-   "dach": "28. und 29. November in Mönchengladbach",
-   "titel": "Comedy und Weihnachtsmärkte – die besten Tipps fürs Wochenende",
-   "zeit": "2026-11-27T12:07:00.000Z",
-   "quelle": "Mönchengladbach"
-  },
-  {
-   "dach": "Freitag ab 20.30 Uhr",
-   "titel": "Borussia gastiert beim SV Werder Bremen – Liveticker zum Spiel",
-   "zeit": "2026-11-27T11:46:00.000Z",
+   "dach": "3:1-Führung verspielt beim 3:3",
+   "titel": "Honorat-Doppelpack reicht Gladbach nicht zum Sieg in Bremen",
+   "zeit": "2026-11-27T22:00:00.000Z",
    "quelle": "Borussia"
   },
   {
-   "dach": "Kolumne Denkanstoß",
-   "titel": "Wir verlernen das Warten-Können",
-   "zeit": "2026-11-27T11:02:00.000Z",
+   "dach": "Borussia-Noten in Bremen",
+   "titel": "Sanders Missgeschick folgt auf die Honorat-Gala",
+   "zeit": "2026-11-27T21:42:56.000Z",
+   "quelle": "Borussia"
+  },
+  {
+   "dach": "Liveticker zum Nachlesen",
+   "titel": "Schluss in Bremen – Borussia gibt eine 1:3-Führung noch aus der Hand",
+   "zeit": "2026-11-27T21:29:00.000Z",
+   "quelle": "Borussia"
+  },
+  {
+   "dach": "„Ehrlicher Schlagabtausch“",
+   "titel": "Bonhof hält sich bedeckt zum Stegemann-Aus und berichtet von Gespräch mit den Fans",
+   "zeit": "2026-11-27T20:07:42.000Z",
+   "quelle": "Borussia"
+  },
+  {
+   "dach": "Vorweihnachtszeit in Mönchengladbach",
+   "titel": "„Winterlichter“ lassen Schloss Rheydt leuchten",
+   "zeit": "2026-11-27T19:33:28.000Z",
    "quelle": "Mönchengladbach"
   },
   {
-   "dach": "Gelände in Mönchengladbach",
-   "titel": "Alter Friedhof in Lürrip wird zum Park umgebaut",
-   "zeit": "2026-11-27T11:00:00.000Z",
+   "dach": "Mönchengladbacher Probe für den Ernstfall",
+   "titel": "Feuerwehr übt Brand im Hardter Wald mit Drohne",
+   "zeit": "2026-11-27T18:03:57.000Z",
    "quelle": "Mönchengladbach"
   },
   {
-   "dach": "Cannabis Social Club in Mönchengladbach",
-   "titel": "Zwischen Droge und Genuss",
-   "zeit": "2026-11-27T11:00:00.000Z",
+   "dach": "Lesung in Mönchengladbach",
+   "titel": "„Es kann jede Frau treffen“ – Maike Möller-Engemann stellt Krimi über Femizide vor",
+   "zeit": "2026-11-27T17:46:58.000Z",
    "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "Auf Viersener Straße in Mönchengladbach",
+   "titel": "Polizei sucht Hinweise zu Rollerunfall eines 15-Jährigen",
+   "zeit": "2026-11-27T17:11:34.000Z",
+   "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "Auto stand an Schule in Mönchengladbach",
+   "titel": "Falschparker verletzt bei Flucht zwei Mitarbeiter von Abschleppfirma",
+   "zeit": "2026-11-27T17:07:17.000Z",
+   "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "Nach der Trennung von Stefan Stegemann",
+   "titel": "So geht es weiter mit Borussias Chefetage",
+   "zeit": "2026-11-27T17:05:06.000Z",
+   "quelle": "Borussia"
+  },
+  {
+   "dach": "Discounter geht",
+   "titel": "Aldi Süd am Rheydter Marktplatz schließt noch vor Weihnachten",
+   "zeit": "2026-11-27T16:15:00.000Z",
+   "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "Brauchtum in Mönchengladbach",
+   "titel": "Yüksel wird 30. Trägerin des Ordens „Doctor humoris causa carnevalensis“",
+   "zeit": "2026-11-27T16:01:00.000Z",
+   "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "Nachruf in Mönchengladbach",
+   "titel": "Rheydter Prinzengarde trauert um Uschi Beines",
+   "zeit": "2026-11-27T16:00:00.000Z",
+   "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "„Zu meinem Zuhause geworden“",
+   "titel": "Mohya spricht über einen wahrgewordenen Traum und die Herausforderung Abstiegskampf",
+   "zeit": "2026-11-27T14:56:06.000Z",
+   "quelle": "Borussia"
   },
   {
    "dach": "„Das beeindruckt mich“",
@@ -56,45 +92,9 @@
    "quelle": "Borussia"
   },
   {
-   "dach": "Mode-Riese geht",
-   "titel": "Wann „P&C“ in Mönchengladbach zum letzten Mal öffnet",
-   "zeit": "2026-11-27T09:54:00.000Z",
-   "quelle": "Mönchengladbach"
-  },
-  {
    "dach": "Großes Beben in Gladbach",
    "titel": "Die wichtigsten Fragen und Antworten zur Stegemann-Entlassung",
    "zeit": "2026-11-27T08:07:00.000Z",
-   "quelle": "Borussia"
-  },
-  {
-   "dach": "Bei Scally-Abgang",
-   "titel": "Wird Honorat zu Gladbachs „Jolly“-Alternative?",
-   "zeit": "2026-11-27T05:13:00.000Z",
-   "quelle": "Borussia"
-  },
-  {
-   "dach": "„Zehn Minuten reinwerfen“",
-   "titel": "Gladbach-Trainer Blessin hofft bei Kleindienst und ordnet Itakuras Situation ein",
-   "zeit": "2026-11-26T14:51:52.000Z",
-   "quelle": "Borussia"
-  },
-  {
-   "dach": "Mit sofortiger Wirkung",
-   "titel": "Borussia beurlaubt CEO Stefan Stegemann",
-   "zeit": "2026-11-26T12:26:00.000Z",
-   "quelle": "Borussia"
-  },
-  {
-   "dach": "Zweimal Gladbachs Held in Bremen",
-   "titel": "Ex-Borusse Plea kämpft wie Kleindienst um die dauerhafte Rückkehr",
-   "zeit": "2026-11-26T05:11:00.000Z",
-   "quelle": "Borussia"
-  },
-  {
-   "dach": "Seit Einführung der Drei-Punkte-Regel",
-   "titel": "So liefen Borussias härteste Spielzeiten im Abstiegskampf",
-   "zeit": "2026-11-25T16:01:00.000Z",
    "quelle": "Borussia"
   }
  ]
