@@ -1,16 +1,88 @@
 {
- "stand": "2026-11-27T22:36:31.965Z",
+ "stand": "2026-11-28T12:50:31.535Z",
  "news": [
   {
-   "dach": "3:1-Führung verspielt beim 3:3",
-   "titel": "Honorat-Doppelpack reicht Gladbach nicht zum Sieg in Bremen",
-   "zeit": "2026-11-27T22:00:00.000Z",
+   "dach": "Bruch im Spiel",
+   "titel": "Blessins Wechsel in Bremen gehen nach hinten los",
+   "zeit": "2026-11-28T12:02:00.000Z",
    "quelle": "Borussia"
+  },
+  {
+   "dach": "Kolumne Mensch Gladbach",
+   "titel": "Wenn der Stadt ein Licht aufgeht",
+   "zeit": "2026-11-28T11:00:00.000Z",
+   "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "Mode-Riese geht",
+   "titel": "Wann „P&C“ in Mönchengladbach zum letzten Mal öffnet",
+   "zeit": "2026-11-28T10:12:00.000Z",
+   "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "Cannabis Social Club in Mönchengladbach",
+   "titel": "„Auf dem Schwarzmarkt wird Cannabis teilweise mit Haarspray gestreckt“",
+   "zeit": "2026-11-28T10:04:00.000Z",
+   "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "Discounter geht",
+   "titel": "Aldi Süd am Rheydter Marktplatz schließt noch vor Weihnachten",
+   "zeit": "2026-11-28T09:35:00.000Z",
+   "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "Trainer Wiegers und Co.",
+   "titel": "Kaldenkirchens großer Einfluss bei den Erfolgen von Krefeld-Fischeln",
+   "zeit": "2026-11-28T09:00:00.000Z",
+   "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "Nach der Stegemann-Trennung",
+   "titel": "Wird Schröder befördert? So geht es weiter mit Borussias Chefetage",
+   "zeit": "2026-11-28T08:51:00.000Z",
+   "quelle": "Borussia"
+  },
+  {
+   "dach": "Vorweihnachtszeit in Mönchengladbach",
+   "titel": "„Winterlichter“ lassen Schloss Rheydt leuchten",
+   "zeit": "2026-11-28T08:32:00.000Z",
+   "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "„Das müssen wir mitnehmen“",
+   "titel": "Blessins gemischte Gefühlswelt nach den späten Gegentoren in Bremen",
+   "zeit": "2026-11-28T07:37:00.000Z",
+   "quelle": "Borussia"
+  },
+  {
+   "dach": "28. und 29. November in Mönchengladbach",
+   "titel": "Comedy und Weihnachtsmärkte – die besten Tipps fürs Wochenende",
+   "zeit": "2026-11-28T06:28:00.000Z",
+   "quelle": "Mönchengladbach"
+  },
+  {
+   "dach": "Albertuskirche in Mönchengladbach",
+   "titel": "Lokalpolitik diskutiert über Tagestreff für Obdachlose – und sich selbst",
+   "zeit": "2026-11-28T05:17:00.000Z",
+   "quelle": "Mönchengladbach"
   },
   {
    "dach": "Borussia-Noten in Bremen",
    "titel": "Sanders Missgeschick folgt auf die Honorat-Gala",
-   "zeit": "2026-11-27T21:42:56.000Z",
+   "zeit": "2026-11-28T00:44:00.000Z",
+   "quelle": "Borussia"
+  },
+  {
+   "dach": "„Waren die bessere Mannschaft“",
+   "titel": "Moyha spricht über seine Enttäuschung nach dem 3:3",
+   "zeit": "2026-11-27T23:15:58.000Z",
+   "quelle": "Borussia"
+  },
+  {
+   "dach": "3:1-Führung verspielt beim 3:3",
+   "titel": "Honorat-Doppelpack reicht Gladbach nicht zum Sieg in Bremen",
+   "zeit": "2026-11-27T22:00:00.000Z",
    "quelle": "Borussia"
   },
   {
@@ -23,78 +95,6 @@
    "dach": "„Ehrlicher Schlagabtausch“",
    "titel": "Bonhof hält sich bedeckt zum Stegemann-Aus und berichtet von Gespräch mit den Fans",
    "zeit": "2026-11-27T20:07:42.000Z",
-   "quelle": "Borussia"
-  },
-  {
-   "dach": "Vorweihnachtszeit in Mönchengladbach",
-   "titel": "„Winterlichter“ lassen Schloss Rheydt leuchten",
-   "zeit": "2026-11-27T19:33:28.000Z",
-   "quelle": "Mönchengladbach"
-  },
-  {
-   "dach": "Mönchengladbacher Probe für den Ernstfall",
-   "titel": "Feuerwehr übt Brand im Hardter Wald mit Drohne",
-   "zeit": "2026-11-27T18:03:57.000Z",
-   "quelle": "Mönchengladbach"
-  },
-  {
-   "dach": "Lesung in Mönchengladbach",
-   "titel": "„Es kann jede Frau treffen“ – Maike Möller-Engemann stellt Krimi über Femizide vor",
-   "zeit": "2026-11-27T17:46:58.000Z",
-   "quelle": "Mönchengladbach"
-  },
-  {
-   "dach": "Auf Viersener Straße in Mönchengladbach",
-   "titel": "Polizei sucht Hinweise zu Rollerunfall eines 15-Jährigen",
-   "zeit": "2026-11-27T17:11:34.000Z",
-   "quelle": "Mönchengladbach"
-  },
-  {
-   "dach": "Auto stand an Schule in Mönchengladbach",
-   "titel": "Falschparker verletzt bei Flucht zwei Mitarbeiter von Abschleppfirma",
-   "zeit": "2026-11-27T17:07:17.000Z",
-   "quelle": "Mönchengladbach"
-  },
-  {
-   "dach": "Nach der Trennung von Stefan Stegemann",
-   "titel": "So geht es weiter mit Borussias Chefetage",
-   "zeit": "2026-11-27T17:05:06.000Z",
-   "quelle": "Borussia"
-  },
-  {
-   "dach": "Discounter geht",
-   "titel": "Aldi Süd am Rheydter Marktplatz schließt noch vor Weihnachten",
-   "zeit": "2026-11-27T16:15:00.000Z",
-   "quelle": "Mönchengladbach"
-  },
-  {
-   "dach": "Brauchtum in Mönchengladbach",
-   "titel": "Yüksel wird 30. Trägerin des Ordens „Doctor humoris causa carnevalensis“",
-   "zeit": "2026-11-27T16:01:00.000Z",
-   "quelle": "Mönchengladbach"
-  },
-  {
-   "dach": "Nachruf in Mönchengladbach",
-   "titel": "Rheydter Prinzengarde trauert um Uschi Beines",
-   "zeit": "2026-11-27T16:00:00.000Z",
-   "quelle": "Mönchengladbach"
-  },
-  {
-   "dach": "„Zu meinem Zuhause geworden“",
-   "titel": "Mohya spricht über einen wahrgewordenen Traum und die Herausforderung Abstiegskampf",
-   "zeit": "2026-11-27T14:56:06.000Z",
-   "quelle": "Borussia"
-  },
-  {
-   "dach": "„Das beeindruckt mich“",
-   "titel": "Enache zieht Hinrunden-Bilanz der U23 und lobt Borussias Nachwuchs",
-   "zeit": "2026-11-27T10:07:51.000Z",
-   "quelle": "Borussia"
-  },
-  {
-   "dach": "Großes Beben in Gladbach",
-   "titel": "Die wichtigsten Fragen und Antworten zur Stegemann-Entlassung",
-   "zeit": "2026-11-27T08:07:00.000Z",
    "quelle": "Borussia"
   }
  ]
